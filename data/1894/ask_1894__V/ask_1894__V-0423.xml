@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_shubbgm5_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1104" HEIGHT="1804" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1104" HEIGHT="1804">
+				<GraphicalElement ID="cblock_0" HPOS="718" VPOS="24" WIDTH="317" HEIGHT="5"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="350" VPOS="775" WIDTH="531" HEIGHT="6"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="364" VPOS="791" WIDTH="496" HEIGHT="19">
+					<TextBlock ID="block_0" HPOS="364" VPOS="791" WIDTH="496" HEIGHT="19">
+						<TextLine ID="line_0" HPOS="364" VPOS="791" WIDTH="496" HEIGHT="19">
+							<String ID="string_0" HPOS="364" VPOS="791" WIDTH="96" HEIGHT="17" WC="0.39" CONTENT="Helsingissä,"/><SP WIDTH="11" VPOS="791" HPOS="460"/>
+							<String ID="string_1" HPOS="471" VPOS="791" WIDTH="12" HEIGHT="14" WC="0.91" CONTENT="J."/><SP WIDTH="12" VPOS="791" HPOS="483"/>
+							<String ID="string_2" HPOS="495" VPOS="792" WIDTH="14" HEIGHT="13" WC="0.74" CONTENT="C."/><SP WIDTH="11" VPOS="792" HPOS="509"/>
+							<String ID="string_3" HPOS="520" VPOS="792" WIDTH="96" HEIGHT="14" WC="0.90" CONTENT="Frenckell&#39;in"/><SP WIDTH="8" VPOS="792" HPOS="616"/>
+							<String ID="string_4" HPOS="624" VPOS="792" WIDTH="16" HEIGHT="18" WC="0.96" CONTENT="ja"/><SP WIDTH="9" VPOS="792" HPOS="640"/>
+							<String ID="string_5" HPOS="649" VPOS="793" WIDTH="45" HEIGHT="17" WC="0.97" CONTENT="Pojan"/><SP WIDTH="10" VPOS="793" HPOS="694"/>
+							<String ID="string_6" HPOS="704" VPOS="793" WIDTH="109" HEIGHT="17" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="10" VPOS="793" HPOS="813"/>
+							<String ID="string_7" HPOS="823" VPOS="796" WIDTH="37" HEIGHT="12" WC="0.96" CONTENT="1894."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="349" VPOS="821" WIDTH="468" HEIGHT="5"></GraphicalElement >
+				<Illustration ID="cblock_4" HPOS="340" VPOS="1776" WIDTH="182" HEIGHT="9"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
