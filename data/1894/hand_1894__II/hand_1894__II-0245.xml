@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_4868ooac_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1123" HEIGHT="1781" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1123" HEIGHT="1781">
+				<GraphicalElement ID="cblock_0" HPOS="330" VPOS="802" WIDTH="547" HEIGHT="1"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="364" VPOS="816" WIDTH="477" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="364" VPOS="816" WIDTH="477" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="364" VPOS="816" WIDTH="477" HEIGHT="24">
+							<String ID="string_0" HPOS="364" VPOS="816" WIDTH="115" HEIGHT="23" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="13" VPOS="816" HPOS="479"/>
+							<String ID="string_1" HPOS="492" VPOS="817" WIDTH="109" HEIGHT="23" WC="0.93" CONTENT="Helsingfors"/><SP WIDTH="12" VPOS="817" HPOS="601"/>
+							<String ID="string_2" HPOS="613" VPOS="816" WIDTH="166" HEIGHT="23" WC="0.91" CONTENT="Central-Tryckeri,"/><SP WIDTH="14" VPOS="816" HPOS="779"/>
+							<String ID="string_3" HPOS="793" VPOS="817" WIDTH="48" HEIGHT="17" WC="0.96" CONTENT="1894."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="331" VPOS="847" WIDTH="546" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="1121" VPOS="0" WIDTH="2" HEIGHT="330"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

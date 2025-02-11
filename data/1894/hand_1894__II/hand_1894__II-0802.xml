@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0pem16h9_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1100" HEIGHT="1784" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1100" HEIGHT="1784">
+				<ComposedBlock ID="cblock_0" HPOS="213" VPOS="480" WIDTH="594" HEIGHT="72">
+					<TextBlock ID="block_0" HPOS="213" VPOS="480" WIDTH="594" HEIGHT="72">
+						<TextLine ID="line_0" HPOS="213" VPOS="480" WIDTH="594" HEIGHT="72">
+							<String ID="string_0" HPOS="213" VPOS="480" WIDTH="237" HEIGHT="57" WC="0.93" CONTENT="Finlands"/><SP WIDTH="28" VPOS="480" HPOS="450"/>
+							<String ID="string_1" HPOS="478" VPOS="481" WIDTH="329" HEIGHT="71" WC="0.91" CONTENT="Statsbudget"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="151" VPOS="638" WIDTH="705" HEIGHT="122">
+					<TextBlock ID="block_1" HPOS="151" VPOS="638" WIDTH="705" HEIGHT="122">
+						<TextLine ID="line_1" HPOS="151" VPOS="638" WIDTH="705" HEIGHT="36">
+							<String ID="string_2" HPOS="151" VPOS="638" WIDTH="183" HEIGHT="29" WC="0.92" CONTENT="sammanstäld"/><SP WIDTH="19" VPOS="638" HPOS="334"/>
+							<String ID="string_3" HPOS="353" VPOS="638" WIDTH="43" HEIGHT="28" WC="0.96" CONTENT="till"/><SP WIDTH="19" VPOS="638" HPOS="396"/>
+							<String ID="string_4" HPOS="415" VPOS="641" WIDTH="35" HEIGHT="26" WC="0.96" CONTENT="ett"/><SP WIDTH="22" VPOS="641" HPOS="450"/>
+							<String ID="string_5" HPOS="472" VPOS="638" WIDTH="56" HEIGHT="28" WC="0.95" CONTENT="helt"/><SP WIDTH="18" VPOS="638" HPOS="528"/>
+							<String ID="string_6" HPOS="546" VPOS="638" WIDTH="45" HEIGHT="28" WC="0.96" CONTENT="och"/><SP WIDTH="17" VPOS="638" HPOS="591"/>
+							<String ID="string_7" HPOS="608" VPOS="638" WIDTH="10" HEIGHT="28" WC="0.96" CONTENT="i"/><SP WIDTH="18" VPOS="638" HPOS="618"/>
+							<String ID="string_8" HPOS="636" VPOS="638" WIDTH="81" HEIGHT="36" WC="0.96" CONTENT="årligt"/><SP WIDTH="17" VPOS="638" HPOS="717"/>
+							<String ID="string_9" HPOS="734" VPOS="638" WIDTH="122" HEIGHT="28" WC="0.96" CONTENT="medeltal"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="488" VPOS="743" WIDTH="29" HEIGHT="17">
+							<String ID="string_10" HPOS="488" VPOS="743" WIDTH="29" HEIGHT="17" WC="0.96" CONTENT="för"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="274" VPOS="834" WIDTH="455" HEIGHT="40">
+					<TextBlock ID="block_2" HPOS="274" VPOS="834" WIDTH="455" HEIGHT="40">
+						<TextLine ID="line_3" HPOS="274" VPOS="834" WIDTH="455" HEIGHT="40">
+							<String ID="string_11" HPOS="274" VPOS="834" WIDTH="244" HEIGHT="40" WC="0.91" CONTENT="Finansperioden"/><SP WIDTH="24" VPOS="834" HPOS="518"/>
+							<String ID="string_12" HPOS="542" VPOS="835" WIDTH="187" HEIGHT="31" WC="0.88" CONTENT="1895—1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="203" VPOS="1019" WIDTH="604" HEIGHT="26">
+					<TextBlock ID="block_3" HPOS="203" VPOS="1019" WIDTH="604" HEIGHT="26">
+						<TextLine ID="line_4" HPOS="203" VPOS="1019" WIDTH="604" HEIGHT="26">
+							<String ID="string_13" HPOS="203" VPOS="1020" WIDTH="68" HEIGHT="25" WC="0.93" CONTENT="Enligt"/><SP WIDTH="14" VPOS="1020" HPOS="271"/>
+							<String ID="string_14" HPOS="285" VPOS="1021" WIDTH="89" HEIGHT="24" WC="0.90" CONTENT="uppdrag"/><SP WIDTH="14" VPOS="1021" HPOS="374"/>
+							<String ID="string_15" HPOS="388" VPOS="1020" WIDTH="21" HEIGHT="19" WC="0.93" CONTENT="af"/><SP WIDTH="14" VPOS="1020" HPOS="409"/>
+							<String ID="string_16" HPOS="423" VPOS="1019" WIDTH="156" HEIGHT="25" WC="0.92" CONTENT="Statsutskottet,"/><SP WIDTH="14" VPOS="1019" HPOS="579"/>
+							<String ID="string_17" HPOS="593" VPOS="1019" WIDTH="21" HEIGHT="20" WC="0.96" CONTENT="af"/><SP WIDTH="14" VPOS="1019" HPOS="614"/>
+							<String ID="string_18" HPOS="628" VPOS="1020" WIDTH="44" HEIGHT="19" WC="0.93" CONTENT="dess"/><SP WIDTH="15" VPOS="1020" HPOS="672"/>
+							<String ID="string_19" HPOS="687" VPOS="1020" WIDTH="120" HEIGHT="24" WC="0.90" CONTENT="delegerade."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
