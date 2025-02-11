@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_9zvg03w0_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1086" HEIGHT="1778" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1086" HEIGHT="1778">
+				<ComposedBlock ID="cblock_0" HPOS="211" VPOS="519" WIDTH="689" HEIGHT="227">
+					<TextBlock ID="block_0" HPOS="211" VPOS="519" WIDTH="689" HEIGHT="227">
+						<TextLine ID="line_0" HPOS="351" VPOS="519" WIDTH="406" HEIGHT="81">
+							<String ID="string_0" HPOS="351" VPOS="519" WIDTH="406" HEIGHT="81" WC="0.88" CONTENT="Yleis-pääkirja"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="211" VPOS="706" WIDTH="689" HEIGHT="40">
+							<String ID="string_1" HPOS="211" VPOS="706" WIDTH="251" HEIGHT="40" WC="0.96" CONTENT="Valtion"/><SP WIDTH="46" VPOS="706" HPOS="462"/>
+							<String ID="string_2" HPOS="508" VPOS="706" WIDTH="392" HEIGHT="39" WC="0.96" CONTENT="rahastoista"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="402" VPOS="865" WIDTH="301" HEIGHT="18">
+					<TextBlock ID="block_1" HPOS="402" VPOS="865" WIDTH="301" HEIGHT="18">
+						<TextLine ID="line_2" HPOS="402" VPOS="865" WIDTH="301" HEIGHT="18">
+							<String ID="string_3" HPOS="402" VPOS="865" WIDTH="173" HEIGHT="18" WC="0.95" CONTENT="Vuonna"/><SP WIDTH="27" VPOS="865" HPOS="575"/>
+							<String ID="string_4" HPOS="602" VPOS="865" WIDTH="101" HEIGHT="16" WC="0.78" CONTENT="1889."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="1075" VPOS="1016" WIDTH="11" HEIGHT="762"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

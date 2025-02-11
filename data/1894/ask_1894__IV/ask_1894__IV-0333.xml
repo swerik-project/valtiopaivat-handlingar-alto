@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_s15ilsd8_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1078" HEIGHT="1767" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1078" HEIGHT="1767">
+				<ComposedBlock ID="cblock_0" HPOS="480" VPOS="136" WIDTH="31" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="480" VPOS="136" WIDTH="31" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="480" VPOS="136" WIDTH="31" HEIGHT="21">
+							<String ID="string_0" HPOS="480" VPOS="136" WIDTH="31" HEIGHT="21" WC="0.88" CONTENT="IV"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="320" VPOS="473" WIDTH="349" HEIGHT="37">
+					<TextBlock ID="block_1" HPOS="320" VPOS="473" WIDTH="349" HEIGHT="37">
+						<TextLine ID="line_1" HPOS="320" VPOS="473" WIDTH="349" HEIGHT="37">
+							<String ID="string_1" HPOS="320" VPOS="473" WIDTH="216" HEIGHT="37" WC="0.90" CONTENT="Vertaileva"/><SP WIDTH="24" VPOS="473" HPOS="536"/>
+							<String ID="string_2" HPOS="560" VPOS="474" WIDTH="109" HEIGHT="34" WC="0.92" CONTENT="taulu"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="116" VPOS="610" WIDTH="758" HEIGHT="52">
+					<TextBlock ID="block_2" HPOS="116" VPOS="610" WIDTH="758" HEIGHT="52">
+						<TextLine ID="line_2" HPOS="116" VPOS="610" WIDTH="758" HEIGHT="52">
+							<String ID="string_3" HPOS="116" VPOS="610" WIDTH="231" HEIGHT="52" WC="0.92" CONTENT="Yleisen"/><SP WIDTH="40" VPOS="610" HPOS="347"/>
+							<String ID="string_4" HPOS="387" VPOS="611" WIDTH="487" HEIGHT="50" WC="0.91" CONTENT="valtiorahaston"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="53" VPOS="758" WIDTH="889" HEIGHT="86">
+					<TextBlock ID="block_3" HPOS="53" VPOS="758" WIDTH="889" HEIGHT="86">
+						<TextLine ID="line_3" HPOS="53" VPOS="758" WIDTH="889" HEIGHT="34">
+							<String ID="string_5" HPOS="53" VPOS="760" WIDTH="124" HEIGHT="27" WC="0.92" CONTENT="kaikista"/><SP WIDTH="18" VPOS="760" HPOS="177"/>
+							<String ID="string_6" HPOS="195" VPOS="759" WIDTH="114" HEIGHT="27" WC="0.92" CONTENT="tuloista"/><SP WIDTH="16" VPOS="759" HPOS="309"/>
+							<String ID="string_7" HPOS="325" VPOS="759" WIDTH="29" HEIGHT="33" WC="0.93" CONTENT="ja"/><SP WIDTH="18" VPOS="759" HPOS="354"/>
+							<String ID="string_8" HPOS="372" VPOS="760" WIDTH="131" HEIGHT="26" WC="0.91" CONTENT="menoista"/><SP WIDTH="18" VPOS="760" HPOS="503"/>
+							<String ID="string_9" HPOS="521" VPOS="760" WIDTH="104" HEIGHT="26" WC="0.90" CONTENT="valtion"/><SP WIDTH="18" VPOS="760" HPOS="625"/>
+							<String ID="string_10" HPOS="643" VPOS="766" WIDTH="85" HEIGHT="20" WC="0.92" CONTENT="meno-"/><SP WIDTH="18" VPOS="766" HPOS="728"/>
+							<String ID="string_11" HPOS="746" VPOS="758" WIDTH="29" HEIGHT="34" WC="0.93" CONTENT="ja"/><SP WIDTH="11" VPOS="758" HPOS="775"/>
+							<String ID="string_12" HPOS="786" VPOS="759" WIDTH="156" HEIGHT="27" WC="0.90" CONTENT="tuloarvion"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="223" VPOS="811" WIDTH="547" HEIGHT="33">
+							<String ID="string_13" HPOS="223" VPOS="812" WIDTH="68" HEIGHT="26" WC="0.93" CONTENT="sekä"/><SP WIDTH="17" VPOS="812" HPOS="291"/>
+							<String ID="string_14" HPOS="308" VPOS="811" WIDTH="331" HEIGHT="33" WC="0.89" CONTENT="valtion-tilinpäätöksen"/><SP WIDTH="15" VPOS="811" HPOS="639"/>
+							<String ID="string_15" HPOS="654" VPOS="812" WIDTH="116" HEIGHT="26" WC="0.96" CONTENT="mukaan"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="332" VPOS="938" WIDTH="322" HEIGHT="17">
+					<TextBlock ID="block_4" HPOS="332" VPOS="938" WIDTH="322" HEIGHT="17">
+						<TextLine ID="line_5" HPOS="332" VPOS="938" WIDTH="322" HEIGHT="17">
+							<String ID="string_16" HPOS="332" VPOS="938" WIDTH="196" HEIGHT="17" WC="0.77" CONTENT="&quot;Vuodelta"/><SP WIDTH="22" VPOS="938" HPOS="528"/>
+							<String ID="string_17" HPOS="550" VPOS="938" WIDTH="104" HEIGHT="17" WC="0.94" CONTENT="1890."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_5" HPOS="423" VPOS="1084" WIDTH="67" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_6" HPOS="505" VPOS="1084" WIDTH="67" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_7" HPOS="122" VPOS="1482" WIDTH="751" HEIGHT="22">
+					<TextBlock ID="block_5" HPOS="122" VPOS="1482" WIDTH="751" HEIGHT="22">
+						<TextLine ID="line_6" HPOS="122" VPOS="1482" WIDTH="751" HEIGHT="22">
+							<String ID="string_18" HPOS="122" VPOS="1483" WIDTH="97" HEIGHT="19" WC="0.74" CONTENT="Kertomus,"/><SP WIDTH="18" VPOS="1483" HPOS="219"/>
+							<String ID="string_19" HPOS="237" VPOS="1483" WIDTH="33" HEIGHT="18" WC="0.95" CONTENT="IV."/><SP WIDTH="391" VPOS="1483" HPOS="270"/>
+							<String ID="string_20" HPOS="661" VPOS="1482" WIDTH="2" HEIGHT="2" WC="0.50" CONTENT="|"/><SP WIDTH="200" VPOS="1482" HPOS="663"/>
+							<String ID="string_21" HPOS="863" VPOS="1487" WIDTH="10" HEIGHT="17" WC="0.89" CONTENT="8"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
