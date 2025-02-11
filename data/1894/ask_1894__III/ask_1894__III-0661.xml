@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_z3kf3tb3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1770" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1770">
+				<ComposedBlock ID="cblock_0" HPOS="104" VPOS="1068" WIDTH="801" HEIGHT="108">
+					<TextBlock ID="block_0" HPOS="104" VPOS="1068" WIDTH="801" HEIGHT="83">
+						<TextLine ID="line_0" HPOS="104" VPOS="1068" WIDTH="801" HEIGHT="54">
+							<String ID="string_0" HPOS="104" VPOS="1111" WIDTH="25" HEIGHT="5" WC="0.14" CONTENT="nä"/><SP WIDTH="172" VPOS="1111" HPOS="129"/>
+							<String ID="string_1" HPOS="301" VPOS="1114" WIDTH="2" HEIGHT="2" WC="0.75" CONTENT=":"/><SP WIDTH="100" VPOS="1114" HPOS="303"/>
+							<String ID="string_2" HPOS="403" VPOS="1113" WIDTH="10" HEIGHT="4" WC="0.78" CONTENT="6"/><SP WIDTH="13" VPOS="1113" HPOS="413"/>
+							<String ID="string_3" HPOS="426" VPOS="1072" WIDTH="2" HEIGHT="2" WC="0.0" CONTENT=","/><SP WIDTH="16" VPOS="1072" HPOS="428"/>
+							<String ID="string_4" HPOS="444" VPOS="1068" WIDTH="125" HEIGHT="54" WC="0.78" CONTENT="pyrinnöstä"/><SP WIDTH="9" VPOS="1068" HPOS="569"/>
+							<String ID="string_5" HPOS="578" VPOS="1073" WIDTH="85" HEIGHT="48" WC="0.49" CONTENT="&quot;saada"/><SP WIDTH="-1" VPOS="1073" HPOS="663"/>
+							<String ID="string_6" HPOS="662" VPOS="1086" WIDTH="38" HEIGHT="33" WC="0.93" CONTENT="jo:"/><SP WIDTH="-2" VPOS="1086" HPOS="700"/>
+							<String ID="string_7" HPOS="698" VPOS="1070" WIDTH="87" HEIGHT="51" WC="0.57" CONTENT="-vauhan"/><SP WIDTH="9" VPOS="1070" HPOS="785"/>
+							<String ID="string_8" HPOS="794" VPOS="1076" WIDTH="83" HEIGHT="41" WC="0.58" CONTENT="aikana"/><SP WIDTH="27" VPOS="1076" HPOS="877"/>
+							<String ID="string_9" HPOS="904" VPOS="1116" WIDTH="1" HEIGHT="3" WC="0.56" CONTENT="|"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="131" VPOS="1110" WIDTH="748" HEIGHT="66">
+							<String ID="string_10" HPOS="131" VPOS="1120" WIDTH="137" HEIGHT="23" WC="0.70" CONTENT="tasditetuksi"/><SP WIDTH="15" VPOS="1120" HPOS="268"/>
+							<String ID="string_11" HPOS="283" VPOS="1123" WIDTH="35" HEIGHT="20" WC="0.92" CONTENT="tie"/><SP WIDTH="68" VPOS="1123" HPOS="318"/>
+							<String ID="string_12" HPOS="386" VPOS="1126" WIDTH="56" HEIGHT="18" WC="0.66" CONTENT="käikkien"/><SP WIDTH="22" VPOS="1126" HPOS="442"/>
+							<String ID="string_13" HPOS="464" VPOS="1121" WIDTH="73" HEIGHT="35" WC="0.94" CONTENT="niiden"/><SP WIDTH="14" VPOS="1121" HPOS="537"/>
+							<String ID="string_14" HPOS="551" VPOS="1110" WIDTH="170" HEIGHT="66" WC="0.44" CONTENT="-sotajonkkojen"/><SP WIDTH="16" VPOS="1110" HPOS="721"/>
+							<String ID="string_15" HPOS="737" VPOS="1138" WIDTH="4" HEIGHT="3" WC="0.44" CONTENT="-"/><SP WIDTH="-4" VPOS="1138" HPOS="741"/>
+							<String ID="string_16" HPOS="737" VPOS="1128" WIDTH="107" HEIGHT="30" WC="0.40" CONTENT="&quot;nopeaan"/><SP WIDTH="13" VPOS="1128" HPOS="844"/>
+							<String ID="string_17" HPOS="857" VPOS="1123" WIDTH="22" HEIGHT="28" WC="0.96" CONTENT="ja"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="25" VPOS="28" WIDTH="1049" HEIGHT="1713"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_9pvrq6er_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1767" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1767">
+				<ComposedBlock ID="cblock_0" HPOS="415" VPOS="1241" WIDTH="381" HEIGHT="102">
+					<TextBlock ID="block_0" HPOS="415" VPOS="1241" WIDTH="381" HEIGHT="80">
+						<TextLine ID="line_0" HPOS="415" VPOS="1241" WIDTH="301" HEIGHT="50">
+							<String ID="string_0" HPOS="415" VPOS="1255" WIDTH="5" HEIGHT="4" WC="0.96" CONTENT="i"/><SP WIDTH="23" VPOS="1255" HPOS="420"/>
+							<String ID="string_1" HPOS="443" VPOS="1241" WIDTH="90" HEIGHT="50" WC="0.92" CONTENT="puheena"/><SP WIDTH="14" VPOS="1241" HPOS="533"/>
+							<String ID="string_2" HPOS="547" VPOS="1246" WIDTH="100" HEIGHT="33" WC="0.91" CONTENT="olevaan"/><SP WIDTH="4" VPOS="1246" HPOS="647"/>
+							<String ID="string_3" HPOS="651" VPOS="1253" WIDTH="65" HEIGHT="24" WC="0.89" CONTENT="toime"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="437" VPOS="1280" WIDTH="359" HEIGHT="63">
+							<String ID="string_4" HPOS="437" VPOS="1286" WIDTH="60" HEIGHT="47" WC="0.75" CONTENT="atsoo"/><SP WIDTH="16" VPOS="1286" HPOS="497"/>
+							<String ID="string_5" HPOS="513" VPOS="1291" WIDTH="67" HEIGHT="41" WC="0.93" CONTENT="siihen"/><SP WIDTH="14" VPOS="1291" HPOS="580"/>
+							<String ID="string_6" HPOS="594" VPOS="1280" WIDTH="127" HEIGHT="63" WC="0.0" CONTENT="Srilmiksi"/><SP WIDTH="62" VPOS="1280" HPOS="721"/>
+							<String ID="string_7" HPOS="783" VPOS="1306" WIDTH="13" HEIGHT="15" WC="0.59" CONTENT="k"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="421" VPOS="1369" WIDTH="467" HEIGHT="119">
+					<TextBlock ID="block_1" HPOS="421" VPOS="1369" WIDTH="467" HEIGHT="88">
+						<TextLine ID="line_2" HPOS="421" VPOS="1369" WIDTH="467" HEIGHT="60">
+							<String ID="string_8" HPOS="421" VPOS="1388" WIDTH="72" HEIGHT="41" WC="0.61" CONTENT="että"/><SP WIDTH="16" VPOS="1388" HPOS="493"/>
+							<String ID="string_9" HPOS="509" VPOS="1369" WIDTH="226" HEIGHT="60" WC="0.0" CONTENT="&#39;ottolsutskuninädgr"/><SP WIDTH="3" VPOS="1369" HPOS="735"/>
+							<String ID="string_10" HPOS="738" VPOS="1394" WIDTH="45" HEIGHT="22" WC="0.33" CONTENT="ön"/><SP WIDTH="2" VPOS="1394" HPOS="783"/>
+							<String ID="string_11" HPOS="785" VPOS="1379" WIDTH="103" HEIGHT="37" WC="0.19" CONTENT="-kallakin"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="500" VPOS="1422" WIDTH="388" HEIGHT="66">
+							<String ID="string_12" HPOS="500" VPOS="1433" WIDTH="6" HEIGHT="3" WC="0.84" CONTENT="i"/><SP WIDTH="72" VPOS="1433" HPOS="506"/>
+							<String ID="string_13" HPOS="578" VPOS="1433" WIDTH="3" HEIGHT="3" WC="0.59" CONTENT=";"/><SP WIDTH="29" VPOS="1433" HPOS="581"/>
+							<String ID="string_14" HPOS="610" VPOS="1422" WIDTH="198" HEIGHT="66" WC="0.0" CONTENT="Frifelt"/><SP WIDTH="15" VPOS="1422" HPOS="808"/>
+							<String ID="string_15" HPOS="823" VPOS="1430" WIDTH="65" HEIGHT="31" WC="0.92" CONTENT="sattu-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="22" VPOS="22" WIDTH="1073" HEIGHT="1720"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
