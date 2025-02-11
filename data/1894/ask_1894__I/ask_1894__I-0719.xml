@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_1t8y1c9z_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1731" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1731">
+				<ComposedBlock ID="cblock_0" HPOS="335" VPOS="744" WIDTH="588" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="335" VPOS="744" WIDTH="588" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="335" VPOS="744" WIDTH="588" HEIGHT="24">
+							<String ID="string_0" HPOS="335" VPOS="744" WIDTH="122" HEIGHT="24" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="13" VPOS="744" HPOS="457"/>
+							<String ID="string_1" HPOS="470" VPOS="744" WIDTH="130" HEIGHT="18" WC="0.96" CONTENT="Keisarillisen"/><SP WIDTH="13" VPOS="744" HPOS="600"/>
+							<String ID="string_2" HPOS="613" VPOS="744" WIDTH="88" HEIGHT="19" WC="0.96" CONTENT="Senaatin"/><SP WIDTH="12" VPOS="744" HPOS="701"/>
+							<String ID="string_3" HPOS="713" VPOS="745" WIDTH="144" HEIGHT="23" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="17" VPOS="745" HPOS="857"/>
+							<String ID="string_4" HPOS="874" VPOS="745" WIDTH="49" HEIGHT="17" WC="0.96" CONTENT="1894."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

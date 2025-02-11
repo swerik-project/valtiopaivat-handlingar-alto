@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_76y65lfv_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1731" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1731">
+				<GraphicalElement ID="cblock_0" HPOS="346" VPOS="814" WIDTH="548" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="361" VPOS="824" WIDTH="519" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="361" VPOS="824" WIDTH="519" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="361" VPOS="824" WIDTH="519" HEIGHT="22">
+							<String ID="string_0" HPOS="361" VPOS="824" WIDTH="114" HEIGHT="22" WC="0.91" CONTENT="Helsingissä,"/><SP WIDTH="12" VPOS="824" HPOS="475"/>
+							<String ID="string_1" HPOS="487" VPOS="824" WIDTH="90" HEIGHT="22" WC="0.93" CONTENT="Helsingin"/><SP WIDTH="13" VPOS="824" HPOS="577"/>
+							<String ID="string_2" HPOS="590" VPOS="824" WIDTH="226" HEIGHT="22" WC="0.89" CONTENT="Sentraali-kirjapainossa,"/><SP WIDTH="13" VPOS="824" HPOS="816"/>
+							<String ID="string_3" HPOS="829" VPOS="824" WIDTH="51" HEIGHT="17" WC="0.96" CONTENT="1894."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="345" VPOS="854" WIDTH="549" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

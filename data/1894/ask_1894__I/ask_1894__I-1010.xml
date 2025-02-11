@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_46qq3en7_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1731" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1731">
+				<ComposedBlock ID="cblock_0" HPOS="333" VPOS="759" WIDTH="593" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="333" VPOS="759" WIDTH="593" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="333" VPOS="759" WIDTH="593" HEIGHT="24">
+							<String ID="string_0" HPOS="333" VPOS="760" WIDTH="121" HEIGHT="23" WC="0.93" CONTENT="Helsingissä,"/><SP WIDTH="15" VPOS="760" HPOS="454"/>
+							<String ID="string_1" HPOS="469" VPOS="760" WIDTH="77" HEIGHT="18" WC="0.92" CONTENT="Suomal."/><SP WIDTH="13" VPOS="760" HPOS="546"/>
+							<String ID="string_2" HPOS="559" VPOS="760" WIDTH="70" HEIGHT="23" WC="0.91" CONTENT="Kirjall."/><SP WIDTH="13" VPOS="760" HPOS="629"/>
+							<String ID="string_3" HPOS="642" VPOS="760" WIDTH="70" HEIGHT="18" WC="0.96" CONTENT="Seuran"/><SP WIDTH="12" VPOS="760" HPOS="712"/>
+							<String ID="string_4" HPOS="724" VPOS="760" WIDTH="140" HEIGHT="23" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="14" VPOS="760" HPOS="864"/>
+							<String ID="string_5" HPOS="878" VPOS="759" WIDTH="48" HEIGHT="17" WC="0.95" CONTENT="1894."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="318" VPOS="795" WIDTH="617" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
