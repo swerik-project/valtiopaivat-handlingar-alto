@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_qeqpnhjy_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1114" HEIGHT="1767" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1114" HEIGHT="1767">
+				<Illustration ID="cblock_0" HPOS="975" VPOS="26" WIDTH="128" HEIGHT="274"></Illustration>
+				<Illustration ID="cblock_1" HPOS="1055" VPOS="465" WIDTH="45" HEIGHT="45"></Illustration>
+				<GraphicalElement ID="cblock_2" HPOS="233" VPOS="766" WIDTH="741" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="264" VPOS="772" WIDTH="682" HEIGHT="34">
+					<TextBlock ID="block_0" HPOS="264" VPOS="772" WIDTH="682" HEIGHT="34">
+						<TextLine ID="line_0" HPOS="264" VPOS="772" WIDTH="682" HEIGHT="34">
+							<String ID="string_0" HPOS="264" VPOS="783" WIDTH="122" HEIGHT="23" WC="0.95" CONTENT="Helsingfors,"/><SP WIDTH="13" VPOS="783" HPOS="386"/>
+							<String ID="string_1" HPOS="399" VPOS="783" WIDTH="65" HEIGHT="18" WC="0.96" CONTENT="Victor"/><SP WIDTH="10" VPOS="783" HPOS="464"/>
+							<String ID="string_2" HPOS="474" VPOS="783" WIDTH="105" HEIGHT="19" WC="0.93" CONTENT="Pettersson"/><SP WIDTH="13" VPOS="783" HPOS="579"/>
+							<String ID="string_3" HPOS="592" VPOS="785" WIDTH="16" HEIGHT="16" WC="0.92" CONTENT="&amp;"/><SP WIDTH="12" VPOS="785" HPOS="608"/>
+							<String ID="string_4" HPOS="620" VPOS="783" WIDTH="41" HEIGHT="19" WC="0.88" CONTENT="C:os"/><SP WIDTH="11" VPOS="783" HPOS="661"/>
+							<String ID="string_5" HPOS="672" VPOS="783" WIDTH="211" HEIGHT="23" WC="0.92" CONTENT="Tryckeri-Aktiebolag,"/><SP WIDTH="13" VPOS="783" HPOS="883"/>
+							<String ID="string_6" HPOS="896" VPOS="772" WIDTH="50" HEIGHT="29" WC="0.94" CONTENT="1894."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="234" VPOS="820" WIDTH="742" HEIGHT="3"></GraphicalElement >
+				<Illustration ID="cblock_5" HPOS="1031" VPOS="1051" WIDTH="71" HEIGHT="54"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
