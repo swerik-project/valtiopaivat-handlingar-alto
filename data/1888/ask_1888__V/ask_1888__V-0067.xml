@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_z2j4xhg4_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1084" HEIGHT="1711" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1084" HEIGHT="1711">
+				<GraphicalElement ID="cblock_0" HPOS="316" VPOS="782" WIDTH="544" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="341" VPOS="798" WIDTH="565" HEIGHT="25">
+					<TextBlock ID="block_0" HPOS="341" VPOS="798" WIDTH="565" HEIGHT="25">
+						<TextLine ID="line_0" HPOS="341" VPOS="798" WIDTH="565" HEIGHT="25">
+							<String ID="string_0" HPOS="341" VPOS="799" WIDTH="128" HEIGHT="24" WC="0.75" CONTENT="Helsingissä,"/><SP WIDTH="11" VPOS="799" HPOS="469"/>
+							<String ID="string_1" HPOS="480" VPOS="798" WIDTH="206" HEIGHT="19" WC="0.67" CONTENT="Hufvudstadsblad&#39;in"/><SP WIDTH="12" VPOS="798" HPOS="686"/>
+							<String ID="string_2" HPOS="698" VPOS="798" WIDTH="145" HEIGHT="24" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="14" VPOS="798" HPOS="843"/>
+							<String ID="string_3" HPOS="857" VPOS="800" WIDTH="49" HEIGHT="17" WC="0.96" CONTENT="1888."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="316" VPOS="835" WIDTH="612" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="619" VPOS="835" WIDTH="309" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_qvtr4hsz_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1720" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1720">
+				<ComposedBlock ID="cblock_0" HPOS="372" VPOS="795" WIDTH="368" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="372" VPOS="795" WIDTH="368" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="372" VPOS="795" WIDTH="368" HEIGHT="22">
+							<String ID="string_0" HPOS="372" VPOS="795" WIDTH="16" HEIGHT="17" WC="0.93" CONTENT="J."/><SP WIDTH="13" VPOS="795" HPOS="388"/>
+							<String ID="string_1" HPOS="401" VPOS="795" WIDTH="120" HEIGHT="17" WC="0.91" CONTENT="Simeliuksen"/><SP WIDTH="12" VPOS="795" HPOS="521"/>
+							<String ID="string_2" HPOS="533" VPOS="795" WIDTH="58" HEIGHT="22" WC="0.88" CONTENT="perill."/><SP WIDTH="14" VPOS="795" HPOS="591"/>
+							<String ID="string_3" HPOS="605" VPOS="795" WIDTH="92" HEIGHT="22" WC="0.92" CONTENT="osakeyht."/><SP WIDTH="13" VPOS="795" HPOS="697"/>
+							<String ID="string_4" HPOS="710" VPOS="796" WIDTH="30" HEIGHT="16" WC="0.90" CONTENT="kir"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="760" VPOS="796" WIDTH="152" HEIGHT="20">
+					<TextBlock ID="block_1" HPOS="760" VPOS="796" WIDTH="152" HEIGHT="20">
+						<TextLine ID="line_1" HPOS="760" VPOS="796" WIDTH="152" HEIGHT="20">
+							<String ID="string_5" HPOS="760" VPOS="797" WIDTH="88" HEIGHT="19" WC="0.92" CONTENT="painossa."/><SP WIDTH="15" VPOS="797" HPOS="848"/>
+							<String ID="string_6" HPOS="863" VPOS="796" WIDTH="49" HEIGHT="18" WC="0.86" CONTENT="1888."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="244" VPOS="780" WIDTH="671" HEIGHT="37"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
