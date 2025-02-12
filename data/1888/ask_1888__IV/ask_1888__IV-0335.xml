@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_5ehoebzz_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1111" HEIGHT="1739" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1111" HEIGHT="1739">
+				<ComposedBlock ID="cblock_0" HPOS="468" VPOS="129" WIDTH="41" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="468" VPOS="129" WIDTH="41" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="468" VPOS="129" WIDTH="41" HEIGHT="21">
+							<String ID="string_0" HPOS="468" VPOS="129" WIDTH="41" HEIGHT="21" WC="0.94" CONTENT="XX"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="176" VPOS="538" WIDTH="626" HEIGHT="225">
+					<TextBlock ID="block_1" HPOS="176" VPOS="538" WIDTH="626" HEIGHT="225">
+						<TextLine ID="line_1" HPOS="354" VPOS="538" WIDTH="271" HEIGHT="57">
+							<String ID="string_1" HPOS="354" VPOS="538" WIDTH="271" HEIGHT="57" WC="0.95" CONTENT="Kertomus"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="176" VPOS="719" WIDTH="626" HEIGHT="44">
+							<String ID="string_2" HPOS="176" VPOS="719" WIDTH="626" HEIGHT="44" WC="0.91" CONTENT="kartta-suostuntavaroista"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="328" VPOS="914" WIDTH="324" HEIGHT="23">
+					<TextBlock ID="block_2" HPOS="328" VPOS="914" WIDTH="324" HEIGHT="23">
+						<TextLine ID="line_3" HPOS="328" VPOS="914" WIDTH="324" HEIGHT="23">
+							<String ID="string_3" HPOS="328" VPOS="914" WIDTH="118" HEIGHT="22" WC="0.93" CONTENT="vuosilta"/><SP WIDTH="37" VPOS="914" HPOS="446"/>
+							<String ID="string_4" HPOS="483" VPOS="915" WIDTH="169" HEIGHT="22" WC="0.85" CONTENT="1884—1886."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
