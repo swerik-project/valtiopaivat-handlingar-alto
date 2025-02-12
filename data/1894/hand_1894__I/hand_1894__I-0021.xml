@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_rmn_mb7q_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1075" HEIGHT="1720" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1075" HEIGHT="1720">
+				<GraphicalElement ID="cblock_0" HPOS="274" VPOS="773" WIDTH="551" HEIGHT="19"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="310" VPOS="797" WIDTH="479" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="310" VPOS="797" WIDTH="479" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="310" VPOS="797" WIDTH="479" HEIGHT="24">
+							<String ID="string_0" HPOS="310" VPOS="798" WIDTH="117" HEIGHT="22" WC="0.95" CONTENT="Helsingfors,"/><SP WIDTH="12" VPOS="798" HPOS="427"/>
+							<String ID="string_1" HPOS="439" VPOS="798" WIDTH="111" HEIGHT="23" WC="0.93" CONTENT="Helsingfors"/><SP WIDTH="13" VPOS="798" HPOS="550"/>
+							<String ID="string_2" HPOS="563" VPOS="797" WIDTH="163" HEIGHT="23" WC="0.91" CONTENT="Central-tryckeri,"/><SP WIDTH="14" VPOS="797" HPOS="726"/>
+							<String ID="string_3" HPOS="740" VPOS="797" WIDTH="49" HEIGHT="18" WC="0.95" CONTENT="1894."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="274" VPOS="826" WIDTH="530" HEIGHT="17"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="381" VPOS="76" WIDTH="27" HEIGHT="1616"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="1066" VPOS="2" WIDTH="9" HEIGHT="500"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
