@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_a30ttizg_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1078" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1078" HEIGHT="1692">
+				<GraphicalElement ID="cblock_0" HPOS="289" VPOS="767" WIDTH="459" HEIGHT="7"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="311" VPOS="765" WIDTH="481" HEIGHT="42">
+					<TextBlock ID="block_0" HPOS="311" VPOS="765" WIDTH="481" HEIGHT="42">
+						<TextLine ID="line_0" HPOS="311" VPOS="765" WIDTH="481" HEIGHT="42">
+							<String ID="string_0" HPOS="311" VPOS="765" WIDTH="117" HEIGHT="42" WC="0.95" CONTENT="Helsingfors,"/><SP WIDTH="12" VPOS="765" HPOS="428"/>
+							<String ID="string_1" HPOS="440" VPOS="775" WIDTH="111" HEIGHT="32" WC="0.90" CONTENT="Helsingfors"/><SP WIDTH="2" VPOS="775" HPOS="551"/>
+							<String ID="string_2" HPOS="553" VPOS="765" WIDTH="175" HEIGHT="42" WC="0.29" CONTENT="”Central-Tryckeri,"/><SP WIDTH="14" VPOS="765" HPOS="728"/>
+							<String ID="string_3" HPOS="742" VPOS="769" WIDTH="50" HEIGHT="28" WC="0.75" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="279" VPOS="807" WIDTH="548" HEIGHT="8"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="0" VPOS="587" WIDTH="3" HEIGHT="370"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
