@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_fv6zfgs1_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1700" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1700">
+				<ComposedBlock ID="cblock_0" HPOS="275" VPOS="414" WIDTH="469" HEIGHT="48">
+					<TextBlock ID="block_0" HPOS="275" VPOS="414" WIDTH="469" HEIGHT="48">
+						<TextLine ID="line_0" HPOS="275" VPOS="414" WIDTH="469" HEIGHT="48">
+							<String ID="string_0" HPOS="275" VPOS="414" WIDTH="259" HEIGHT="40" WC="0.91" CONTENT="Summarisk"/><SP WIDTH="25" VPOS="414" HPOS="534"/>
+							<String ID="string_1" HPOS="559" VPOS="414" WIDTH="185" HEIGHT="48" WC="0.96" CONTENT="räkning"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="150" VPOS="583" WIDTH="716" HEIGHT="52">
+					<TextBlock ID="block_1" HPOS="150" VPOS="583" WIDTH="716" HEIGHT="52">
+						<TextLine ID="line_1" HPOS="150" VPOS="583" WIDTH="716" HEIGHT="52">
+							<String ID="string_2" HPOS="150" VPOS="585" WIDTH="300" HEIGHT="50" WC="0.93" CONTENT="Allmänna"/><SP WIDTH="46" VPOS="585" HPOS="450"/>
+							<String ID="string_3" HPOS="496" VPOS="583" WIDTH="370" HEIGHT="51" WC="0.90" CONTENT="statsfonden"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="253" VPOS="773" WIDTH="513" HEIGHT="27">
+					<TextBlock ID="block_2" HPOS="253" VPOS="773" WIDTH="513" HEIGHT="27">
+						<TextLine ID="line_2" HPOS="253" VPOS="773" WIDTH="513" HEIGHT="27">
+							<String ID="string_4" HPOS="253" VPOS="774" WIDTH="339" HEIGHT="26" WC="0.95" CONTENT="Storfurstendömet"/><SP WIDTH="21" VPOS="774" HPOS="592"/>
+							<String ID="string_5" HPOS="613" VPOS="773" WIDTH="153" HEIGHT="26" WC="0.89" CONTENT="Finland"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
