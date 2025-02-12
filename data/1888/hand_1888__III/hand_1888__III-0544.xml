@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_9qin1k08_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1090" HEIGHT="1782" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1090" HEIGHT="1782">
+				<GraphicalElement ID="cblock_0" HPOS="291" VPOS="22" WIDTH="770" HEIGHT="20"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="101" VPOS="780" WIDTH="694" HEIGHT="105">
+					<TextBlock ID="block_0" HPOS="101" VPOS="780" WIDTH="694" HEIGHT="105">
+						<TextLine ID="line_0" HPOS="101" VPOS="780" WIDTH="694" HEIGHT="39">
+							<String ID="string_0" HPOS="101" VPOS="780" WIDTH="168" HEIGHT="39" WC="0.96" CONTENT="Förteckning"/><SP WIDTH="23" VPOS="780" HPOS="269"/>
+							<String ID="string_1" HPOS="292" VPOS="781" WIDTH="74" HEIGHT="31" WC="0.92" CONTENT="öfver"/><SP WIDTH="22" VPOS="781" HPOS="366"/>
+							<String ID="string_2" HPOS="388" VPOS="782" WIDTH="103" HEIGHT="37" WC="0.91" CONTENT="inlösta,"/><SP WIDTH="23" VPOS="782" HPOS="491"/>
+							<String ID="string_3" HPOS="514" VPOS="792" WIDTH="56" HEIGHT="21" WC="0.96" CONTENT="men"/><SP WIDTH="23" VPOS="792" HPOS="570"/>
+							<String ID="string_4" HPOS="593" VPOS="785" WIDTH="66" HEIGHT="30" WC="0.96" CONTENT="ännu"/><SP WIDTH="23" VPOS="785" HPOS="659"/>
+							<String ID="string_5" HPOS="682" VPOS="785" WIDTH="55" HEIGHT="30" WC="0.95" CONTENT="icke"/><SP WIDTH="22" VPOS="785" HPOS="737"/>
+							<String ID="string_6" HPOS="759" VPOS="786" WIDTH="36" HEIGHT="29" WC="0.94" CONTENT="till"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="213" VPOS="844" WIDTH="464" HEIGHT="41">
+							<String ID="string_7" HPOS="213" VPOS="844" WIDTH="87" HEIGHT="30" WC="0.93" CONTENT="skatte"/><SP WIDTH="22" VPOS="844" HPOS="300"/>
+							<String ID="string_8" HPOS="322" VPOS="845" WIDTH="119" HEIGHT="30" WC="0.91" CONTENT="försålda"/><SP WIDTH="22" VPOS="845" HPOS="441"/>
+							<String ID="string_9" HPOS="463" VPOS="846" WIDTH="214" HEIGHT="39" WC="0.92" CONTENT="donationsgods."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

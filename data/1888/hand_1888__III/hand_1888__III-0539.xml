@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_srk41oh2_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1725" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1725">
+				<ComposedBlock ID="cblock_0" HPOS="94" VPOS="702" WIDTH="707" HEIGHT="91">
+					<TextBlock ID="block_0" HPOS="94" VPOS="702" WIDTH="707" HEIGHT="91">
+						<TextLine ID="line_0" HPOS="94" VPOS="702" WIDTH="707" HEIGHT="39">
+							<String ID="string_0" HPOS="94" VPOS="702" WIDTH="168" HEIGHT="39" WC="0.96" CONTENT="Förteckning"/><SP WIDTH="24" VPOS="702" HPOS="262"/>
+							<String ID="string_1" HPOS="286" VPOS="702" WIDTH="74" HEIGHT="30" WC="0.92" CONTENT="öfver"/><SP WIDTH="22" VPOS="702" HPOS="360"/>
+							<String ID="string_2" HPOS="382" VPOS="702" WIDTH="97" HEIGHT="31" WC="0.91" CONTENT="inlösta"/><SP WIDTH="22" VPOS="702" HPOS="479"/>
+							<String ID="string_3" HPOS="501" VPOS="702" WIDTH="48" HEIGHT="31" WC="0.96" CONTENT="och"/><SP WIDTH="23" VPOS="702" HPOS="549"/>
+							<String ID="string_4" HPOS="572" VPOS="702" WIDTH="37" HEIGHT="31" WC="0.96" CONTENT="till"/><SP WIDTH="25" VPOS="702" HPOS="609"/>
+							<String ID="string_5" HPOS="634" VPOS="703" WIDTH="89" HEIGHT="30" WC="0.93" CONTENT="skatte"/><SP WIDTH="22" VPOS="703" HPOS="723"/>
+							<String ID="string_6" HPOS="745" VPOS="702" WIDTH="56" HEIGHT="31" WC="0.91" CONTENT="för-"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="286" VPOS="753" WIDTH="315" HEIGHT="40">
+							<String ID="string_7" HPOS="286" VPOS="753" WIDTH="76" HEIGHT="31" WC="0.93" CONTENT="sålda"/><SP WIDTH="22" VPOS="753" HPOS="362"/>
+							<String ID="string_8" HPOS="384" VPOS="754" WIDTH="217" HEIGHT="39" WC="0.91" CONTENT="donationsgods."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

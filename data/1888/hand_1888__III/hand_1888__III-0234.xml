@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_8n57my0x_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1725" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1725">
+				<ComposedBlock ID="cblock_0" HPOS="237" VPOS="705" WIDTH="494" HEIGHT="84">
+					<TextBlock ID="block_0" HPOS="237" VPOS="705" WIDTH="494" HEIGHT="84">
+						<TextLine ID="line_0" HPOS="433" VPOS="705" WIDTH="104" HEIGHT="29">
+							<String ID="string_0" HPOS="433" VPOS="705" WIDTH="104" HEIGHT="29" WC="0.96" CONTENT="Rättelse"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="237" VPOS="767" WIDTH="494" HEIGHT="22">
+							<String ID="string_1" HPOS="237" VPOS="768" WIDTH="9" HEIGHT="20" WC="0.93" CONTENT="i"/><SP WIDTH="14" VPOS="768" HPOS="246"/>
+							<String ID="string_2" HPOS="260" VPOS="768" WIDTH="221" HEIGHT="21" WC="0.91" CONTENT="Ekonomiutskottets"/><SP WIDTH="16" VPOS="768" HPOS="481"/>
+							<String ID="string_3" HPOS="497" VPOS="767" WIDTH="135" HEIGHT="21" WC="0.95" CONTENT="betänkande"/><SP WIDTH="15" VPOS="767" HPOS="632"/>
+							<String ID="string_4" HPOS="647" VPOS="768" WIDTH="42" HEIGHT="21" WC="0.96" CONTENT="N:o"/><SP WIDTH="16" VPOS="768" HPOS="689"/>
+							<String ID="string_5" HPOS="705" VPOS="769" WIDTH="26" HEIGHT="19" WC="0.96" CONTENT="9:"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="107" VPOS="824" WIDTH="754" HEIGHT="28">
+					<TextBlock ID="block_1" HPOS="107" VPOS="824" WIDTH="754" HEIGHT="28">
+						<TextLine ID="line_2" HPOS="107" VPOS="824" WIDTH="754" HEIGHT="28">
+							<String ID="string_6" HPOS="107" VPOS="825" WIDTH="43" HEIGHT="21" WC="0.94" CONTENT="Sid."/><SP WIDTH="13" VPOS="825" HPOS="150"/>
+							<String ID="string_7" HPOS="163" VPOS="826" WIDTH="26" HEIGHT="20" WC="0.96" CONTENT="10"/><SP WIDTH="12" VPOS="826" HPOS="189"/>
+							<String ID="string_8" HPOS="201" VPOS="825" WIDTH="45" HEIGHT="21" WC="0.96" CONTENT="rad."/><SP WIDTH="12" VPOS="825" HPOS="246"/>
+							<String ID="string_9" HPOS="258" VPOS="825" WIDTH="27" HEIGHT="22" WC="0.93" CONTENT="23"/><SP WIDTH="11" VPOS="825" HPOS="285"/>
+							<String ID="string_10" HPOS="296" VPOS="825" WIDTH="76" HEIGHT="27" WC="0.92" CONTENT="uppifr."/><SP WIDTH="12" VPOS="825" HPOS="372"/>
+							<String ID="string_11" HPOS="384" VPOS="825" WIDTH="65" HEIGHT="21" WC="0.92" CONTENT="orden"/><SP WIDTH="15" VPOS="825" HPOS="449"/>
+							<String ID="string_12" HPOS="464" VPOS="825" WIDTH="77" HEIGHT="26" WC="0.89" CONTENT=",Mom."/><SP WIDTH="13" VPOS="825" HPOS="541"/>
+							<String ID="string_13" HPOS="554" VPOS="826" WIDTH="12" HEIGHT="20" WC="0.97" CONTENT="2"/><SP WIDTH="11" VPOS="826" HPOS="566"/>
+							<String ID="string_14" HPOS="577" VPOS="824" WIDTH="45" HEIGHT="22" WC="0.96" CONTENT="lika"/><SP WIDTH="9" VPOS="824" HPOS="622"/>
+							<String ID="string_15" HPOS="631" VPOS="824" WIDTH="48" HEIGHT="22" WC="0.96" CONTENT="med"/><SP WIDTH="11" VPOS="824" HPOS="679"/>
+							<String ID="string_16" HPOS="690" VPOS="831" WIDTH="19" HEIGHT="15" WC="0.93" CONTENT="n."/><SP WIDTH="12" VPOS="831" HPOS="709"/>
+							<String ID="string_17" HPOS="721" VPOS="824" WIDTH="72" HEIGHT="28" WC="0.85" CONTENT="prop.&quot;"/><SP WIDTH="11" VPOS="824" HPOS="793"/>
+							<String ID="string_18" HPOS="804" VPOS="824" WIDTH="57" HEIGHT="28" WC="0.96" CONTENT="utgå."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

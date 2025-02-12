@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0_2af_eg_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1725" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1725">
+				<ComposedBlock ID="cblock_0" HPOS="280" VPOS="676" WIDTH="671" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="280" VPOS="676" WIDTH="671" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="280" VPOS="676" WIDTH="671" HEIGHT="18">
+							<String ID="string_0" HPOS="280" VPOS="679" WIDTH="141" HEIGHT="15" WC="0.93" CONTENT="HELSINGFORS,"/><SP WIDTH="12" VPOS="679" HPOS="421"/>
+							<String ID="string_1" HPOS="433" VPOS="678" WIDTH="72" HEIGHT="14" WC="0.83" CONTENT="WEILIN"/><SP WIDTH="11" VPOS="678" HPOS="505"/>
+							<String ID="string_2" HPOS="516" VPOS="679" WIDTH="11" HEIGHT="13" WC="0.91" CONTENT="&amp;"/><SP WIDTH="11" VPOS="679" HPOS="527"/>
+							<String ID="string_3" HPOS="538" VPOS="676" WIDTH="57" HEIGHT="15" WC="0.81" CONTENT="GÖÖS&#39;"/><SP WIDTH="11" VPOS="676" HPOS="595"/>
+							<String ID="string_4" HPOS="606" VPOS="678" WIDTH="140" HEIGHT="14" WC="0.90" CONTENT="AKTIEBOLAGS"/><SP WIDTH="12" VPOS="678" HPOS="746"/>
+							<String ID="string_5" HPOS="758" VPOS="678" WIDTH="141" HEIGHT="14" WC="0.91" CONTENT="BOKTRYCKERI"/><SP WIDTH="12" VPOS="678" HPOS="899"/>
+							<String ID="string_6" HPOS="911" VPOS="679" WIDTH="40" HEIGHT="13" WC="0.92" CONTENT="1888."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

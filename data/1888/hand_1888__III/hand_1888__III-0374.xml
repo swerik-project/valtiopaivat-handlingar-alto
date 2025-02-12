@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_n8ucmmw9_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1725" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1725">
+				<ComposedBlock ID="cblock_0" HPOS="339" VPOS="706" WIDTH="202" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="339" VPOS="706" WIDTH="202" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="339" VPOS="706" WIDTH="202" HEIGHT="23">
+							<String ID="string_0" HPOS="339" VPOS="706" WIDTH="202" HEIGHT="23" WC="0.94" CONTENT="Rättelser:"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="62" VPOS="769" WIDTH="758" HEIGHT="93">
+					<TextBlock ID="block_1" HPOS="62" VPOS="769" WIDTH="758" HEIGHT="93">
+						<TextLine ID="line_1" HPOS="134" VPOS="769" WIDTH="686" HEIGHT="27">
+							<String ID="string_1" HPOS="134" VPOS="770" WIDTH="9" HEIGHT="20" WC="0.96" CONTENT="I"/><SP WIDTH="17" VPOS="770" HPOS="143"/>
+							<String ID="string_2" HPOS="160" VPOS="770" WIDTH="65" HEIGHT="20" WC="0.93" CONTENT="tabell"/><SP WIDTH="15" VPOS="770" HPOS="225"/>
+							<String ID="string_3" HPOS="240" VPOS="770" WIDTH="26" HEIGHT="24" WC="0.90" CONTENT="V,"/><SP WIDTH="16" VPOS="770" HPOS="266"/>
+							<String ID="string_4" HPOS="282" VPOS="769" WIDTH="44" HEIGHT="21" WC="0.96" CONTENT="står"/><SP WIDTH="14" VPOS="769" HPOS="326"/>
+							<String ID="string_5" HPOS="340" VPOS="769" WIDTH="27" HEIGHT="27" WC="0.96" CONTENT="på"/><SP WIDTH="16" VPOS="769" HPOS="367"/>
+							<String ID="string_6" HPOS="383" VPOS="770" WIDTH="52" HEIGHT="20" WC="0.95" CONTENT="sista"/><SP WIDTH="15" VPOS="770" HPOS="435"/>
+							<String ID="string_7" HPOS="450" VPOS="770" WIDTH="66" HEIGHT="20" WC="0.96" CONTENT="raden"/><SP WIDTH="15" VPOS="770" HPOS="516"/>
+							<String ID="string_8" HPOS="531" VPOS="770" WIDTH="7" HEIGHT="19" WC="0.96" CONTENT="i"/><SP WIDTH="16" VPOS="770" HPOS="538"/>
+							<String ID="string_9" HPOS="554" VPOS="770" WIDTH="66" HEIGHT="20" WC="0.96" CONTENT="första"/><SP WIDTH="15" VPOS="770" HPOS="620"/>
+							<String ID="string_10" HPOS="635" VPOS="770" WIDTH="113" HEIGHT="20" WC="0.96" CONTENT="kolumnen"/><SP WIDTH="17" VPOS="770" HPOS="748"/>
+							<String ID="string_11" HPOS="765" VPOS="770" WIDTH="55" HEIGHT="20" WC="0.94" CONTENT="1837"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="62" VPOS="804" WIDTH="757" HEIGHT="24">
+							<String ID="string_12" HPOS="62" VPOS="804" WIDTH="40" HEIGHT="20" WC="0.96" CONTENT="och"/><SP WIDTH="22" VPOS="804" HPOS="102"/>
+							<String ID="string_13" HPOS="124" VPOS="804" WIDTH="8" HEIGHT="20" WC="0.96" CONTENT="i"/><SP WIDTH="22" VPOS="804" HPOS="132"/>
+							<String ID="string_14" HPOS="154" VPOS="805" WIDTH="54" HEIGHT="19" WC="0.96" CONTENT="sista"/><SP WIDTH="22" VPOS="805" HPOS="208"/>
+							<String ID="string_15" HPOS="230" VPOS="804" WIDTH="114" HEIGHT="20" WC="0.93" CONTENT="kolumnen"/><SP WIDTH="22" VPOS="804" HPOS="344"/>
+							<String ID="string_16" HPOS="366" VPOS="804" WIDTH="119" HEIGHT="24" WC="0.88" CONTENT="4,386,405,"/><SP WIDTH="24" VPOS="804" HPOS="485"/>
+							<String ID="string_17" HPOS="509" VPOS="810" WIDTH="49" HEIGHT="14" WC="0.96" CONTENT="men"/><SP WIDTH="22" VPOS="810" HPOS="558"/>
+							<String ID="string_18" HPOS="580" VPOS="804" WIDTH="38" HEIGHT="20" WC="0.96" CONTENT="bör"/><SP WIDTH="21" VPOS="804" HPOS="618"/>
+							<String ID="string_19" HPOS="639" VPOS="810" WIDTH="50" HEIGHT="14" WC="0.96" CONTENT="vara"/><SP WIDTH="20" VPOS="810" HPOS="689"/>
+							<String ID="string_20" HPOS="709" VPOS="804" WIDTH="54" HEIGHT="20" WC="0.96" CONTENT="1887"/><SP WIDTH="15" VPOS="804" HPOS="763"/>
+							<String ID="string_21" HPOS="778" VPOS="804" WIDTH="41" HEIGHT="20" WC="0.96" CONTENT="och"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="62" VPOS="838" WIDTH="119" HEIGHT="24">
+							<String ID="string_22" HPOS="62" VPOS="838" WIDTH="119" HEIGHT="24" WC="0.89" CONTENT="5,386,405."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
