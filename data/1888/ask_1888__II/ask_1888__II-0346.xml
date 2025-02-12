@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_3y7fl52u_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1059" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1059" HEIGHT="1773">
+				<GraphicalElement ID="cblock_0" HPOS="231" VPOS="825" WIDTH="750" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="250" VPOS="837" WIDTH="709" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="250" VPOS="837" WIDTH="709" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="250" VPOS="837" WIDTH="709" HEIGHT="24">
+							<String ID="string_0" HPOS="250" VPOS="837" WIDTH="124" HEIGHT="23" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="15" VPOS="837" HPOS="374"/>
+							<String ID="string_1" HPOS="389" VPOS="837" WIDTH="128" HEIGHT="18" WC="0.93" CONTENT="Suomalaisen"/><SP WIDTH="12" VPOS="837" HPOS="517"/>
+							<String ID="string_2" HPOS="529" VPOS="837" WIDTH="224" HEIGHT="24" WC="0.92" CONTENT="Kirjallisuuden-Seuran"/><SP WIDTH="6" VPOS="837" HPOS="753"/>
+							<String ID="string_3" HPOS="759" VPOS="837" WIDTH="141" HEIGHT="23" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="10" VPOS="837" HPOS="900"/>
+							<String ID="string_4" HPOS="910" VPOS="837" WIDTH="49" HEIGHT="18" WC="0.96" CONTENT="1888."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="242" VPOS="867" WIDTH="740" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
