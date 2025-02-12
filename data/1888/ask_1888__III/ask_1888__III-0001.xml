@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_q4cujbab_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1039" HEIGHT="1731" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1039" HEIGHT="1731">
+				<ComposedBlock ID="cblock_0" HPOS="320" VPOS="399" WIDTH="383" HEIGHT="50">
+					<TextBlock ID="block_0" HPOS="320" VPOS="399" WIDTH="383" HEIGHT="50">
+						<TextLine ID="line_0" HPOS="320" VPOS="399" WIDTH="383" HEIGHT="50">
+							<String ID="string_0" HPOS="320" VPOS="399" WIDTH="383" HEIGHT="50" WC="0.91" CONTENT="ASIAKIRJAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="152" VPOS="552" WIDTH="732" HEIGHT="80">
+					<TextBlock ID="block_1" HPOS="152" VPOS="552" WIDTH="732" HEIGHT="80">
+						<TextLine ID="line_1" HPOS="152" VPOS="552" WIDTH="732" HEIGHT="80">
+							<String ID="string_1" HPOS="152" VPOS="553" WIDTH="385" HEIGHT="79" WC="0.81" CONTENT="VALTIOPÄIVILTÄ"/><SP WIDTH="49" VPOS="553" HPOS="537"/>
+							<String ID="string_2" HPOS="586" VPOS="552" WIDTH="298" HEIGHT="79" WC="0.74" CONTENT="HELSINGISSÄ"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="423" VPOS="746" WIDTH="190" HEIGHT="30">
+					<TextBlock ID="block_2" HPOS="423" VPOS="746" WIDTH="190" HEIGHT="30">
+						<TextLine ID="line_2" HPOS="423" VPOS="746" WIDTH="190" HEIGHT="30">
+							<String ID="string_3" HPOS="423" VPOS="755" WIDTH="97" HEIGHT="21" WC="0.96" CONTENT="vuonna"/><SP WIDTH="24" VPOS="755" HPOS="520"/>
+							<String ID="string_4" HPOS="544" VPOS="746" WIDTH="69" HEIGHT="30" WC="0.79" CONTENT="1888,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="390" VPOS="959" WIDTH="267" HEIGHT="21">
+					<TextBlock ID="block_3" HPOS="390" VPOS="959" WIDTH="267" HEIGHT="21">
+						<TextLine ID="line_3" HPOS="390" VPOS="959" WIDTH="267" HEIGHT="21">
+							<String ID="string_5" HPOS="390" VPOS="959" WIDTH="166" HEIGHT="21" WC="0.96" CONTENT="Kolmas"/><SP WIDTH="26" VPOS="959" HPOS="556"/>
+							<String ID="string_6" HPOS="582" VPOS="965" WIDTH="75" HEIGHT="14" WC="0.96" CONTENT="osa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="273" VPOS="1364" WIDTH="505" HEIGHT="92">
+					<TextBlock ID="block_4" HPOS="273" VPOS="1364" WIDTH="505" HEIGHT="92">
+						<TextLine ID="line_4" HPOS="444" VPOS="1364" WIDTH="162" HEIGHT="28">
+							<String ID="string_7" HPOS="444" VPOS="1364" WIDTH="162" HEIGHT="28" WC="0.95" CONTENT="Helsingissä,"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="273" VPOS="1403" WIDTH="505" HEIGHT="23">
+							<String ID="string_8" HPOS="273" VPOS="1404" WIDTH="17" HEIGHT="18" WC="0.93" CONTENT="J."/><SP WIDTH="16" VPOS="1404" HPOS="290"/>
+							<String ID="string_9" HPOS="306" VPOS="1404" WIDTH="122" HEIGHT="18" WC="0.92" CONTENT="Simeliuksen"/><SP WIDTH="13" VPOS="1404" HPOS="428"/>
+							<String ID="string_10" HPOS="441" VPOS="1404" WIDTH="100" HEIGHT="22" WC="0.93" CONTENT="perillisten"/><SP WIDTH="13" VPOS="1404" HPOS="541"/>
+							<String ID="string_11" HPOS="554" VPOS="1403" WIDTH="224" HEIGHT="23" WC="0.92" CONTENT="kirjapaino-osakeyhtiö,"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="494" VPOS="1438" WIDTH="65" HEIGHT="18">
+							<String ID="string_12" HPOS="494" VPOS="1438" WIDTH="65" HEIGHT="18" WC="0.96" CONTENT="1889."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

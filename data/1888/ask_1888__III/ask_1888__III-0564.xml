@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_e2avlzmh_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1039" HEIGHT="1731" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1039" HEIGHT="1731">
+				<ComposedBlock ID="cblock_0" HPOS="90" VPOS="748" WIDTH="720" HEIGHT="103">
+					<TextBlock ID="block_0" HPOS="90" VPOS="748" WIDTH="720" HEIGHT="103">
+						<TextLine ID="line_0" HPOS="90" VPOS="748" WIDTH="720" HEIGHT="38">
+							<String ID="string_0" HPOS="90" VPOS="748" WIDTH="116" HEIGHT="31" WC="0.92" CONTENT="Luettelo"/><SP WIDTH="24" VPOS="748" HPOS="206"/>
+							<String ID="string_1" HPOS="230" VPOS="748" WIDTH="198" HEIGHT="38" WC="0.90" CONTENT="lunastetuista,"/><SP WIDTH="23" VPOS="748" HPOS="428"/>
+							<String ID="string_2" HPOS="451" VPOS="751" WIDTH="82" HEIGHT="29" WC="0.96" CONTENT="mutta"/><SP WIDTH="22" VPOS="751" HPOS="533"/>
+							<String ID="string_3" HPOS="555" VPOS="748" WIDTH="66" HEIGHT="31" WC="0.91" CONTENT="vielä"/><SP WIDTH="22" VPOS="748" HPOS="621"/>
+							<String ID="string_4" HPOS="643" VPOS="748" WIDTH="167" HEIGHT="31" WC="0.91" CONTENT="verotaloiksi"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="189" VPOS="812" WIDTH="530" HEIGHT="39">
+							<String ID="string_5" HPOS="189" VPOS="813" WIDTH="140" HEIGHT="37" WC="0.92" CONTENT="myymättä"/><SP WIDTH="22" VPOS="813" HPOS="329"/>
+							<String ID="string_6" HPOS="351" VPOS="812" WIDTH="113" HEIGHT="30" WC="0.91" CONTENT="olevista"/><SP WIDTH="23" VPOS="812" HPOS="464"/>
+							<String ID="string_7" HPOS="487" VPOS="812" WIDTH="232" HEIGHT="39" WC="0.90" CONTENT="lahjoitustiloista."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
