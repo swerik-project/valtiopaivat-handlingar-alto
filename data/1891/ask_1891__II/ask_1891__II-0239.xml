@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_bdrybm9f_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1136" HEIGHT="1806" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1136" HEIGHT="1806">
+				<ComposedBlock ID="cblock_0" HPOS="948" VPOS="141" WIDTH="27" HEIGHT="20">
+					<TextBlock ID="block_0" HPOS="948" VPOS="141" WIDTH="27" HEIGHT="20">
+						<TextLine ID="line_0" HPOS="948" VPOS="141" WIDTH="27" HEIGHT="20">
+							<String ID="string_0" HPOS="948" VPOS="141" WIDTH="27" HEIGHT="20" WC="0.93" CONTENT="27"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="53" VPOS="208" WIDTH="953" HEIGHT="11">
+					<TextBlock ID="block_1" HPOS="53" VPOS="208" WIDTH="953" HEIGHT="11">
+						<TextLine ID="line_1" HPOS="53" VPOS="208" WIDTH="953" HEIGHT="11">
+							<String ID="string_1" HPOS="49" VPOS="198" WIDTH="173" HEIGHT="28" WC="0.17" CONTENT="m"/><SP WIDTH="-169" VPOS="198" HPOS="222"/>
+							<String ID="string_2" HPOS="53" VPOS="208" WIDTH="953" HEIGHT="11" WC="0.0" CONTENT="—nmm—MMMMMMMMMM"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="116" VPOS="255" WIDTH="799" HEIGHT="34">
+					<TextBlock ID="block_2" HPOS="116" VPOS="255" WIDTH="799" HEIGHT="34">
+						<TextLine ID="line_2" HPOS="116" VPOS="255" WIDTH="799" HEIGHT="34">
+							<String ID="string_3" HPOS="116" VPOS="260" WIDTH="214" HEIGHT="29" WC="0.91" CONTENT="Talonpoikaissääty"/><SP WIDTH="146" VPOS="260" HPOS="330"/>
+							<String ID="string_4" HPOS="476" VPOS="258" WIDTH="148" HEIGHT="22" WC="0.92" CONTENT="Valiokunnan"/><SP WIDTH="16" VPOS="258" HPOS="624"/>
+							<String ID="string_5" HPOS="640" VPOS="257" WIDTH="124" HEIGHT="22" WC="0.92" CONTENT="ehdottama"/><SP WIDTH="14" VPOS="257" HPOS="764"/>
+							<String ID="string_6" HPOS="778" VPOS="255" WIDTH="137" HEIGHT="28" WC="0.92" CONTENT="toimenpide."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="110" VPOS="316" WIDTH="889" HEIGHT="9"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="58" VPOS="320" WIDTH="941" HEIGHT="10"></GraphicalElement >
+				<Illustration ID="cblock_5" HPOS="1125" VPOS="398" WIDTH="11" HEIGHT="74"></Illustration>
+				<GraphicalElement ID="cblock_6" HPOS="231" VPOS="1483" WIDTH="612" HEIGHT="13"></GraphicalElement >
+				<ComposedBlock ID="cblock_7" HPOS="269" VPOS="1496" WIDTH="536" HEIGHT="29">
+					<TextBlock ID="block_3" HPOS="269" VPOS="1496" WIDTH="536" HEIGHT="29">
+						<TextLine ID="line_3" HPOS="269" VPOS="1496" WIDTH="536" HEIGHT="29">
+							<String ID="string_7" HPOS="269" VPOS="1507" WIDTH="99" HEIGHT="18" WC="0.93" CONTENT="Helsingissä,"/><SP WIDTH="11" VPOS="1507" HPOS="368"/>
+							<String ID="string_8" HPOS="379" VPOS="1505" WIDTH="66" HEIGHT="16" WC="0.72" CONTENT="Suomal."/><SP WIDTH="9" VPOS="1505" HPOS="445"/>
+							<String ID="string_9" HPOS="454" VPOS="1504" WIDTH="116" HEIGHT="19" WC="0.96" CONTENT="Kirjallisuuden"/><SP WIDTH="9" VPOS="1504" HPOS="570"/>
+							<String ID="string_10" HPOS="579" VPOS="1504" WIDTH="57" HEIGHT="14" WC="0.96" CONTENT="Seuran"/><SP WIDTH="9" VPOS="1504" HPOS="636"/>
+							<String ID="string_11" HPOS="645" VPOS="1502" WIDTH="111" HEIGHT="18" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="9" VPOS="1502" HPOS="756"/>
+							<String ID="string_12" HPOS="765" VPOS="1496" WIDTH="40" HEIGHT="28" WC="0.90" CONTENT="1891,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
