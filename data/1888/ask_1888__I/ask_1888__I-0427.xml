@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_njb6qjyv_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1089" HEIGHT="1706" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1089" HEIGHT="1706">
+				<ComposedBlock ID="cblock_0" HPOS="276" VPOS="114" WIDTH="40" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="276" VPOS="114" WIDTH="40" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="276" VPOS="114" WIDTH="40" HEIGHT="22">
+							<String ID="string_0" HPOS="276" VPOS="114" WIDTH="40" HEIGHT="22" WC="0.96" CONTENT="138"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="246" VPOS="180" WIDTH="750" HEIGHT="95">
+					<TextBlock ID="block_1" HPOS="246" VPOS="180" WIDTH="750" HEIGHT="95">
+						<TextLine ID="line_1" HPOS="315" VPOS="180" WIDTH="327" HEIGHT="22">
+							<String ID="string_1" HPOS="315" VPOS="180" WIDTH="120" HEIGHT="22" WC="0.96" CONTENT="Osallisuus"/><SP WIDTH="14" VPOS="180" HPOS="435"/>
+							<String ID="string_2" HPOS="449" VPOS="180" WIDTH="71" HEIGHT="20" WC="0.96" CONTENT="näihin"/><SP WIDTH="14" VPOS="180" HPOS="520"/>
+							<String ID="string_3" HPOS="534" VPOS="180" WIDTH="108" HEIGHT="21" WC="0.96" CONTENT="rikoksiin."/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="317" VPOS="213" WIDTH="679" HEIGHT="29">
+							<String ID="string_4" HPOS="317" VPOS="213" WIDTH="72" HEIGHT="29" WC="0.95" CONTENT="Yritys"/><SP WIDTH="20" VPOS="213" HPOS="389"/>
+							<String ID="string_5" HPOS="409" VPOS="214" WIDTH="94" HEIGHT="20" WC="0.93" CONTENT="kaikkiin"/><SP WIDTH="14" VPOS="214" HPOS="503"/>
+							<String ID="string_6" HPOS="517" VPOS="214" WIDTH="19" HEIGHT="20" WC="0.93" CONTENT="B"/><SP WIDTH="15" VPOS="214" HPOS="536"/>
+							<String ID="string_7" HPOS="551" VPOS="214" WIDTH="104" HEIGHT="20" WC="0.96" CONTENT="kohdassa"/><SP WIDTH="15" VPOS="214" HPOS="655"/>
+							<String ID="string_8" HPOS="670" VPOS="216" WIDTH="57" HEIGHT="18" WC="0.96" CONTENT="tässä"/><SP WIDTH="14" VPOS="216" HPOS="727"/>
+							<String ID="string_9" HPOS="741" VPOS="215" WIDTH="109" HEIGHT="25" WC="0.96" CONTENT="ylempänä"/><SP WIDTH="14" VPOS="215" HPOS="850"/>
+							<String ID="string_10" HPOS="864" VPOS="214" WIDTH="132" HEIGHT="20" WC="0.96" CONTENT="lueteltuihin"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="246" VPOS="248" WIDTH="550" HEIGHT="27">
+							<String ID="string_11" HPOS="246" VPOS="248" WIDTH="107" HEIGHT="25" WC="0.96" CONTENT="rikoksiin,"/><SP WIDTH="16" VPOS="248" HPOS="353"/>
+							<String ID="string_12" HPOS="369" VPOS="248" WIDTH="70" HEIGHT="21" WC="0.96" CONTENT="mikäli"/><SP WIDTH="17" VPOS="248" HPOS="439"/>
+							<String ID="string_13" HPOS="456" VPOS="249" WIDTH="67" HEIGHT="26" WC="0.96" CONTENT="yritys"/><SP WIDTH="15" VPOS="249" HPOS="523"/>
+							<String ID="string_14" HPOS="538" VPOS="249" WIDTH="66" HEIGHT="20" WC="0.96" CONTENT="niihin"/><SP WIDTH="15" VPOS="249" HPOS="604"/>
+							<String ID="string_15" HPOS="619" VPOS="255" WIDTH="26" HEIGHT="13" WC="0.96" CONTENT="on"/><SP WIDTH="14" VPOS="255" HPOS="645"/>
+							<String ID="string_16" HPOS="659" VPOS="249" WIDTH="137" HEIGHT="26" WC="0.96" CONTENT="rangaistava."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
