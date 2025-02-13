@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_9oyt7x5i_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1142" HEIGHT="1803" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1142" HEIGHT="1803">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="29" WIDTH="3" HEIGHT="410"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="334" VPOS="838" WIDTH="516" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="363" VPOS="848" WIDTH="482" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="363" VPOS="838" WIDTH="497" HEIGHT="33">
+						<TextLine ID="line_0" HPOS="363" VPOS="848" WIDTH="482" HEIGHT="23">
+							<String ID="string_0" HPOS="363" VPOS="848" WIDTH="116" HEIGHT="23" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="11" VPOS="848" HPOS="479"/>
+							<String ID="string_1" HPOS="490" VPOS="848" WIDTH="111" HEIGHT="23" WC="0.92" CONTENT="Helsingfors"/><SP WIDTH="15" VPOS="848" HPOS="601"/>
+							<String ID="string_2" HPOS="616" VPOS="848" WIDTH="166" HEIGHT="23" WC="0.91" CONTENT="Central-Tryckeri,"/><SP WIDTH="13" VPOS="848" HPOS="782"/>
+							<String ID="string_3" HPOS="795" VPOS="848" WIDTH="50" HEIGHT="18" WC="0.96" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="328" VPOS="877" WIDTH="548" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
