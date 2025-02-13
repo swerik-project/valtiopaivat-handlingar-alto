@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_90afhrud_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1117" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1117" HEIGHT="1773">
+				<ComposedBlock ID="cblock_0" HPOS="360" VPOS="479" WIDTH="314" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="360" VPOS="479" WIDTH="314" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="360" VPOS="479" WIDTH="314" HEIGHT="35">
+							<String ID="string_0" HPOS="360" VPOS="479" WIDTH="314" HEIGHT="35" WC="0.96" CONTENT="SELVITYS"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="501" VPOS="617" WIDTH="40" HEIGHT="14">
+					<TextBlock ID="block_1" HPOS="501" VPOS="617" WIDTH="40" HEIGHT="14">
+						<TextLine ID="line_1" HPOS="501" VPOS="617" WIDTH="40" HEIGHT="14">
+							<String ID="string_1" HPOS="501" VPOS="617" WIDTH="40" HEIGHT="14" WC="0.87" CONTENT="IIST"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="271" VPOS="1006" WIDTH="502" HEIGHT="54">
+					<TextBlock ID="block_2" HPOS="271" VPOS="1006" WIDTH="502" HEIGHT="54">
+						<TextLine ID="line_2" HPOS="271" VPOS="1006" WIDTH="502" HEIGHT="54">
+							<String ID="string_2" HPOS="271" VPOS="1006" WIDTH="140" HEIGHT="54" WC="0.92" CONTENT="SUOMEN"/><SP WIDTH="33" VPOS="1006" HPOS="411"/>
+							<String ID="string_3" HPOS="444" VPOS="1006" WIDTH="329" HEIGHT="54" WC="0.87" CONTENT="VALTIOKONTTORI."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="429" VPOS="1205" WIDTH="190" HEIGHT="12">
+					<TextBlock ID="block_3" HPOS="429" VPOS="1205" WIDTH="190" HEIGHT="12">
+						<TextLine ID="line_3" HPOS="429" VPOS="1205" WIDTH="190" HEIGHT="12">
+							<String ID="string_4" HPOS="429" VPOS="1210" WIDTH="32" HEIGHT="2" WC="0.27" CONTENT="—"/><SP WIDTH="3" VPOS="1210" HPOS="461"/>
+							<String ID="string_5" HPOS="464" VPOS="1205" WIDTH="155" HEIGHT="12" WC="0.24" CONTENT="00—0—F"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

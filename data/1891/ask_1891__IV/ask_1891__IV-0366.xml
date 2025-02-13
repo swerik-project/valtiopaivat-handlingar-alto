@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_r_6zbcao_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1117" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1117" HEIGHT="1773">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="56" WIDTH="2" HEIGHT="1688"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="520" VPOS="818" WIDTH="206" HEIGHT="5"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="336" VPOS="847" WIDTH="587" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="336" VPOS="847" WIDTH="587" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="336" VPOS="847" WIDTH="587" HEIGHT="23">
+							<String ID="string_0" HPOS="336" VPOS="847" WIDTH="122" HEIGHT="23" WC="0.91" CONTENT="Helsingissä,"/><SP WIDTH="15" VPOS="847" HPOS="458"/>
+							<String ID="string_1" HPOS="473" VPOS="847" WIDTH="130" HEIGHT="18" WC="0.92" CONTENT="Keisarillisen"/><SP WIDTH="13" VPOS="847" HPOS="603"/>
+							<String ID="string_2" HPOS="616" VPOS="847" WIDTH="87" HEIGHT="18" WC="0.91" CONTENT="Senaatin"/><SP WIDTH="13" VPOS="847" HPOS="703"/>
+							<String ID="string_3" HPOS="716" VPOS="847" WIDTH="143" HEIGHT="23" WC="0.91" CONTENT="kirjapainossa,"/><SP WIDTH="15" VPOS="847" HPOS="859"/>
+							<String ID="string_4" HPOS="874" VPOS="847" WIDTH="49" HEIGHT="16" WC="0.96" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="733" VPOS="1744" WIDTH="305" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

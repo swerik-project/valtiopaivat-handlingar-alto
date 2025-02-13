@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_31fimd9h_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1117" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1117" HEIGHT="1773">
+				<ComposedBlock ID="cblock_0" HPOS="462" VPOS="151" WIDTH="32" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="462" VPOS="151" WIDTH="32" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="462" VPOS="151" WIDTH="32" HEIGHT="21">
+							<String ID="string_0" HPOS="462" VPOS="151" WIDTH="32" HEIGHT="21" WC="0.80" CONTENT="III"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="297" VPOS="510" WIDTH="381" HEIGHT="66">
+					<TextBlock ID="block_1" HPOS="297" VPOS="510" WIDTH="381" HEIGHT="66">
+						<TextLine ID="line_1" HPOS="297" VPOS="510" WIDTH="381" HEIGHT="66">
+							<String ID="string_1" HPOS="297" VPOS="510" WIDTH="381" HEIGHT="66" WC="0.92" CONTENT="Pääoma-laskut"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="106" VPOS="676" WIDTH="755" HEIGHT="175">
+					<TextBlock ID="block_2" HPOS="106" VPOS="676" WIDTH="755" HEIGHT="175">
+						<TextLine ID="line_2" HPOS="106" VPOS="676" WIDTH="755" HEIGHT="60">
+							<String ID="string_2" HPOS="106" VPOS="678" WIDTH="115" HEIGHT="46" WC="0.89" CONTENT="Yleisistä"/><SP WIDTH="18" VPOS="678" HPOS="221"/>
+							<String ID="string_3" HPOS="239" VPOS="677" WIDTH="187" HEIGHT="46" WC="0.89" CONTENT="Valtiovaroista"/><SP WIDTH="20" VPOS="677" HPOS="426"/>
+							<String ID="string_4" HPOS="446" VPOS="676" WIDTH="103" HEIGHT="55" WC="0.92" CONTENT="(Valtio-"/><SP WIDTH="14" VPOS="676" HPOS="549"/>
+							<String ID="string_5" HPOS="563" VPOS="680" WIDTH="27" HEIGHT="56" WC="0.92" CONTENT="ja"/><SP WIDTH="14" VPOS="680" HPOS="590"/>
+							<String ID="string_6" HPOS="604" VPOS="677" WIDTH="257" HEIGHT="55" WC="0.92" CONTENT="Sotilasrahastoista)"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="185" VPOS="812" WIDTH="604" HEIGHT="39">
+							<String ID="string_7" HPOS="185" VPOS="814" WIDTH="150" HEIGHT="37" WC="0.93" CONTENT="Suomen"/><SP WIDTH="24" VPOS="814" HPOS="335"/>
+							<String ID="string_8" HPOS="359" VPOS="812" WIDTH="430" HEIGHT="39" WC="0.92" CONTENT="Suuriruhtinaanmaassa"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="278" VPOS="948" WIDTH="416" HEIGHT="33">
+					<TextBlock ID="block_3" HPOS="278" VPOS="948" WIDTH="416" HEIGHT="33">
+						<TextLine ID="line_4" HPOS="278" VPOS="948" WIDTH="416" HEIGHT="33">
+							<String ID="string_9" HPOS="278" VPOS="948" WIDTH="98" HEIGHT="26" WC="0.96" CONTENT="vuosilta"/><SP WIDTH="19" VPOS="948" HPOS="376"/>
+							<String ID="string_10" HPOS="395" VPOS="948" WIDTH="75" HEIGHT="33" WC="0.96" CONTENT="1886,"/><SP WIDTH="21" VPOS="948" HPOS="470"/>
+							<String ID="string_11" HPOS="491" VPOS="948" WIDTH="64" HEIGHT="25" WC="0.96" CONTENT="1887"/><SP WIDTH="17" VPOS="948" HPOS="555"/>
+							<String ID="string_12" HPOS="572" VPOS="948" WIDTH="27" HEIGHT="32" WC="0.96" CONTENT="ja"/><SP WIDTH="20" VPOS="948" HPOS="599"/>
+							<String ID="string_13" HPOS="619" VPOS="948" WIDTH="75" HEIGHT="26" WC="0.90" CONTENT="1888."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="1099" VPOS="17" WIDTH="17" HEIGHT="482"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
