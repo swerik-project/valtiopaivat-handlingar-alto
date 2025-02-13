@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_vzoyqtcp_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1020" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1020" HEIGHT="1717">
+				<GraphicalElement ID="cblock_0" HPOS="218" VPOS="293" WIDTH="6" HEIGHT="483"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="246" VPOS="146" WIDTH="44" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="246" VPOS="146" WIDTH="44" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="246" VPOS="146" WIDTH="44" HEIGHT="22">
+							<String ID="string_0" HPOS="246" VPOS="146" WIDTH="44" HEIGHT="22" WC="0.96" CONTENT="100"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="503" VPOS="248" WIDTH="116" HEIGHT="28">
+					<TextBlock ID="block_1" HPOS="503" VPOS="248" WIDTH="116" HEIGHT="28">
+						<TextLine ID="line_1" HPOS="503" VPOS="248" WIDTH="116" HEIGHT="28">
+							<String ID="string_1" HPOS="503" VPOS="248" WIDTH="116" HEIGHT="28" WC="0.95" CONTENT="Transport"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="498" VPOS="1478" WIDTH="116" HEIGHT="29">
+					<TextBlock ID="block_2" HPOS="498" VPOS="1478" WIDTH="116" HEIGHT="29">
+						<TextLine ID="line_2" HPOS="498" VPOS="1478" WIDTH="116" HEIGHT="29">
+							<String ID="string_2" HPOS="498" VPOS="1478" WIDTH="116" HEIGHT="29" WC="0.38" CONTENT="Tramsport"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="623" VPOS="220" WIDTH="14" HEIGHT="1287"></GraphicalElement >
+				<GraphicalElement ID="cblock_5" HPOS="741" VPOS="223" WIDTH="14" HEIGHT="1286"></GraphicalElement >
+				<ComposedBlock ID="cblock_6" HPOS="748" VPOS="1476" WIDTH="167" HEIGHT="34">
+					<TextBlock ID="block_3" HPOS="748" VPOS="1476" WIDTH="167" HEIGHT="34">
+						<TextLine ID="line_3" HPOS="748" VPOS="1476" WIDTH="167" HEIGHT="34">
+							<String ID="string_3" HPOS="748" VPOS="1476" WIDTH="31" HEIGHT="34" WC="0.70" CONTENT="—|"/><SP WIDTH="11" VPOS="1476" HPOS="779"/>
+							<String ID="string_4" HPOS="790" VPOS="1483" WIDTH="125" HEIGHT="25" WC="0.79" CONTENT="52,796,802"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_7" HPOS="752" VPOS="244" WIDTH="205" HEIGHT="31">
+					<TextBlock ID="block_4" HPOS="752" VPOS="244" WIDTH="205" HEIGHT="31">
+						<TextLine ID="line_4" HPOS="752" VPOS="244" WIDTH="205" HEIGHT="31">
+							<String ID="string_5" HPOS="752" VPOS="261" WIDTH="25" HEIGHT="2" WC="0.76" CONTENT="—|"/><SP WIDTH="17" VPOS="261" HPOS="777"/>
+							<String ID="string_6" HPOS="794" VPOS="244" WIDTH="163" HEIGHT="31" WC="0.64" CONTENT="52,796,802/27|"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_8" HPOS="916" VPOS="341" WIDTH="14" HEIGHT="1170"></GraphicalElement >
+				<ComposedBlock ID="cblock_9" HPOS="956" VPOS="321" WIDTH="2" HEIGHT="15">
+					<TextBlock ID="block_5" HPOS="956" VPOS="321" WIDTH="2" HEIGHT="15">
+						<TextLine ID="line_5" HPOS="956" VPOS="321" WIDTH="2" HEIGHT="15">
+							<String ID="string_7" HPOS="956" VPOS="321" WIDTH="2" HEIGHT="15" WC="0.85" CONTENT="|"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_10" HPOS="950" VPOS="222" WIDTH="14" HEIGHT="1284"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
