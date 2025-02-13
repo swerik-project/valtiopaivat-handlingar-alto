@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_t4cpndv__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1064" HEIGHT="1664" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1064" HEIGHT="1664">
+				<GraphicalElement ID="cblock_0" HPOS="346" VPOS="728" WIDTH="546" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="379" VPOS="738" WIDTH="481" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="379" VPOS="738" WIDTH="481" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="379" VPOS="738" WIDTH="481" HEIGHT="24">
+							<String ID="string_0" HPOS="379" VPOS="739" WIDTH="116" HEIGHT="23" WC="0.59" CONTENT="Helsingfors,"/><SP WIDTH="12" VPOS="739" HPOS="495"/>
+							<String ID="string_1" HPOS="507" VPOS="738" WIDTH="111" HEIGHT="23" WC="0.93" CONTENT="Helsingfors"/><SP WIDTH="14" VPOS="738" HPOS="618"/>
+							<String ID="string_2" HPOS="632" VPOS="738" WIDTH="165" HEIGHT="23" WC="0.91" CONTENT="Central-Tryckeri,"/><SP WIDTH="13" VPOS="738" HPOS="797"/>
+							<String ID="string_3" HPOS="810" VPOS="738" WIDTH="50" HEIGHT="17" WC="0.96" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="344" VPOS="769" WIDTH="548" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
