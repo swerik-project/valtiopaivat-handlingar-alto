@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_4sctw26f_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1061" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1061" HEIGHT="1717">
+				<ComposedBlock ID="cblock_0" HPOS="197" VPOS="182" WIDTH="331" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="197" VPOS="182" WIDTH="331" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="197" VPOS="182" WIDTH="331" HEIGHT="24">
+							<String ID="string_0" HPOS="197" VPOS="183" WIDTH="217" HEIGHT="23" WC="0.90" CONTENT="Anomusmietintö"/><SP WIDTH="14" VPOS="183" HPOS="414"/>
+							<String ID="string_1" HPOS="428" VPOS="183" WIDTH="46" HEIGHT="22" WC="0.96" CONTENT="N:o"/><SP WIDTH="16" VPOS="183" HPOS="474"/>
+							<String ID="string_2" HPOS="490" VPOS="182" WIDTH="38" HEIGHT="23" WC="0.96" CONTENT="26."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="77" VPOS="634" WIDTH="609" HEIGHT="29">
+					<TextBlock ID="block_1" HPOS="77" VPOS="634" WIDTH="609" HEIGHT="29">
+						<TextLine ID="line_1" HPOS="77" VPOS="634" WIDTH="609" HEIGHT="29">
+							<String ID="string_3" HPOS="77" VPOS="641" WIDTH="18" HEIGHT="16" WC="0.92" CONTENT="v."/><SP WIDTH="16" VPOS="641" HPOS="95"/>
+							<String ID="string_4" HPOS="111" VPOS="636" WIDTH="12" HEIGHT="21" WC="0.96" CONTENT="8"/><SP WIDTH="16" VPOS="636" HPOS="123"/>
+							<String ID="string_5" HPOS="139" VPOS="637" WIDTH="37" HEIGHT="20" WC="0.94" CONTENT="riv."/><SP WIDTH="18" VPOS="637" HPOS="176"/>
+							<String ID="string_6" HPOS="194" VPOS="636" WIDTH="25" HEIGHT="21" WC="0.96" CONTENT="17"/><SP WIDTH="16" VPOS="636" HPOS="219"/>
+							<String ID="string_7" HPOS="235" VPOS="641" WIDTH="27" HEIGHT="16" WC="0.95" CONTENT="on"/><SP WIDTH="15" VPOS="641" HPOS="262"/>
+							<String ID="string_8" HPOS="277" VPOS="641" WIDTH="59" HEIGHT="16" WC="0.93" CONTENT="sana:"/><SP WIDTH="18" VPOS="641" HPOS="336"/>
+							<String ID="string_9" HPOS="354" VPOS="635" WIDTH="109" HEIGHT="28" WC="0.92" CONTENT="Säätyjen,"/><SP WIDTH="15" VPOS="635" HPOS="463"/>
+							<String ID="string_10" HPOS="478" VPOS="635" WIDTH="44" HEIGHT="22" WC="0.89" CONTENT="lue:"/><SP WIDTH="17" VPOS="635" HPOS="522"/>
+							<String ID="string_11" HPOS="539" VPOS="634" WIDTH="147" HEIGHT="22" WC="0.91" CONTENT="Hallituksen."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="118" VPOS="1489" WIDTH="511" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="152" VPOS="1499" WIDTH="446" HEIGHT="18">
+					<TextBlock ID="block_2" HPOS="152" VPOS="1499" WIDTH="446" HEIGHT="18">
+						<TextLine ID="line_2" HPOS="152" VPOS="1499" WIDTH="446" HEIGHT="18">
+							<String ID="string_12" HPOS="152" VPOS="1499" WIDTH="98" HEIGHT="17" WC="0.90" CONTENT="Helsingissä,"/><SP WIDTH="9" VPOS="1499" HPOS="250"/>
+							<String ID="string_13" HPOS="259" VPOS="1499" WIDTH="78" HEIGHT="17" WC="0.92" CONTENT="Helsingin"/><SP WIDTH="11" VPOS="1499" HPOS="337"/>
+							<String ID="string_14" HPOS="348" VPOS="1499" WIDTH="200" HEIGHT="18" WC="0.92" CONTENT="Sentraali-Kirjapainossa,"/><SP WIDTH="10" VPOS="1499" HPOS="548"/>
+							<String ID="string_15" HPOS="558" VPOS="1499" WIDTH="40" HEIGHT="14" WC="0.96" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="1057" VPOS="754" WIDTH="3" HEIGHT="811"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

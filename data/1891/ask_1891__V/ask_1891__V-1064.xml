@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_7hh3xej1_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1061" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1061" HEIGHT="1717">
+				<GraphicalElement ID="cblock_0" HPOS="243" VPOS="785" WIDTH="543" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="286" VPOS="796" WIDTH="529" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="286" VPOS="796" WIDTH="529" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="286" VPOS="796" WIDTH="529" HEIGHT="22">
+							<String ID="string_0" HPOS="286" VPOS="796" WIDTH="112" HEIGHT="22" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="14" VPOS="796" HPOS="398"/>
+							<String ID="string_1" HPOS="412" VPOS="797" WIDTH="91" HEIGHT="21" WC="0.93" CONTENT="Helsingin"/><SP WIDTH="17" VPOS="797" HPOS="503"/>
+							<String ID="string_2" HPOS="520" VPOS="797" WIDTH="231" HEIGHT="21" WC="0.92" CONTENT="Sentraali-Kirjapainossa,"/><SP WIDTH="14" VPOS="797" HPOS="751"/>
+							<String ID="string_3" HPOS="765" VPOS="796" WIDTH="50" HEIGHT="17" WC="0.96" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="243" VPOS="827" WIDTH="611" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="0" VPOS="744" WIDTH="3" HEIGHT="384"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

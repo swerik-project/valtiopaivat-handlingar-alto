@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_8mvanjgk_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1061" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1061" HEIGHT="1717">
+				<ComposedBlock ID="cblock_0" HPOS="236" VPOS="795" WIDTH="672" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="236" VPOS="795" WIDTH="672" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="236" VPOS="795" WIDTH="672" HEIGHT="24">
+							<String ID="string_0" HPOS="236" VPOS="795" WIDTH="122" HEIGHT="24" WC="0.91" CONTENT="Helsingissä,"/><SP WIDTH="13" VPOS="795" HPOS="358"/>
+							<String ID="string_1" HPOS="371" VPOS="796" WIDTH="68" HEIGHT="18" WC="0.89" CONTENT="Weilin"/><SP WIDTH="12" VPOS="796" HPOS="439"/>
+							<String ID="string_2" HPOS="451" VPOS="797" WIDTH="20" HEIGHT="22" WC="0.93" CONTENT="ja"/><SP WIDTH="13" VPOS="797" HPOS="471"/>
+							<String ID="string_3" HPOS="484" VPOS="797" WIDTH="73" HEIGHT="17" WC="0.90" CONTENT="Göös&#39;in"/><SP WIDTH="15" VPOS="797" HPOS="557"/>
+							<String ID="string_4" HPOS="572" VPOS="797" WIDTH="120" HEIGHT="21" WC="0.88" CONTENT="osakeyhtiön"/><SP WIDTH="15" VPOS="797" HPOS="692"/>
+							<String ID="string_5" HPOS="707" VPOS="797" WIDTH="135" HEIGHT="22" WC="0.90" CONTENT="kirjapainossa"/><SP WIDTH="14" VPOS="797" HPOS="842"/>
+							<String ID="string_6" HPOS="856" VPOS="797" WIDTH="52" HEIGHT="17" WC="0.96" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

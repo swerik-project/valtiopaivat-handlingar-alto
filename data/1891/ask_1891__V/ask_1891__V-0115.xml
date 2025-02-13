@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_dhfrg998_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1061" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1061" HEIGHT="1717">
+				<GraphicalElement ID="cblock_0" HPOS="201" VPOS="789" WIDTH="752" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="327" VPOS="807" WIDTH="504" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="327" VPOS="807" WIDTH="504" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="327" VPOS="807" WIDTH="504" HEIGHT="18">
+							<String ID="string_0" HPOS="327" VPOS="807" WIDTH="102" HEIGHT="18" WC="0.93" CONTENT="Helsingissä,"/><SP WIDTH="11" VPOS="807" HPOS="429"/>
+							<String ID="string_1" HPOS="440" VPOS="808" WIDTH="66" HEIGHT="14" WC="0.88" CONTENT="Suomal."/><SP WIDTH="10" VPOS="808" HPOS="506"/>
+							<String ID="string_2" HPOS="516" VPOS="808" WIDTH="75" HEIGHT="17" WC="0.91" CONTENT="Kirjallis."/><SP WIDTH="10" VPOS="808" HPOS="591"/>
+							<String ID="string_3" HPOS="601" VPOS="808" WIDTH="57" HEIGHT="13" WC="0.96" CONTENT="Seuran"/><SP WIDTH="10" VPOS="808" HPOS="658"/>
+							<String ID="string_4" HPOS="668" VPOS="808" WIDTH="115" HEIGHT="17" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="10" VPOS="808" HPOS="783"/>
+							<String ID="string_5" HPOS="793" VPOS="808" WIDTH="38" HEIGHT="13" WC="0.96" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="317" VPOS="838" WIDTH="631" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
