@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_njyk7_va_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1125" HEIGHT="1739" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1125" HEIGHT="1739">
+				<ComposedBlock ID="cblock_0" HPOS="348" VPOS="291" WIDTH="365" HEIGHT="53">
+					<TextBlock ID="block_0" HPOS="348" VPOS="291" WIDTH="365" HEIGHT="53">
+						<TextLine ID="line_0" HPOS="348" VPOS="291" WIDTH="365" HEIGHT="53">
+							<String ID="string_0" HPOS="348" VPOS="291" WIDTH="365" HEIGHT="53" WC="0.96" CONTENT="ASIAKIRJAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="164" VPOS="512" WIDTH="734" HEIGHT="82">
+					<TextBlock ID="block_1" HPOS="164" VPOS="512" WIDTH="734" HEIGHT="82">
+						<TextLine ID="line_1" HPOS="164" VPOS="512" WIDTH="734" HEIGHT="82">
+							<String ID="string_1" HPOS="164" VPOS="512" WIDTH="378" HEIGHT="82" WC="0.72" CONTENT="VALTIOPÄIVILTÄ"/><SP WIDTH="36" VPOS="512" HPOS="542"/>
+							<String ID="string_2" HPOS="578" VPOS="512" WIDTH="320" HEIGHT="82" WC="0.94" CONTENT="HELSINGISSÄ"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="436" VPOS="716" WIDTH="190" HEIGHT="37">
+					<TextBlock ID="block_2" HPOS="436" VPOS="716" WIDTH="190" HEIGHT="37">
+						<TextLine ID="line_2" HPOS="436" VPOS="716" WIDTH="190" HEIGHT="37">
+							<String ID="string_3" HPOS="436" VPOS="727" WIDTH="106" HEIGHT="25" WC="0.96" CONTENT="vuonna"/><SP WIDTH="17" VPOS="727" HPOS="542"/>
+							<String ID="string_4" HPOS="559" VPOS="716" WIDTH="67" HEIGHT="37" WC="0.84" CONTENT="1891."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="434" VPOS="975" WIDTH="197" HEIGHT="22">
+					<TextBlock ID="block_3" HPOS="434" VPOS="975" WIDTH="197" HEIGHT="22">
+						<TextLine ID="line_3" HPOS="434" VPOS="975" WIDTH="197" HEIGHT="22">
+							<String ID="string_5" HPOS="434" VPOS="975" WIDTH="124" HEIGHT="22" WC="0.96" CONTENT="Kolmas"/><SP WIDTH="16" VPOS="975" HPOS="558"/>
+							<String ID="string_6" HPOS="574" VPOS="981" WIDTH="57" HEIGHT="16" WC="0.96" CONTENT="osa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="276" VPOS="1317" WIDTH="507" HEIGHT="94">
+					<TextBlock ID="block_4" HPOS="276" VPOS="1317" WIDTH="507" HEIGHT="94">
+						<TextLine ID="line_4" HPOS="423" VPOS="1317" WIDTH="220" HEIGHT="30">
+							<String ID="string_7" HPOS="423" VPOS="1317" WIDTH="220" HEIGHT="30" WC="0.95" CONTENT="HELSINGISSÄ,"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="276" VPOS="1360" WIDTH="507" HEIGHT="18">
+							<String ID="string_8" HPOS="276" VPOS="1363" WIDTH="72" HEIGHT="14" WC="0.91" CONTENT="WEILIN"/><SP WIDTH="11" VPOS="1363" HPOS="348"/>
+							<String ID="string_9" HPOS="359" VPOS="1362" WIDTH="12" HEIGHT="15" WC="0.92" CONTENT="&amp;"/><SP WIDTH="10" VPOS="1362" HPOS="371"/>
+							<String ID="string_10" HPOS="381" VPOS="1360" WIDTH="80" HEIGHT="17" WC="0.91" CONTENT="GÖÖS&#39;IN"/><SP WIDTH="11" VPOS="1360" HPOS="461"/>
+							<String ID="string_11" HPOS="472" VPOS="1361" WIDTH="144" HEIGHT="17" WC="0.93" CONTENT="OSAKEYHTIÖN"/><SP WIDTH="10" VPOS="1361" HPOS="616"/>
+							<String ID="string_12" HPOS="626" VPOS="1363" WIDTH="157" HEIGHT="14" WC="0.91" CONTENT="KIRJAPAINOSSA"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="508" VPOS="1394" WIDTH="52" HEIGHT="17">
+							<String ID="string_13" HPOS="508" VPOS="1394" WIDTH="52" HEIGHT="17" WC="0.93" CONTENT="1892."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_5" HPOS="1123" VPOS="980" WIDTH="2" HEIGHT="655"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
