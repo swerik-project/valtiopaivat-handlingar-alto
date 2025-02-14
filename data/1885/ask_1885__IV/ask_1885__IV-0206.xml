@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_j6xgl_ea_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1078" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1078" HEIGHT="1692">
+				<ComposedBlock ID="cblock_0" HPOS="367" VPOS="622" WIDTH="240" HEIGHT="128">
+					<TextBlock ID="block_0" HPOS="367" VPOS="622" WIDTH="240" HEIGHT="128">
+						<TextLine ID="line_0" HPOS="367" VPOS="622" WIDTH="240" HEIGHT="51">
+							<String ID="string_0" HPOS="367" VPOS="622" WIDTH="240" HEIGHT="51" WC="0.89" CONTENT="Tauluja."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="395" VPOS="710" WIDTH="167" HEIGHT="40">
+							<String ID="string_1" HPOS="395" VPOS="710" WIDTH="167" HEIGHT="40" WC="0.55" CONTENT="I—XXIV."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="449" VPOS="859" WIDTH="52" HEIGHT="2">
+					<TextBlock ID="block_1" HPOS="449" VPOS="859" WIDTH="52" HEIGHT="2">
+						<TextLine ID="line_2" HPOS="449" VPOS="859" WIDTH="52" HEIGHT="2">
+							<String ID="string_2" HPOS="449" VPOS="859" WIDTH="52" HEIGHT="2" WC="0.95" CONTENT="|"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="1074" VPOS="186" WIDTH="3" HEIGHT="992"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
