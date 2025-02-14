@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_9qszufc1_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1759" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1759">
+				<ComposedBlock ID="cblock_0" HPOS="325" VPOS="124" WIDTH="335" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="325" VPOS="124" WIDTH="335" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="325" VPOS="124" WIDTH="335" HEIGHT="23">
+							<String ID="string_0" HPOS="325" VPOS="124" WIDTH="222" HEIGHT="23" WC="0.90" CONTENT="Anomusmietintö"/><SP WIDTH="17" VPOS="124" HPOS="547"/>
+							<String ID="string_1" HPOS="564" VPOS="125" WIDTH="43" HEIGHT="22" WC="0.95" CONTENT="N:o"/><SP WIDTH="16" VPOS="125" HPOS="607"/>
+							<String ID="string_2" HPOS="623" VPOS="124" WIDTH="37" HEIGHT="23" WC="0.96" CONTENT="25."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="113" VPOS="572" WIDTH="758" HEIGHT="62">
+					<TextBlock ID="block_1" HPOS="113" VPOS="572" WIDTH="758" HEIGHT="62">
+						<TextLine ID="line_1" HPOS="184" VPOS="572" WIDTH="687" HEIGHT="22">
+							<String ID="string_3" HPOS="184" VPOS="572" WIDTH="118" HEIGHT="22" WC="0.91" CONTENT="Mietinnön"/><SP WIDTH="22" VPOS="572" HPOS="302"/>
+							<String ID="string_4" HPOS="324" VPOS="572" WIDTH="92" HEIGHT="22" WC="0.92" CONTENT="ehdotus"/><SP WIDTH="23" VPOS="572" HPOS="416"/>
+							<String ID="string_5" HPOS="439" VPOS="578" WIDTH="28" HEIGHT="16" WC="0.93" CONTENT="on"/><SP WIDTH="26" VPOS="578" HPOS="467"/>
+							<String ID="string_6" HPOS="493" VPOS="572" WIDTH="149" HEIGHT="22" WC="0.91" CONTENT="Valiokunnan"/><SP WIDTH="21" VPOS="572" HPOS="642"/>
+							<String ID="string_7" HPOS="663" VPOS="572" WIDTH="99" HEIGHT="22" WC="0.91" CONTENT="sihteerin"/><SP WIDTH="23" VPOS="572" HPOS="762"/>
+							<String ID="string_8" HPOS="785" VPOS="572" WIDTH="86" HEIGHT="22" WC="0.91" CONTENT="laatima"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="113" VPOS="607" WIDTH="338" HEIGHT="27">
+							<String ID="string_9" HPOS="113" VPOS="608" WIDTH="24" HEIGHT="26" WC="0.93" CONTENT="ja"/><SP WIDTH="14" VPOS="608" HPOS="137"/>
+							<String ID="string_10" HPOS="151" VPOS="607" WIDTH="149" HEIGHT="22" WC="0.90" CONTENT="Valiokunnan"/><SP WIDTH="15" VPOS="607" HPOS="300"/>
+							<String ID="string_11" HPOS="315" VPOS="607" WIDTH="136" HEIGHT="27" WC="0.91" CONTENT="hyväksymä."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="400" VPOS="704" WIDTH="400" HEIGHT="22">
+					<TextBlock ID="block_2" HPOS="400" VPOS="704" WIDTH="400" HEIGHT="22">
+						<TextLine ID="line_3" HPOS="400" VPOS="704" WIDTH="400" HEIGHT="22">
+							<String ID="string_12" HPOS="400" VPOS="705" WIDTH="263" HEIGHT="21" WC="0.91" CONTENT="Toimitusvaliokunnan"/><SP WIDTH="11" VPOS="705" HPOS="663"/>
+							<String ID="string_13" HPOS="674" VPOS="704" WIDTH="126" HEIGHT="22" WC="0.91" CONTENT="muistutus."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
