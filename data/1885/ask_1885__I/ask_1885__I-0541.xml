@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ges7f5er_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1025" HEIGHT="1631" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1025" HEIGHT="1631">
+				<ComposedBlock ID="cblock_0" HPOS="254" VPOS="671" WIDTH="685" HEIGHT="128">
+					<TextBlock ID="block_0" HPOS="254" VPOS="671" WIDTH="685" HEIGHT="128">
+						<TextLine ID="line_0" HPOS="800" VPOS="671" WIDTH="10" HEIGHT="12">
+							<String ID="string_0" HPOS="800" VPOS="671" WIDTH="10" HEIGHT="12" WC="0.74" CONTENT="v"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="254" VPOS="790" WIDTH="685" HEIGHT="9">
+							<String ID="string_1" HPOS="250" VPOS="780" WIDTH="168" HEIGHT="28" WC="0.50" CONTENT="-—1"/><SP WIDTH="-164" VPOS="780" HPOS="418"/>
+							<String ID="string_2" HPOS="254" VPOS="790" WIDTH="685" HEIGHT="9" WC="0.0" CONTENT="ss-vr-w-r--——"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="306" VPOS="817" WIDTH="583" HEIGHT="23">
+					<TextBlock ID="block_1" HPOS="306" VPOS="817" WIDTH="583" HEIGHT="23">
+						<TextLine ID="line_2" HPOS="306" VPOS="817" WIDTH="583" HEIGHT="23">
+							<String ID="string_3" HPOS="306" VPOS="817" WIDTH="120" HEIGHT="23" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="14" VPOS="817" HPOS="426"/>
+							<String ID="string_4" HPOS="440" VPOS="817" WIDTH="129" HEIGHT="18" WC="0.96" CONTENT="Keisarillisen"/><SP WIDTH="14" VPOS="817" HPOS="569"/>
+							<String ID="string_5" HPOS="583" VPOS="817" WIDTH="87" HEIGHT="18" WC="0.96" CONTENT="Senaatin"/><SP WIDTH="14" VPOS="817" HPOS="670"/>
+							<String ID="string_6" HPOS="684" VPOS="817" WIDTH="143" HEIGHT="23" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="15" VPOS="817" HPOS="827"/>
+							<String ID="string_7" HPOS="842" VPOS="818" WIDTH="47" HEIGHT="17" WC="0.96" CONTENT="1885."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="254" VPOS="858" WIDTH="686" HEIGHT="5"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
