@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_hy8kjbph_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1086" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1086" HEIGHT="1717">
+				<ComposedBlock ID="cblock_0" HPOS="491" VPOS="106" WIDTH="40" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="491" VPOS="106" WIDTH="40" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="491" VPOS="106" WIDTH="40" HEIGHT="21">
+							<String ID="string_0" HPOS="491" VPOS="106" WIDTH="40" HEIGHT="21" WC="0.95" CONTENT="XX"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="197" VPOS="484" WIDTH="628" HEIGHT="352">
+					<TextBlock ID="block_1" HPOS="197" VPOS="484" WIDTH="628" HEIGHT="352">
+						<TextLine ID="line_1" HPOS="393" VPOS="484" WIDTH="235" HEIGHT="56">
+							<String ID="string_1" HPOS="393" VPOS="484" WIDTH="235" HEIGHT="56" WC="0.96" CONTENT="Relation"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="462" VPOS="612" WIDTH="98" HEIGHT="24">
+							<String ID="string_2" HPOS="462" VPOS="612" WIDTH="98" HEIGHT="24" WC="0.91" CONTENT="angäende"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="197" VPOS="702" WIDTH="628" HEIGHT="47">
+							<String ID="string_3" HPOS="197" VPOS="702" WIDTH="628" HEIGHT="47" WC="0.90" CONTENT="stämpelbevillningsmedlen"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="500" VPOS="818" WIDTH="30" HEIGHT="18">
+							<String ID="string_4" HPOS="500" VPOS="818" WIDTH="30" HEIGHT="18" WC="0.96" CONTENT="för"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="377" VPOS="909" WIDTH="275" HEIGHT="24">
+					<TextBlock ID="block_2" HPOS="377" VPOS="909" WIDTH="275" HEIGHT="24">
+						<TextLine ID="line_5" HPOS="377" VPOS="909" WIDTH="275" HEIGHT="24">
+							<String ID="string_5" HPOS="377" VPOS="909" WIDTH="65" HEIGHT="24" WC="0.92" CONTENT="ären"/><SP WIDTH="18" VPOS="909" HPOS="442"/>
+							<String ID="string_6" HPOS="460" VPOS="911" WIDTH="192" HEIGHT="22" WC="0.91" CONTENT="1881—1883."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="1082" VPOS="30" WIDTH="3" HEIGHT="1150"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

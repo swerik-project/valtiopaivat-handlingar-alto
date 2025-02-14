@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_20h3yjoa_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1086" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1086" HEIGHT="1717">
+				<ComposedBlock ID="cblock_0" HPOS="497" VPOS="88" WIDTH="61" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="497" VPOS="88" WIDTH="61" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="497" VPOS="88" WIDTH="61" HEIGHT="21">
+							<String ID="string_0" HPOS="497" VPOS="88" WIDTH="61" HEIGHT="21" WC="0.53" CONTENT="XVI"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="340" VPOS="443" WIDTH="370" HEIGHT="72">
+					<TextBlock ID="block_1" HPOS="340" VPOS="443" WIDTH="370" HEIGHT="72">
+						<TextLine ID="line_1" HPOS="340" VPOS="443" WIDTH="370" HEIGHT="72">
+							<String ID="string_1" HPOS="340" VPOS="443" WIDTH="370" HEIGHT="72" WC="0.89" CONTENT="Sammandrag"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="515" VPOS="571" WIDTH="20" HEIGHT="18">
+					<TextBlock ID="block_2" HPOS="515" VPOS="571" WIDTH="20" HEIGHT="18">
+						<TextLine ID="line_2" HPOS="515" VPOS="571" WIDTH="20" HEIGHT="18">
+							<String ID="string_2" HPOS="515" VPOS="571" WIDTH="20" HEIGHT="18" WC="0.94" CONTENT="af"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="165" VPOS="661" WIDTH="707" HEIGHT="105">
+					<TextBlock ID="block_3" HPOS="165" VPOS="661" WIDTH="707" HEIGHT="105">
+						<TextLine ID="line_3" HPOS="165" VPOS="661" WIDTH="707" HEIGHT="47">
+							<String ID="string_3" HPOS="165" VPOS="661" WIDTH="238" HEIGHT="47" WC="0.96" CONTENT="räkningarna"/><SP WIDTH="25" VPOS="661" HPOS="403"/>
+							<String ID="string_4" HPOS="428" VPOS="661" WIDTH="101" HEIGHT="38" WC="0.96" CONTENT="öfver"/><SP WIDTH="23" VPOS="661" HPOS="529"/>
+							<String ID="string_5" HPOS="552" VPOS="661" WIDTH="174" HEIGHT="38" WC="0.93" CONTENT="allmänna"/><SP WIDTH="23" VPOS="661" HPOS="726"/>
+							<String ID="string_6" HPOS="749" VPOS="661" WIDTH="123" HEIGHT="39" WC="0.92" CONTENT="bevill-"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="407" VPOS="719" WIDTH="238" HEIGHT="47">
+							<String ID="string_7" HPOS="407" VPOS="719" WIDTH="238" HEIGHT="47" WC="0.91" CONTENT="ningsfonden"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="509" VPOS="831" WIDTH="31" HEIGHT="18">
+					<TextBlock ID="block_4" HPOS="509" VPOS="831" WIDTH="31" HEIGHT="18">
+						<TextLine ID="line_5" HPOS="509" VPOS="831" WIDTH="31" HEIGHT="18">
+							<String ID="string_8" HPOS="509" VPOS="831" WIDTH="31" HEIGHT="18" WC="0.96" CONTENT="för"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="402" VPOS="921" WIDTH="240" HEIGHT="25">
+					<TextBlock ID="block_5" HPOS="402" VPOS="921" WIDTH="240" HEIGHT="25">
+						<TextLine ID="line_6" HPOS="402" VPOS="921" WIDTH="240" HEIGHT="25">
+							<String ID="string_9" HPOS="402" VPOS="921" WIDTH="67" HEIGHT="25" WC="0.93" CONTENT="åren"/><SP WIDTH="14" VPOS="921" HPOS="469"/>
+							<String ID="string_10" HPOS="483" VPOS="923" WIDTH="159" HEIGHT="23" WC="0.79" CONTENT="1881—1883."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_6" HPOS="1080" VPOS="544" WIDTH="6" HEIGHT="574"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
