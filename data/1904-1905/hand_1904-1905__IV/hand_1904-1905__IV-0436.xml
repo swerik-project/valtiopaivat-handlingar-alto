@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_n5s_uvr7_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1048" HEIGHT="1628" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1048" HEIGHT="1628">
+				<ComposedBlock ID="cblock_0" HPOS="440" VPOS="398" WIDTH="90" HEIGHT="31">
+					<TextBlock ID="block_0" HPOS="440" VPOS="398" WIDTH="90" HEIGHT="31">
+						<TextLine ID="line_0" HPOS="440" VPOS="398" WIDTH="90" HEIGHT="31">
+							<String ID="string_0" HPOS="440" VPOS="398" WIDTH="41" HEIGHT="30" WC="0.96" CONTENT="15"/><SP WIDTH="14" VPOS="398" HPOS="481"/>
+							<String ID="string_1" HPOS="495" VPOS="399" WIDTH="35" HEIGHT="30" WC="0.95" CONTENT="b."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="267" VPOS="539" WIDTH="445" HEIGHT="55">
+					<TextBlock ID="block_1" HPOS="267" VPOS="539" WIDTH="445" HEIGHT="55">
+						<TextLine ID="line_1" HPOS="267" VPOS="539" WIDTH="445" HEIGHT="55">
+							<String ID="string_2" HPOS="267" VPOS="558" WIDTH="9" HEIGHT="3" WC="0.57" CONTENT="-"/><SP WIDTH="33" VPOS="558" HPOS="276"/>
+							<String ID="string_3" HPOS="309" VPOS="544" WIDTH="360" HEIGHT="50" WC="0.94" CONTENT="Sammandrag"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="478" VPOS="633" WIDTH="21" HEIGHT="18">
+					<TextBlock ID="block_2" HPOS="478" VPOS="633" WIDTH="21" HEIGHT="18">
+						<TextLine ID="line_2" HPOS="478" VPOS="633" WIDTH="21" HEIGHT="18">
+							<String ID="string_4" HPOS="478" VPOS="633" WIDTH="21" HEIGHT="18" WC="0.93" CONTENT="af"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="83" VPOS="703" WIDTH="806" HEIGHT="57">
+					<TextBlock ID="block_3" HPOS="83" VPOS="703" WIDTH="806" HEIGHT="57">
+						<TextLine ID="line_3" HPOS="83" VPOS="703" WIDTH="806" HEIGHT="57">
+							<String ID="string_5" HPOS="83" VPOS="703" WIDTH="208" HEIGHT="57" WC="0.96" CONTENT="räkningarna"/><SP WIDTH="21" VPOS="703" HPOS="291"/>
+							<String ID="string_6" HPOS="312" VPOS="703" WIDTH="156" HEIGHT="57" WC="0.93" CONTENT="angående"/><SP WIDTH="21" VPOS="703" HPOS="468"/>
+							<String ID="string_7" HPOS="489" VPOS="704" WIDTH="205" HEIGHT="45" WC="0.85" CONTENT="statsverkets"/><SP WIDTH="20" VPOS="704" HPOS="694"/>
+							<String ID="string_8" HPOS="714" VPOS="703" WIDTH="175" HEIGHT="46" WC="0.83" CONTENT="reservfond"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="472" VPOS="805" WIDTH="31" HEIGHT="18">
+					<TextBlock ID="block_4" HPOS="472" VPOS="805" WIDTH="31" HEIGHT="18">
+						<TextLine ID="line_4" HPOS="472" VPOS="805" WIDTH="31" HEIGHT="18">
+							<String ID="string_9" HPOS="472" VPOS="805" WIDTH="31" HEIGHT="18" WC="0.88" CONTENT="för"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="342" VPOS="875" WIDTH="291" HEIGHT="21">
+					<TextBlock ID="block_5" HPOS="342" VPOS="875" WIDTH="291" HEIGHT="21">
+						<TextLine ID="line_5" HPOS="342" VPOS="875" WIDTH="291" HEIGHT="21">
+							<String ID="string_10" HPOS="342" VPOS="875" WIDTH="63" HEIGHT="21" WC="0.96" CONTENT="åren"/><SP WIDTH="15" VPOS="875" HPOS="405"/>
+							<String ID="string_11" HPOS="420" VPOS="876" WIDTH="61" HEIGHT="20" WC="0.96" CONTENT="1899"/><SP WIDTH="17" VPOS="876" HPOS="481"/>
+							<String ID="string_12" HPOS="498" VPOS="876" WIDTH="47" HEIGHT="20" WC="0.96" CONTENT="och"/><SP WIDTH="15" VPOS="876" HPOS="545"/>
+							<String ID="string_13" HPOS="560" VPOS="876" WIDTH="73" HEIGHT="20" WC="0.96" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_pwcr_mgf_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="992" HEIGHT="1620" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="992" HEIGHT="1620">
+				<ComposedBlock ID="cblock_0" HPOS="736" VPOS="143" WIDTH="99" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="736" VPOS="143" WIDTH="99" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="736" VPOS="143" WIDTH="99" HEIGHT="23">
+							<String ID="string_0" HPOS="736" VPOS="143" WIDTH="69" HEIGHT="23" WC="0.96" CONTENT="Bilaga"/><SP WIDTH="14" VPOS="143" HPOS="805"/>
+							<String ID="string_1" HPOS="819" VPOS="143" WIDTH="16" HEIGHT="19" WC="0.96" CONTENT="I."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="125" VPOS="618" WIDTH="676" HEIGHT="149">
+					<TextBlock ID="block_1" HPOS="125" VPOS="618" WIDTH="676" HEIGHT="149">
+						<TextLine ID="line_1" HPOS="360" VPOS="618" WIDTH="207" HEIGHT="47">
+							<String ID="string_2" HPOS="360" VPOS="618" WIDTH="207" HEIGHT="47" WC="0.96" CONTENT="Ställningen"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="454" VPOS="688" WIDTH="6" HEIGHT="19">
+							<String ID="string_3" HPOS="454" VPOS="688" WIDTH="6" HEIGHT="19" WC="0.96" CONTENT="i"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="125" VPOS="735" WIDTH="676" HEIGHT="32">
+							<String ID="string_4" HPOS="125" VPOS="735" WIDTH="159" HEIGHT="31" WC="0.91" CONTENT="Donerade"/><SP WIDTH="24" VPOS="735" HPOS="284"/>
+							<String ID="string_5" HPOS="308" VPOS="736" WIDTH="57" HEIGHT="30" WC="0.96" CONTENT="och"/><SP WIDTH="24" VPOS="736" HPOS="365"/>
+							<String ID="string_6" HPOS="389" VPOS="736" WIDTH="122" HEIGHT="31" WC="0.96" CONTENT="därmed"/><SP WIDTH="23" VPOS="736" HPOS="511"/>
+							<String ID="string_7" HPOS="534" VPOS="736" WIDTH="139" HEIGHT="31" WC="0.96" CONTENT="likartade"/><SP WIDTH="21" VPOS="736" HPOS="673"/>
+							<String ID="string_8" HPOS="694" VPOS="736" WIDTH="107" HEIGHT="31" WC="0.96" CONTENT="fonder"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="245" VPOS="812" WIDTH="413" HEIGHT="32">
+					<TextBlock ID="block_2" HPOS="245" VPOS="812" WIDTH="413" HEIGHT="32">
+						<TextLine ID="line_4" HPOS="245" VPOS="812" WIDTH="413" HEIGHT="32">
+							<String ID="string_9" HPOS="245" VPOS="812" WIDTH="57" HEIGHT="30" WC="0.96" CONTENT="den"/><SP WIDTH="24" VPOS="812" HPOS="302"/>
+							<String ID="string_10" HPOS="326" VPOS="813" WIDTH="34" HEIGHT="30" WC="0.96" CONTENT="31"/><SP WIDTH="28" VPOS="813" HPOS="360"/>
+							<String ID="string_11" HPOS="388" VPOS="813" WIDTH="159" HEIGHT="31" WC="0.96" CONTENT="december"/><SP WIDTH="26" VPOS="813" HPOS="547"/>
+							<String ID="string_12" HPOS="573" VPOS="812" WIDTH="85" HEIGHT="31" WC="0.96" CONTENT="1904."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

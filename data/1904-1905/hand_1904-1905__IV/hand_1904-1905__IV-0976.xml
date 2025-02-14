@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_nlv5kshq_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1164" HEIGHT="1756" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1164" HEIGHT="1756">
+				<GraphicalElement ID="cblock_0" HPOS="95" VPOS="195" WIDTH="2" HEIGHT="1205"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="37" VPOS="195" WIDTH="2" HEIGHT="1209"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="103" VPOS="252" WIDTH="19" HEIGHT="60">
+					<TextBlock ID="block_0" HPOS="103" VPOS="252" WIDTH="19" HEIGHT="60">
+						<TextLine ID="line_0" HPOS="103" VPOS="252" WIDTH="19" HEIGHT="60">
+							<String ID="string_0" HPOS="103" VPOS="252" WIDTH="19" HEIGHT="60" WC="0.65" CONTENT="&quot;TON"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="129" VPOS="196" WIDTH="2" HEIGHT="1208"></GraphicalElement >
+				<ComposedBlock ID="cblock_4" HPOS="137" VPOS="408" WIDTH="347" HEIGHT="519">
+					<TextBlock ID="block_1" HPOS="376" VPOS="408" WIDTH="108" HEIGHT="24">
+						<TextLine ID="line_1" HPOS="376" VPOS="408" WIDTH="108" HEIGHT="24">
+							<String ID="string_1" HPOS="376" VPOS="408" WIDTH="108" HEIGHT="24" WC="0.95" CONTENT="Transport"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="137" VPOS="442" WIDTH="347" HEIGHT="485">
+						<TextLine ID="line_2" HPOS="138" VPOS="442" WIDTH="346" HEIGHT="19">
+							<String ID="string_2" HPOS="138" VPOS="442" WIDTH="114" HEIGHT="19" WC="0.95" CONTENT="Understöd"/><SP WIDTH="14" VPOS="442" HPOS="252"/>
+							<String ID="string_3" HPOS="266" VPOS="442" WIDTH="32" HEIGHT="18" WC="0.93" CONTENT="till"/><SP WIDTH="15" VPOS="442" HPOS="298"/>
+							<String ID="string_4" HPOS="313" VPOS="442" WIDTH="94" HEIGHT="19" WC="0.91" CONTENT="afskedad"/><SP WIDTH="11" VPOS="442" HPOS="407"/>
+							<String ID="string_5" HPOS="418" VPOS="443" WIDTH="66" HEIGHT="18" WC="0.96" CONTENT="soldat"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="160" VPOS="471" WIDTH="322" HEIGHT="24">
+							<String ID="string_6" HPOS="160" VPOS="471" WIDTH="32" HEIGHT="18" WC="0.96" CONTENT="för"/><SP WIDTH="12" VPOS="471" HPOS="192"/>
+							<String ID="string_7" HPOS="204" VPOS="471" WIDTH="21" HEIGHT="18" WC="0.96" CONTENT="år"/><SP WIDTH="13" VPOS="471" HPOS="225"/>
+							<String ID="string_8" HPOS="238" VPOS="472" WIDTH="44" HEIGHT="17" WC="0.93" CONTENT="1902"/><SP WIDTH="12" VPOS="472" HPOS="282"/>
+							<String ID="string_9" HPOS="294" VPOS="471" WIDTH="99" HEIGHT="24" WC="0.75" CONTENT="(Militief.)"/><SP WIDTH="17" VPOS="471" HPOS="393"/>
+							<String ID="string_10" HPOS="410" VPOS="485" WIDTH="3" HEIGHT="4" WC="0.85" CONTENT="."/><SP WIDTH="19" VPOS="485" HPOS="413"/>
+							<String ID="string_11" HPOS="432" VPOS="485" WIDTH="4" HEIGHT="4" WC="0.85" CONTENT="."/><SP WIDTH="20" VPOS="485" HPOS="436"/>
+							<String ID="string_12" HPOS="456" VPOS="485" WIDTH="4" HEIGHT="4" WC="0.76" CONTENT="."/><SP WIDTH="18" VPOS="485" HPOS="460"/>
+							<String ID="string_13" HPOS="478" VPOS="485" WIDTH="4" HEIGHT="4" WC="0.76" CONTENT="."/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="137" VPOS="500" WIDTH="345" HEIGHT="18">
+							<String ID="string_14" HPOS="137" VPOS="500" WIDTH="161" HEIGHT="18" WC="0.91" CONTENT="Resekostnader"/><SP WIDTH="12" VPOS="500" HPOS="298"/>
+							<String ID="string_15" HPOS="310" VPOS="500" WIDTH="63" HEIGHT="18" WC="0.95" CONTENT="under"/><SP WIDTH="9" VPOS="500" HPOS="373"/>
+							<String ID="string_16" HPOS="382" VPOS="500" WIDTH="47" HEIGHT="18" WC="0.96" CONTENT="åren"/><SP WIDTH="9" VPOS="500" HPOS="429"/>
+							<String ID="string_17" HPOS="438" VPOS="500" WIDTH="44" HEIGHT="18" WC="0.96" CONTENT="1901"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="160" VPOS="528" WIDTH="323" HEIGHT="24">
+							<String ID="string_18" HPOS="160" VPOS="529" WIDTH="70" HEIGHT="18" WC="0.91" CONTENT="—1902"/><SP WIDTH="12" VPOS="529" HPOS="230"/>
+							<String ID="string_19" HPOS="242" VPOS="528" WIDTH="82" HEIGHT="24" WC="0.71" CONTENT="(Statsf.)"/><SP WIDTH="17" VPOS="528" HPOS="324"/>
+							<String ID="string_20" HPOS="341" VPOS="542" WIDTH="3" HEIGHT="5" WC="0.76" CONTENT="."/><SP WIDTH="20" VPOS="542" HPOS="344"/>
+							<String ID="string_21" HPOS="364" VPOS="542" WIDTH="3" HEIGHT="5" WC="0.78" CONTENT="."/><SP WIDTH="19" VPOS="542" HPOS="367"/>
+							<String ID="string_22" HPOS="386" VPOS="543" WIDTH="4" HEIGHT="4" WC="0.71" CONTENT="."/><SP WIDTH="20" VPOS="543" HPOS="390"/>
+							<String ID="string_23" HPOS="410" VPOS="542" WIDTH="4" HEIGHT="5" WC="0.72" CONTENT="."/><SP WIDTH="19" VPOS="542" HPOS="414"/>
+							<String ID="string_24" HPOS="433" VPOS="542" WIDTH="50" HEIGHT="5" WC="0.35" CONTENT="..."/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="137" VPOS="557" WIDTH="346" HEIGHT="24">
+							<String ID="string_25" HPOS="137" VPOS="557" WIDTH="117" HEIGHT="24" WC="0.95" CONTENT="Ersättning"/><SP WIDTH="12" VPOS="557" HPOS="254"/>
+							<String ID="string_26" HPOS="266" VPOS="557" WIDTH="32" HEIGHT="18" WC="0.96" CONTENT="till"/><SP WIDTH="11" VPOS="557" HPOS="298"/>
+							<String ID="string_27" HPOS="309" VPOS="557" WIDTH="75" HEIGHT="18" WC="0.93" CONTENT="Finska"/><SP WIDTH="9" VPOS="557" HPOS="384"/>
+							<String ID="string_28" HPOS="393" VPOS="557" WIDTH="90" HEIGHT="19" WC="0.90" CONTENT="Civilsta-"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="160" VPOS="586" WIDTH="324" HEIGHT="23">
+							<String ID="string_29" HPOS="160" VPOS="587" WIDTH="46" HEIGHT="18" WC="0.92" CONTENT="tens"/><SP WIDTH="25" VPOS="587" HPOS="206"/>
+							<String ID="string_30" HPOS="231" VPOS="587" WIDTH="58" HEIGHT="18" WC="0.91" CONTENT="enke-"/><SP WIDTH="19" VPOS="587" HPOS="289"/>
+							<String ID="string_31" HPOS="308" VPOS="586" WIDTH="37" HEIGHT="18" WC="0.93" CONTENT="och"/><SP WIDTH="17" VPOS="586" HPOS="345"/>
+							<String ID="string_32" HPOS="362" VPOS="586" WIDTH="122" HEIGHT="23" WC="0.90" CONTENT="pupillkassa"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="160" VPOS="615" WIDTH="323" HEIGHT="24">
+							<String ID="string_33" HPOS="160" VPOS="615" WIDTH="32" HEIGHT="18" WC="0.96" CONTENT="för"/><SP WIDTH="8" VPOS="615" HPOS="192"/>
+							<String ID="string_34" HPOS="200" VPOS="615" WIDTH="60" HEIGHT="24" WC="0.95" CONTENT="sagda"/><SP WIDTH="7" VPOS="615" HPOS="260"/>
+							<String ID="string_35" HPOS="267" VPOS="615" WIDTH="59" HEIGHT="18" WC="0.96" CONTENT="kassa"/><SP WIDTH="8" VPOS="615" HPOS="326"/>
+							<String ID="string_36" HPOS="334" VPOS="615" WIDTH="149" HEIGHT="18" WC="0.95" CONTENT="tillkommande"/>
+						</TextLine>
+						<TextLine ID="line_9" HPOS="160" VPOS="643" WIDTH="323" HEIGHT="24">
+							<String ID="string_37" HPOS="160" VPOS="643" WIDTH="180" HEIGHT="24" WC="0.79" CONTENT="vakansbesparing"/><SP WIDTH="14" VPOS="643" HPOS="340"/>
+							<String ID="string_38" HPOS="354" VPOS="643" WIDTH="20" HEIGHT="18" WC="0.92" CONTENT="af"/><SP WIDTH="12" VPOS="643" HPOS="374"/>
+							<String ID="string_39" HPOS="386" VPOS="645" WIDTH="97" HEIGHT="22" WC="0.90" CONTENT="guvernö-"/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="160" VPOS="672" WIDTH="324" HEIGHT="25">
+							<String ID="string_40" HPOS="160" VPOS="678" WIDTH="47" HEIGHT="13" WC="0.95" CONTENT="rens"/><SP WIDTH="8" VPOS="678" HPOS="207"/>
+							<String ID="string_41" HPOS="215" VPOS="673" WIDTH="8" HEIGHT="18" WC="0.79" CONTENT="i"/><SP WIDTH="6" VPOS="673" HPOS="223"/>
+							<String ID="string_42" HPOS="229" VPOS="673" WIDTH="89" HEIGHT="24" WC="0.96" CONTENT="Nylands"/><SP WIDTH="11" VPOS="673" HPOS="318"/>
+							<String ID="string_43" HPOS="329" VPOS="673" WIDTH="35" HEIGHT="18" WC="0.96" CONTENT="län"/><SP WIDTH="10" VPOS="673" HPOS="364"/>
+							<String ID="string_44" HPOS="374" VPOS="673" WIDTH="36" HEIGHT="18" WC="0.94" CONTENT="lön"/><SP WIDTH="11" VPOS="673" HPOS="410"/>
+							<String ID="string_45" HPOS="421" VPOS="672" WIDTH="63" HEIGHT="19" WC="0.96" CONTENT="under"/>
+						</TextLine>
+						<TextLine ID="line_11" HPOS="161" VPOS="701" WIDTH="322" HEIGHT="24">
+							<String ID="string_46" HPOS="161" VPOS="702" WIDTH="111" HEIGHT="23" WC="0.95" CONTENT="september"/><SP WIDTH="10" VPOS="702" HPOS="272"/>
+							<String ID="string_47" HPOS="282" VPOS="701" WIDTH="59" HEIGHT="18" WC="0.95" CONTENT="månad"/><SP WIDTH="9" VPOS="701" HPOS="341"/>
+							<String ID="string_48" HPOS="350" VPOS="702" WIDTH="45" HEIGHT="17" WC="0.17" CONTENT="1889"/><SP WIDTH="5" VPOS="702" HPOS="395"/>
+							<String ID="string_49" HPOS="400" VPOS="701" WIDTH="83" HEIGHT="24" WC="0.90" CONTENT="(Statsf.)"/>
+						</TextLine>
+						<TextLine ID="line_12" HPOS="138" VPOS="729" WIDTH="346" HEIGHT="24">
+							<String ID="string_50" HPOS="138" VPOS="730" WIDTH="40" HEIGHT="18" WC="0.92" CONTENT="Till"/><SP WIDTH="10" VPOS="730" HPOS="178"/>
+							<String ID="string_51" HPOS="188" VPOS="729" WIDTH="125" HEIGHT="19" WC="0.92" CONTENT="bestridande"/><SP WIDTH="13" VPOS="729" HPOS="313"/>
+							<String ID="string_52" HPOS="326" VPOS="729" WIDTH="19" HEIGHT="18" WC="0.95" CONTENT="af"/><SP WIDTH="11" VPOS="729" HPOS="345"/>
+							<String ID="string_53" HPOS="356" VPOS="729" WIDTH="84" HEIGHT="24" WC="0.96" CONTENT="utgifter"/><SP WIDTH="12" VPOS="729" HPOS="440"/>
+							<String ID="string_54" HPOS="452" VPOS="729" WIDTH="32" HEIGHT="18" WC="0.96" CONTENT="för"/>
+						</TextLine>
+						<TextLine ID="line_13" HPOS="160" VPOS="758" WIDTH="324" HEIGHT="24">
+							<String ID="string_55" HPOS="160" VPOS="759" WIDTH="90" HEIGHT="18" WC="0.89" CONTENT="komitön"/><SP WIDTH="11" VPOS="759" HPOS="250"/>
+							<String ID="string_56" HPOS="261" VPOS="758" WIDTH="31" HEIGHT="19" WC="0.93" CONTENT="för"/><SP WIDTH="11" VPOS="758" HPOS="292"/>
+							<String ID="string_57" HPOS="303" VPOS="758" WIDTH="102" HEIGHT="24" WC="0.92" CONTENT="reglering"/><SP WIDTH="8" VPOS="758" HPOS="405"/>
+							<String ID="string_58" HPOS="413" VPOS="758" WIDTH="20" HEIGHT="18" WC="0.93" CONTENT="af"/><SP WIDTH="7" VPOS="758" HPOS="433"/>
+							<String ID="string_59" HPOS="440" VPOS="764" WIDTH="44" HEIGHT="18" WC="0.93" CONTENT="pre-"/>
+						</TextLine>
+						<TextLine ID="line_14" HPOS="162" VPOS="786" WIDTH="321" HEIGHT="25">
+							<String ID="string_60" HPOS="162" VPOS="788" WIDTH="121" HEIGHT="23" WC="0.90" CONTENT="sterskapets"/><SP WIDTH="21" VPOS="788" HPOS="283"/>
+							<String ID="string_61" HPOS="304" VPOS="787" WIDTH="86" HEIGHT="24" WC="0.90" CONTENT="aflöning"/><SP WIDTH="15" VPOS="787" HPOS="390"/>
+							<String ID="string_62" HPOS="405" VPOS="786" WIDTH="8" HEIGHT="19" WC="0.93" CONTENT="i"/><SP WIDTH="10" VPOS="786" HPOS="413"/>
+							<String ID="string_63" HPOS="423" VPOS="787" WIDTH="60" HEIGHT="18" WC="0.93" CONTENT="Uleä-"/>
+						</TextLine>
+						<TextLine ID="line_15" HPOS="161" VPOS="816" WIDTH="322" HEIGHT="24">
+							<String ID="string_64" HPOS="161" VPOS="817" WIDTH="60" HEIGHT="23" WC="0.93" CONTENT="borgs"/><SP WIDTH="11" VPOS="817" HPOS="221"/>
+							<String ID="string_65" HPOS="232" VPOS="817" WIDTH="34" HEIGHT="17" WC="0.93" CONTENT="län"/><SP WIDTH="12" VPOS="817" HPOS="266"/>
+							<String ID="string_66" HPOS="278" VPOS="816" WIDTH="82" HEIGHT="24" WC="0.41" CONTENT="(Statsf)"/><SP WIDTH="27" VPOS="816" HPOS="360"/>
+							<String ID="string_67" HPOS="387" VPOS="830" WIDTH="27" HEIGHT="5" WC="0.28" CONTENT=".."/><SP WIDTH="19" VPOS="830" HPOS="414"/>
+							<String ID="string_68" HPOS="433" VPOS="830" WIDTH="50" HEIGHT="4" WC="0.28" CONTENT="..."/>
+						</TextLine>
+						<TextLine ID="line_16" HPOS="138" VPOS="845" WIDTH="345" HEIGHT="18">
+							<String ID="string_69" HPOS="138" VPOS="845" WIDTH="168" HEIGHT="18" WC="0.90" CONTENT="Remontarbeten"/><SP WIDTH="5" VPOS="845" HPOS="306"/>
+							<String ID="string_70" HPOS="311" VPOS="845" WIDTH="35" HEIGHT="18" WC="0.96" CONTENT="vid"/><SP WIDTH="5" VPOS="845" HPOS="346"/>
+							<String ID="string_71" HPOS="351" VPOS="845" WIDTH="65" HEIGHT="18" WC="0.93" CONTENT="finska"/><SP WIDTH="8" VPOS="845" HPOS="416"/>
+							<String ID="string_72" HPOS="424" VPOS="846" WIDTH="59" HEIGHT="17" WC="0.93" CONTENT="stats-"/>
+						</TextLine>
+						<TextLine ID="line_17" HPOS="161" VPOS="873" WIDTH="323" HEIGHT="25">
+							<String ID="string_73" HPOS="161" VPOS="875" WIDTH="80" HEIGHT="18" WC="0.92" CONTENT="verkets"/><SP WIDTH="5" VPOS="875" HPOS="241"/>
+							<String ID="string_74" HPOS="246" VPOS="874" WIDTH="81" HEIGHT="24" WC="0.91" CONTENT="gärdari"/><SP WIDTH="8" VPOS="874" HPOS="327"/>
+							<String ID="string_75" HPOS="335" VPOS="873" WIDTH="25" HEIGHT="19" WC="0.94" CONTENT="S:t"/><SP WIDTH="2" VPOS="873" HPOS="360"/>
+							<String ID="string_76" HPOS="362" VPOS="873" WIDTH="122" HEIGHT="24" WC="0.96" CONTENT="Petersburg"/>
+						</TextLine>
+						<TextLine ID="line_18" HPOS="162" VPOS="902" WIDTH="321" HEIGHT="25">
+							<String ID="string_77" HPOS="162" VPOS="902" WIDTH="215" HEIGHT="25" WC="0.48" CONTENT="(Kommunikationsf.)."/><SP WIDTH="31" VPOS="902" HPOS="377"/>
+							<String ID="string_78" HPOS="408" VPOS="917" WIDTH="5" HEIGHT="4" WC="0.76" CONTENT="."/><SP WIDTH="19" VPOS="917" HPOS="413"/>
+							<String ID="string_79" HPOS="432" VPOS="917" WIDTH="4" HEIGHT="4" WC="0.44" CONTENT="."/><SP WIDTH="20" VPOS="917" HPOS="436"/>
+							<String ID="string_80" HPOS="456" VPOS="916" WIDTH="3" HEIGHT="4" WC="0.16" CONTENT="."/><SP WIDTH="20" VPOS="916" HPOS="459"/>
+							<String ID="string_81" HPOS="479" VPOS="916" WIDTH="4" HEIGHT="4" WC="0.83" CONTENT="."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="211" VPOS="938" WIDTH="271" HEIGHT="22">
+					<TextBlock ID="block_3" HPOS="211" VPOS="938" WIDTH="271" HEIGHT="22">
+						<TextLine ID="line_19" HPOS="211" VPOS="938" WIDTH="271" HEIGHT="22">
+							<String ID="string_82" HPOS="211" VPOS="938" WIDTH="65" HEIGHT="17" WC="0.91" CONTENT="Summa"/><SP WIDTH="11" VPOS="938" HPOS="276"/>
+							<String ID="string_83" HPOS="287" VPOS="938" WIDTH="93" HEIGHT="22" WC="0.78" CONTENT="statsutgift"/><SP WIDTH="12" VPOS="938" HPOS="380"/>
+							<String ID="string_84" HPOS="392" VPOS="938" WIDTH="44" HEIGHT="17" WC="0.96" CONTENT="utom"/><SP WIDTH="12" VPOS="938" HPOS="436"/>
+							<String ID="string_85" HPOS="448" VPOS="938" WIDTH="34" HEIGHT="17" WC="0.96" CONTENT="stat"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="138" VPOS="1029" WIDTH="347" HEIGHT="373">
+					<TextBlock ID="block_4" HPOS="138" VPOS="1029" WIDTH="344" HEIGHT="155">
+						<TextLine ID="line_20" HPOS="138" VPOS="1029" WIDTH="344" HEIGHT="22">
+							<String ID="string_86" HPOS="138" VPOS="1030" WIDTH="77" HEIGHT="21" WC="0.92" CONTENT="Bidrag"/><SP WIDTH="11" VPOS="1030" HPOS="215"/>
+							<String ID="string_87" HPOS="226" VPOS="1029" WIDTH="34" HEIGHT="18" WC="0.92" CONTENT="till"/><SP WIDTH="12" VPOS="1029" HPOS="260"/>
+							<String ID="string_88" HPOS="272" VPOS="1029" WIDTH="48" HEIGHT="18" WC="0.91" CONTENT="icke"/><SP WIDTH="17" VPOS="1029" HPOS="320"/>
+							<String ID="string_89" HPOS="337" VPOS="1029" WIDTH="145" HEIGHT="21" WC="0.92" CONTENT="budgeterade"/>
+						</TextLine>
+						<TextLine ID="line_21" HPOS="270" VPOS="1064" WIDTH="83" HEIGHT="17">
+							<String ID="string_90" HPOS="270" VPOS="1064" WIDTH="83" HEIGHT="17" WC="0.94" CONTENT="fonder."/>
+						</TextLine>
+						<TextLine ID="line_22" HPOS="152" VPOS="1115" WIDTH="316" HEIGHT="23">
+							<String ID="string_91" HPOS="152" VPOS="1115" WIDTH="66" HEIGHT="23" WC="0.62" CONTENT="Enligt"/><SP WIDTH="11" VPOS="1115" HPOS="218"/>
+							<String ID="string_92" HPOS="229" VPOS="1115" WIDTH="91" HEIGHT="18" WC="0.93" CONTENT="ordinarie"/><SP WIDTH="12" VPOS="1115" HPOS="320"/>
+							<String ID="string_93" HPOS="332" VPOS="1115" WIDTH="136" HEIGHT="23" WC="0.91" CONTENT="statsförslaget."/>
+						</TextLine>
+						<TextLine ID="line_23" HPOS="218" VPOS="1160" WIDTH="186" HEIGHT="24">
+							<String ID="string_94" HPOS="218" VPOS="1161" WIDTH="53" HEIGHT="18" WC="0.93" CONTENT="Från"/><SP WIDTH="13" VPOS="1161" HPOS="271"/>
+							<String ID="string_95" HPOS="284" VPOS="1160" WIDTH="120" HEIGHT="24" WC="0.90" CONTENT="Statsfonden."/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_5" HPOS="139" VPOS="1200" WIDTH="346" HEIGHT="202">
+						<TextLine ID="line_24" HPOS="139" VPOS="1200" WIDTH="343" HEIGHT="19">
+							<String ID="string_96" HPOS="139" VPOS="1201" WIDTH="40" HEIGHT="18" WC="0.93" CONTENT="Till"/><SP WIDTH="12" VPOS="1201" HPOS="179"/>
+							<String ID="string_97" HPOS="191" VPOS="1201" WIDTH="55" HEIGHT="18" WC="0.78" CONTENT="»Den"/><SP WIDTH="12" VPOS="1201" HPOS="246"/>
+							<String ID="string_98" HPOS="258" VPOS="1201" WIDTH="105" HEIGHT="18" WC="0.90" CONTENT="obesuttna"/><SP WIDTH="9" VPOS="1201" HPOS="363"/>
+							<String ID="string_99" HPOS="372" VPOS="1200" WIDTH="110" HEIGHT="18" WC="0.91" CONTENT="befolknin-"/>
+						</TextLine>
+						<TextLine ID="line_25" HPOS="162" VPOS="1229" WIDTH="321" HEIGHT="25">
+							<String ID="string_100" HPOS="162" VPOS="1235" WIDTH="49" HEIGHT="19" WC="0.93" CONTENT="gens"/><SP WIDTH="18" VPOS="1235" HPOS="211"/>
+							<String ID="string_101" HPOS="229" VPOS="1229" WIDTH="111" HEIGHT="24" WC="0.53" CONTENT="lånefond»,"/><SP WIDTH="13" VPOS="1229" HPOS="340"/>
+							<String ID="string_102" HPOS="353" VPOS="1229" WIDTH="33" HEIGHT="18" WC="0.93" CONTENT="till"/><SP WIDTH="16" VPOS="1229" HPOS="386"/>
+							<String ID="string_103" HPOS="402" VPOS="1229" WIDTH="81" HEIGHT="18" WC="0.92" CONTENT="förstär-"/>
+						</TextLine>
+						<TextLine ID="line_26" HPOS="161" VPOS="1258" WIDTH="321" HEIGHT="24">
+							<String ID="string_104" HPOS="161" VPOS="1259" WIDTH="65" HEIGHT="18" WC="0.96" CONTENT="kande"/><SP WIDTH="13" VPOS="1259" HPOS="226"/>
+							<String ID="string_105" HPOS="239" VPOS="1258" WIDTH="19" HEIGHT="19" WC="0.96" CONTENT="af"/><SP WIDTH="10" VPOS="1258" HPOS="258"/>
+							<String ID="string_106" HPOS="268" VPOS="1258" WIDTH="85" HEIGHT="18" WC="0.96" CONTENT="fondens"/><SP WIDTH="12" VPOS="1258" HPOS="353"/>
+							<String ID="string_107" HPOS="365" VPOS="1258" WIDTH="75" HEIGHT="24" WC="0.93" CONTENT="kapital"/><SP WIDTH="15" VPOS="1258" HPOS="440"/>
+							<String ID="string_108" HPOS="455" VPOS="1272" WIDTH="4" HEIGHT="4" WC="0.91" CONTENT="."/><SP WIDTH="19" VPOS="1272" HPOS="459"/>
+							<String ID="string_109" HPOS="478" VPOS="1272" WIDTH="4" HEIGHT="4" WC="0.91" CONTENT="."/>
+						</TextLine>
+						<TextLine ID="line_27" HPOS="139" VPOS="1286" WIDTH="345" HEIGHT="20">
+							<String ID="string_110" HPOS="139" VPOS="1288" WIDTH="39" HEIGHT="18" WC="0.93" CONTENT="Till"/><SP WIDTH="12" VPOS="1288" HPOS="178"/>
+							<String ID="string_111" HPOS="190" VPOS="1288" WIDTH="94" HEIGHT="18" WC="0.91" CONTENT="»Fonden"/><SP WIDTH="6" VPOS="1288" HPOS="284"/>
+							<String ID="string_112" HPOS="290" VPOS="1287" WIDTH="31" HEIGHT="18" WC="0.93" CONTENT="för"/><SP WIDTH="9" VPOS="1287" HPOS="321"/>
+							<String ID="string_113" HPOS="330" VPOS="1286" WIDTH="126" HEIGHT="19" WC="0.82" CONTENT="anskaffande"/><SP WIDTH="8" VPOS="1286" HPOS="456"/>
+							<String ID="string_114" HPOS="464" VPOS="1287" WIDTH="20" HEIGHT="17" WC="0.96" CONTENT="af"/>
+						</TextLine>
+						<TextLine ID="line_28" HPOS="161" VPOS="1316" WIDTH="322" HEIGHT="25">
+							<String ID="string_115" HPOS="161" VPOS="1317" WIDTH="44" HEIGHT="24" WC="0.96" CONTENT="jord"/><SP WIDTH="8" VPOS="1317" HPOS="205"/>
+							<String ID="string_116" HPOS="213" VPOS="1317" WIDTH="20" HEIGHT="18" WC="0.96" CONTENT="åt"/><SP WIDTH="9" VPOS="1317" HPOS="233"/>
+							<String ID="string_117" HPOS="242" VPOS="1317" WIDTH="38" HEIGHT="18" WC="0.93" CONTENT="den"/><SP WIDTH="12" VPOS="1317" HPOS="280"/>
+							<String ID="string_118" HPOS="292" VPOS="1316" WIDTH="106" HEIGHT="18" WC="0.90" CONTENT="obesuttna"/><SP WIDTH="10" VPOS="1316" HPOS="398"/>
+							<String ID="string_119" HPOS="408" VPOS="1316" WIDTH="75" HEIGHT="18" WC="0.92" CONTENT="befolk-"/>
+						</TextLine>
+						<TextLine ID="line_29" HPOS="161" VPOS="1345" WIDTH="321" HEIGHT="24">
+							<String ID="string_120" HPOS="161" VPOS="1346" WIDTH="93" HEIGHT="23" WC="0.88" CONTENT="ningen«,"/><SP WIDTH="11" VPOS="1346" HPOS="254"/>
+							<String ID="string_121" HPOS="265" VPOS="1345" WIDTH="69" HEIGHT="23" WC="0.92" CONTENT="bidrag."/><SP WIDTH="27" VPOS="1345" HPOS="334"/>
+							<String ID="string_122" HPOS="361" VPOS="1359" WIDTH="7" HEIGHT="3" WC="0.87" CONTENT="."/><SP WIDTH="18" VPOS="1359" HPOS="368"/>
+							<String ID="string_123" HPOS="386" VPOS="1359" WIDTH="5" HEIGHT="3" WC="0.55" CONTENT="."/><SP WIDTH="19" VPOS="1359" HPOS="391"/>
+							<String ID="string_124" HPOS="410" VPOS="1358" WIDTH="4" HEIGHT="4" WC="0.28" CONTENT="."/><SP WIDTH="19" VPOS="1358" HPOS="414"/>
+							<String ID="string_125" HPOS="433" VPOS="1358" WIDTH="49" HEIGHT="4" WC="0.28" CONTENT="..."/>
+						</TextLine>
+						<TextLine ID="line_30" HPOS="376" VPOS="1379" WIDTH="109" HEIGHT="23">
+							<String ID="string_126" HPOS="376" VPOS="1379" WIDTH="109" HEIGHT="23" WC="0.90" CONTENT="&#39;Transport"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_7" HPOS="173" VPOS="1201" WIDTH="2" HEIGHT="105"></GraphicalElement >
+				<ComposedBlock ID="cblock_8" HPOS="538" VPOS="119" WIDTH="24" HEIGHT="22">
+					<TextBlock ID="block_6" HPOS="538" VPOS="119" WIDTH="24" HEIGHT="22">
+						<TextLine ID="line_31" HPOS="538" VPOS="119" WIDTH="24" HEIGHT="22">
+							<String ID="string_127" HPOS="538" VPOS="119" WIDTH="24" HEIGHT="22" WC="0.71" CONTENT="II"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_9" HPOS="496" VPOS="218" WIDTH="274" HEIGHT="35">
+					<TextBlock ID="block_7" HPOS="496" VPOS="218" WIDTH="274" HEIGHT="35">
+						<TextLine ID="line_32" HPOS="496" VPOS="218" WIDTH="274" HEIGHT="35">
+							<String ID="string_128" HPOS="496" VPOS="228" WIDTH="69" HEIGHT="25" WC="0.60" CONTENT="[Enligt"/><SP WIDTH="11" VPOS="228" HPOS="565"/>
+							<String ID="string_129" HPOS="576" VPOS="230" WIDTH="58" HEIGHT="18" WC="0.92" CONTENT="stats-"/><SP WIDTH="14" VPOS="230" HPOS="634"/>
+							<String ID="string_130" HPOS="648" VPOS="218" WIDTH="70" HEIGHT="24" WC="0.93" CONTENT="Enligt"/><SP WIDTH="12" VPOS="218" HPOS="718"/>
+							<String ID="string_131" HPOS="730" VPOS="218" WIDTH="40" HEIGHT="18" WC="0.90" CONTENT="ärs-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_10" HPOS="656" VPOS="247" WIDTH="106" HEIGHT="18">
+					<TextBlock ID="block_8" HPOS="656" VPOS="247" WIDTH="106" HEIGHT="18">
+						<TextLine ID="line_33" HPOS="656" VPOS="247" WIDTH="106" HEIGHT="18">
+							<String ID="string_132" HPOS="656" VPOS="247" WIDTH="106" HEIGHT="18" WC="0.89" CONTENT="räkenska-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_11" HPOS="1000" VPOS="120" WIDTH="43" HEIGHT="23">
+					<TextBlock ID="block_9" HPOS="1000" VPOS="120" WIDTH="43" HEIGHT="23">
+						<TextLine ID="line_34" HPOS="1000" VPOS="120" WIDTH="43" HEIGHT="23">
+							<String ID="string_133" HPOS="1000" VPOS="120" WIDTH="43" HEIGHT="23" WC="0.95" CONTENT="115"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_12" HPOS="824" VPOS="206" WIDTH="207" HEIGHT="19">
+					<TextBlock ID="block_10" HPOS="824" VPOS="206" WIDTH="207" HEIGHT="19">
+						<TextLine ID="line_35" HPOS="824" VPOS="206" WIDTH="207" HEIGHT="19">
+							<String ID="string_134" HPOS="824" VPOS="206" WIDTH="114" HEIGHT="19" WC="0.92" CONTENT="Resultatet"/><SP WIDTH="11" VPOS="206" HPOS="938"/>
+							<String ID="string_135" HPOS="949" VPOS="206" WIDTH="82" HEIGHT="18" WC="0.90" CONTENT="utfallit:"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_13" HPOS="20" VPOS="13" WIDTH="1120" HEIGHT="9"></GraphicalElement >
+				<GraphicalElement ID="cblock_14" HPOS="35" VPOS="189" WIDTH="1038" HEIGHT="7"></GraphicalElement >
+				<GraphicalElement ID="cblock_15" HPOS="495" VPOS="318" WIDTH="572" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_16" HPOS="498" VPOS="370" WIDTH="564" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_17" HPOS="530" VPOS="1259" WIDTH="74" HEIGHT="23">
+					<TextBlock ID="block_11" HPOS="530" VPOS="1259" WIDTH="74" HEIGHT="23">
+						<TextLine ID="line_36" HPOS="530" VPOS="1259" WIDTH="74" HEIGHT="23">
+							<String ID="string_136" HPOS="530" VPOS="1259" WIDTH="74" HEIGHT="23" WC="0.65" CONTENT="150,000]"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_18" HPOS="530" VPOS="1345" WIDTH="76" HEIGHT="58">
+					<TextBlock ID="block_12" HPOS="530" VPOS="1345" WIDTH="76" HEIGHT="58">
+						<TextLine ID="line_37" HPOS="530" VPOS="1345" WIDTH="74" HEIGHT="22">
+							<String ID="string_137" HPOS="530" VPOS="1345" WIDTH="74" HEIGHT="22" WC="0.88" CONTENT="150,000"/>
+						</TextLine>
+						<TextLine ID="line_38" HPOS="531" VPOS="1380" WIDTH="75" HEIGHT="23">
+							<String ID="string_138" HPOS="531" VPOS="1380" WIDTH="75" HEIGHT="23" WC="0.82" CONTENT="300,000"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_19" HPOS="493" VPOS="195" WIDTH="3" HEIGHT="1208"></GraphicalElement >
+				<ComposedBlock ID="cblock_20" HPOS="543" VPOS="1465" WIDTH="25" HEIGHT="18">
+					<TextBlock ID="block_13" HPOS="543" VPOS="1465" WIDTH="25" HEIGHT="18">
+						<TextLine ID="line_39" HPOS="543" VPOS="1465" WIDTH="25" HEIGHT="18">
+							<String ID="string_139" HPOS="543" VPOS="1465" WIDTH="25" HEIGHT="18" WC="0.95" CONTENT="26"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_21" HPOS="609" VPOS="322" WIDTH="3" HEIGHT="1080"></GraphicalElement >
+				<Illustration ID="cblock_22" HPOS="610" VPOS="931" WIDTH="176" HEIGHT="441"></Illustration>
+				<GraphicalElement ID="cblock_23" HPOS="753" VPOS="322" WIDTH="2" HEIGHT="1080"></GraphicalElement >
+				<ComposedBlock ID="cblock_24" HPOS="676" VPOS="1373" WIDTH="108" HEIGHT="29">
+					<TextBlock ID="block_14" HPOS="676" VPOS="1373" WIDTH="108" HEIGHT="29">
+						<TextLine ID="line_40" HPOS="676" VPOS="1373" WIDTH="108" HEIGHT="29">
+							<String ID="string_140" HPOS="676" VPOS="1373" WIDTH="108" HEIGHT="29" WC="0.67" CONTENT="300,000|—|"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_25" HPOS="897" VPOS="322" WIDTH="2" HEIGHT="1081"></GraphicalElement >
+				<GraphicalElement ID="cblock_26" HPOS="1039" VPOS="322" WIDTH="3" HEIGHT="1080"></GraphicalElement >
+				<ComposedBlock ID="cblock_27" HPOS="512" VPOS="257" WIDTH="553" HEIGHT="701">
+					<TextBlock ID="block_15" HPOS="512" VPOS="257" WIDTH="553" HEIGHT="701">
+						<TextLine ID="line_41" HPOS="512" VPOS="257" WIDTH="531" HEIGHT="36">
+							<String ID="string_141" HPOS="512" VPOS="257" WIDTH="102" HEIGHT="36" WC="0.95" CONTENT="förslaget."/><SP WIDTH="189" VPOS="257" HPOS="614"/>
+							<String ID="string_142" HPOS="803" VPOS="258" WIDTH="62" HEIGHT="24" WC="0.96" CONTENT="högre"/><SP WIDTH="13" VPOS="258" HPOS="865"/>
+							<String ID="string_143" HPOS="878" VPOS="260" WIDTH="25" HEIGHT="16" WC="0.96" CONTENT="än"/><SP WIDTH="15" VPOS="260" HPOS="903"/>
+							<String ID="string_144" HPOS="918" VPOS="253" WIDTH="14" HEIGHT="36" WC="0.95" CONTENT="|"/><SP WIDTH="18" VPOS="253" HPOS="932"/>
+							<String ID="string_145" HPOS="950" VPOS="258" WIDTH="56" HEIGHT="24" WC="0.96" CONTENT="lägre"/><SP WIDTH="12" VPOS="258" HPOS="1006"/>
+							<String ID="string_146" HPOS="1018" VPOS="260" WIDTH="25" HEIGHT="16" WC="0.96" CONTENT="än"/>
+						</TextLine>
+						<TextLine ID="line_42" HPOS="686" VPOS="282" WIDTH="366" HEIGHT="24">
+							<String ID="string_147" HPOS="686" VPOS="282" WIDTH="45" HEIGHT="17" WC="0.80" CONTENT="pen."/><SP WIDTH="68" VPOS="282" HPOS="731"/>
+							<String ID="string_148" HPOS="799" VPOS="287" WIDTH="110" HEIGHT="18" WC="0.94" CONTENT="beräknats."/><SP WIDTH="14" VPOS="287" HPOS="909"/>
+							<String ID="string_149" HPOS="923" VPOS="283" WIDTH="10" HEIGHT="32" WC="0.96" CONTENT="|"/><SP WIDTH="9" VPOS="283" HPOS="933"/>
+							<String ID="string_150" HPOS="942" VPOS="287" WIDTH="110" HEIGHT="19" WC="0.82" CONTENT="beräknats."/>
+						</TextLine>
+						<TextLine ID="line_43" HPOS="536" VPOS="335" WIDTH="529" HEIGHT="22">
+							<String ID="string_151" HPOS="536" VPOS="335" WIDTH="96" HEIGHT="21" WC="0.0" CONTENT="Vs"/><SP WIDTH="48" VPOS="335" HPOS="632"/>
+							<String ID="string_152" HPOS="680" VPOS="336" WIDTH="34" HEIGHT="21" WC="0.19" CONTENT="BIE"/><SP WIDTH="42" VPOS="336" HPOS="714"/>
+							<String ID="string_153" HPOS="756" VPOS="339" WIDTH="20" HEIGHT="18" WC="0.12" CONTENT="||"/><SP WIDTH="48" VPOS="339" HPOS="776"/>
+							<String ID="string_154" HPOS="824" VPOS="336" WIDTH="34" HEIGHT="21" WC="0.55" CONTENT="Ge"/><SP WIDTH="42" VPOS="336" HPOS="858"/>
+							<String ID="string_155" HPOS="900" VPOS="339" WIDTH="20" HEIGHT="18" WC="0.0" CONTENT="Vs"/><SP WIDTH="49" VPOS="339" HPOS="920"/>
+							<String ID="string_156" HPOS="969" VPOS="336" WIDTH="34" HEIGHT="20" WC="0.15" CONTENT="ME"/><SP WIDTH="42" VPOS="336" HPOS="1003"/>
+							<String ID="string_157" HPOS="1045" VPOS="339" WIDTH="20" HEIGHT="18" WC="0.57" CONTENT="|"/>
+						</TextLine>
+						<TextLine ID="line_44" HPOS="674" VPOS="408" WIDTH="247" HEIGHT="24">
+							<String ID="string_158" HPOS="674" VPOS="408" WIDTH="103" HEIGHT="24" WC="0.41" CONTENT="252,411/63]"/><SP WIDTH="23" VPOS="408" HPOS="777"/>
+							<String ID="string_159" HPOS="800" VPOS="404" WIDTH="12" HEIGHT="32" WC="0.85" CONTENT="—"/><SP WIDTH="6" VPOS="404" HPOS="812"/>
+							<String ID="string_160" HPOS="818" VPOS="409" WIDTH="103" HEIGHT="23" WC="0.66" CONTENT="252,411/63"/>
+						</TextLine>
+						<TextLine ID="line_45" HPOS="726" VPOS="472" WIDTH="195" HEIGHT="17">
+							<String ID="string_161" HPOS="726" VPOS="472" WIDTH="51" HEIGHT="17" WC="0.35" CONTENT="20/—"/><SP WIDTH="92" VPOS="472" HPOS="777"/>
+							<String ID="string_162" HPOS="869" VPOS="472" WIDTH="52" HEIGHT="17" WC="0.14" CONTENT="20:—"/>
+						</TextLine>
+						<TextLine ID="line_46" HPOS="714" VPOS="529" WIDTH="207" HEIGHT="18">
+							<String ID="string_163" HPOS="714" VPOS="529" WIDTH="63" HEIGHT="18" WC="0.86" CONTENT="558145"/><SP WIDTH="82" VPOS="529" HPOS="777"/>
+							<String ID="string_164" HPOS="859" VPOS="529" WIDTH="62" HEIGHT="18" WC="0.63" CONTENT="558145]"/>
+						</TextLine>
+						<TextLine ID="line_47" HPOS="714" VPOS="702" WIDTH="207" HEIGHT="17">
+							<String ID="string_165" HPOS="714" VPOS="702" WIDTH="63" HEIGHT="17" WC="0.44" CONTENT="80833"/><SP WIDTH="81" VPOS="702" HPOS="777"/>
+							<String ID="string_166" HPOS="858" VPOS="702" WIDTH="63" HEIGHT="17" WC="0.76" CONTENT="808133"/>
+						</TextLine>
+						<TextLine ID="line_48" HPOS="698" VPOS="817" WIDTH="223" HEIGHT="23">
+							<String ID="string_167" HPOS="698" VPOS="817" WIDTH="79" HEIGHT="23" WC="0.73" CONTENT="1,554/56"/><SP WIDTH="66" VPOS="817" HPOS="777"/>
+							<String ID="string_168" HPOS="843" VPOS="817" WIDTH="78" HEIGHT="23" WC="0.72" CONTENT="1,554156"/>
+						</TextLine>
+						<TextLine ID="line_49" HPOS="715" VPOS="903" WIDTH="206" HEIGHT="18">
+							<String ID="string_169" HPOS="715" VPOS="903" WIDTH="62" HEIGHT="17" WC="0.49" CONTENT="940/43|"/><SP WIDTH="82" VPOS="903" HPOS="777"/>
+							<String ID="string_170" HPOS="859" VPOS="903" WIDTH="62" HEIGHT="18" WC="0.54" CONTENT="940143"/>
+						</TextLine>
+						<TextLine ID="line_50" HPOS="674" VPOS="938" WIDTH="218" HEIGHT="20">
+							<String ID="string_171" HPOS="674" VPOS="938" WIDTH="73" HEIGHT="20" WC="0.90" CONTENT="256,293"/><SP WIDTH="71" VPOS="938" HPOS="747"/>
+							<String ID="string_172" HPOS="818" VPOS="938" WIDTH="74" HEIGHT="20" WC="0.91" CONTENT="256,293"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_28" HPOS="1069" VPOS="196" WIDTH="2" HEIGHT="1204"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

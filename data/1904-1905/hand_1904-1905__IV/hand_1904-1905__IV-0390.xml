@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_eirczm0t_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1050" HEIGHT="1628" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1050" HEIGHT="1628">
+				<ComposedBlock ID="cblock_0" HPOS="482" VPOS="334" WIDTH="97" HEIGHT="31">
+					<TextBlock ID="block_0" HPOS="482" VPOS="334" WIDTH="97" HEIGHT="31">
+						<TextLine ID="line_0" HPOS="482" VPOS="334" WIDTH="97" HEIGHT="31">
+							<String ID="string_0" HPOS="482" VPOS="334" WIDTH="45" HEIGHT="30" WC="0.91" CONTENT="10"/><SP WIDTH="18" VPOS="334" HPOS="527"/>
+							<String ID="string_1" HPOS="545" VPOS="335" WIDTH="34" HEIGHT="30" WC="0.90" CONTENT="d."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="224" VPOS="475" WIDTH="623" HEIGHT="51">
+					<TextBlock ID="block_1" HPOS="224" VPOS="475" WIDTH="623" HEIGHT="51">
+						<TextLine ID="line_1" HPOS="224" VPOS="475" WIDTH="623" HEIGHT="51">
+							<String ID="string_2" HPOS="224" VPOS="477" WIDTH="416" HEIGHT="49" WC="0.91" CONTENT="Jemförande"/><SP WIDTH="32" VPOS="477" HPOS="640"/>
+							<String ID="string_3" HPOS="672" VPOS="475" WIDTH="175" HEIGHT="51" WC="0.95" CONTENT="tablå"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="504" VPOS="569" WIDTH="56" HEIGHT="19">
+					<TextBlock ID="block_2" HPOS="504" VPOS="569" WIDTH="56" HEIGHT="19">
+						<TextLine ID="line_2" HPOS="504" VPOS="569" WIDTH="56" HEIGHT="19">
+							<String ID="string_4" HPOS="504" VPOS="569" WIDTH="56" HEIGHT="19" WC="0.86" CONTENT="öfver"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="105" VPOS="643" WIDTH="856" HEIGHT="47">
+					<TextBlock ID="block_3" HPOS="105" VPOS="643" WIDTH="856" HEIGHT="47">
+						<TextLine ID="line_3" HPOS="105" VPOS="643" WIDTH="856" HEIGHT="47">
+							<String ID="string_5" HPOS="105" VPOS="643" WIDTH="856" HEIGHT="47" WC="0.89" CONTENT="Bevillningsmedelsfondens"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="202" VPOS="765" WIDTH="662" HEIGHT="90">
+					<TextBlock ID="block_4" HPOS="202" VPOS="765" WIDTH="662" HEIGHT="90">
+						<TextLine ID="line_4" HPOS="202" VPOS="765" WIDTH="662" HEIGHT="32">
+							<String ID="string_6" HPOS="202" VPOS="765" WIDTH="148" HEIGHT="25" WC="0.96" CONTENT="inkomster"/><SP WIDTH="19" VPOS="765" HPOS="350"/>
+							<String ID="string_7" HPOS="369" VPOS="765" WIDTH="50" HEIGHT="25" WC="0.96" CONTENT="och"/><SP WIDTH="17" VPOS="765" HPOS="419"/>
+							<String ID="string_8" HPOS="436" VPOS="766" WIDTH="114" HEIGHT="31" WC="0.96" CONTENT="utgifter"/><SP WIDTH="18" VPOS="766" HPOS="550"/>
+							<String ID="string_9" HPOS="568" VPOS="766" WIDTH="84" HEIGHT="31" WC="0.93" CONTENT="enligt"/><SP WIDTH="18" VPOS="766" HPOS="652"/>
+							<String ID="string_10" HPOS="670" VPOS="765" WIDTH="194" HEIGHT="32" WC="0.91" CONTENT="statsförslaget"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="352" VPOS="823" WIDTH="369" HEIGHT="32">
+							<String ID="string_11" HPOS="352" VPOS="823" WIDTH="49" HEIGHT="25" WC="0.95" CONTENT="och"/><SP WIDTH="18" VPOS="823" HPOS="401"/>
+							<String ID="string_12" HPOS="419" VPOS="823" WIDTH="83" HEIGHT="32" WC="0.93" CONTENT="enligt"/><SP WIDTH="18" VPOS="823" HPOS="502"/>
+							<String ID="string_13" HPOS="520" VPOS="823" WIDTH="201" HEIGHT="25" WC="0.92" CONTENT="statsbokslutet"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

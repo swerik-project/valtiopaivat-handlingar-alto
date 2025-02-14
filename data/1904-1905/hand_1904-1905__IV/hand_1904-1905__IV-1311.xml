@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ovfnfe4y_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1025" HEIGHT="1620" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1025" HEIGHT="1620">
+				<ComposedBlock ID="cblock_0" HPOS="717" VPOS="99" WIDTH="108" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="717" VPOS="99" WIDTH="108" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="717" VPOS="99" WIDTH="108" HEIGHT="23">
+							<String ID="string_0" HPOS="717" VPOS="100" WIDTH="72" HEIGHT="22" WC="0.90" CONTENT="Bilaga"/><SP WIDTH="14" VPOS="100" HPOS="789"/>
+							<String ID="string_1" HPOS="803" VPOS="99" WIDTH="22" HEIGHT="18" WC="0.89" CONTENT="K."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="121" VPOS="605" WIDTH="658" HEIGHT="233">
+					<TextBlock ID="block_1" HPOS="121" VPOS="605" WIDTH="658" HEIGHT="233">
+						<TextLine ID="line_1" HPOS="398" VPOS="605" WIDTH="102" HEIGHT="37">
+							<String ID="string_2" HPOS="398" VPOS="605" WIDTH="102" HEIGHT="37" WC="0.96" CONTENT="Tablå"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="121" VPOS="681" WIDTH="658" HEIGHT="39">
+							<String ID="string_3" HPOS="121" VPOS="681" WIDTH="162" HEIGHT="39" WC="0.96" CONTENT="belysande"/><SP WIDTH="23" VPOS="681" HPOS="283"/>
+							<String ID="string_4" HPOS="306" VPOS="681" WIDTH="141" HEIGHT="31" WC="0.96" CONTENT="särskilda"/><SP WIDTH="22" VPOS="681" HPOS="447"/>
+							<String ID="string_5" HPOS="469" VPOS="681" WIDTH="203" HEIGHT="31" WC="0.96" CONTENT="förhållanden"/><SP WIDTH="24" VPOS="681" HPOS="672"/>
+							<String ID="string_6" HPOS="696" VPOS="684" WIDTH="83" HEIGHT="28" WC="0.95" CONTENT="inom"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="172" VPOS="740" WIDTH="555" HEIGHT="40">
+							<String ID="string_7" HPOS="172" VPOS="741" WIDTH="305" HEIGHT="38" WC="0.90" CONTENT="tjänstemannakåren"/><SP WIDTH="21" VPOS="741" HPOS="477"/>
+							<String ID="string_8" HPOS="498" VPOS="741" WIDTH="50" HEIGHT="30" WC="0.93" CONTENT="vid"/><SP WIDTH="24" VPOS="741" HPOS="548"/>
+							<String ID="string_9" HPOS="572" VPOS="740" WIDTH="155" HEIGHT="40" WC="0.90" CONTENT="Statsjärn-"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="216" VPOS="799" WIDTH="456" HEIGHT="39">
+							<String ID="string_10" HPOS="216" VPOS="803" WIDTH="145" HEIGHT="35" WC="0.92" CONTENT="vägarnes"/><SP WIDTH="25" VPOS="803" HPOS="361"/>
+							<String ID="string_11" HPOS="386" VPOS="799" WIDTH="286" HEIGHT="39" WC="0.91" CONTENT="centralförfattning."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

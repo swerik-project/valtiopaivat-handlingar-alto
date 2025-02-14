@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_6ydey801_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1025" HEIGHT="1620" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1025" HEIGHT="1620">
+				<ComposedBlock ID="cblock_0" HPOS="711" VPOS="149" WIDTH="109" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="711" VPOS="149" WIDTH="109" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="711" VPOS="149" WIDTH="109" HEIGHT="23">
+							<String ID="string_0" HPOS="711" VPOS="149" WIDTH="71" HEIGHT="23" WC="0.93" CONTENT="Bilaga"/><SP WIDTH="11" VPOS="149" HPOS="782"/>
+							<String ID="string_1" HPOS="793" VPOS="149" WIDTH="27" HEIGHT="19" WC="0.96" CONTENT="H."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="375" VPOS="553" WIDTH="128" HEIGHT="37">
+					<TextBlock ID="block_1" HPOS="375" VPOS="553" WIDTH="128" HEIGHT="37">
+						<TextLine ID="line_1" HPOS="375" VPOS="553" WIDTH="128" HEIGHT="37">
+							<String ID="string_2" HPOS="375" VPOS="553" WIDTH="128" HEIGHT="37" WC="0.96" CONTENT="Tablå"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="93" VPOS="618" WIDTH="690" HEIGHT="261">
+					<TextBlock ID="block_2" HPOS="93" VPOS="618" WIDTH="690" HEIGHT="261">
+						<TextLine ID="line_2" HPOS="414" VPOS="618" WIDTH="50" HEIGHT="19">
+							<String ID="string_3" HPOS="414" VPOS="618" WIDTH="50" HEIGHT="19" WC="0.96" CONTENT="öfver"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="93" VPOS="664" WIDTH="690" HEIGHT="41">
+							<String ID="string_4" HPOS="93" VPOS="664" WIDTH="309" HEIGHT="41" WC="0.91" CONTENT="Bevillningsfondens"/><SP WIDTH="27" VPOS="664" HPOS="402"/>
+							<String ID="string_5" HPOS="429" VPOS="665" WIDTH="168" HEIGHT="30" WC="0.96" CONTENT="beräknade"/><SP WIDTH="23" VPOS="665" HPOS="597"/>
+							<String ID="string_6" HPOS="620" VPOS="665" WIDTH="163" HEIGHT="30" WC="0.96" CONTENT="inkomster"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="210" VPOS="724" WIDTH="455" HEIGHT="40">
+							<String ID="string_7" HPOS="210" VPOS="724" WIDTH="58" HEIGHT="31" WC="0.96" CONTENT="och"/><SP WIDTH="23" VPOS="724" HPOS="268"/>
+							<String ID="string_8" HPOS="291" VPOS="725" WIDTH="116" HEIGHT="39" WC="0.96" CONTENT="utgifter"/><SP WIDTH="23" VPOS="725" HPOS="407"/>
+							<String ID="string_9" HPOS="430" VPOS="726" WIDTH="30" HEIGHT="29" WC="0.96" CONTENT="år"/><SP WIDTH="26" VPOS="726" HPOS="460"/>
+							<String ID="string_10" HPOS="486" VPOS="724" WIDTH="80" HEIGHT="31" WC="0.96" CONTENT="1904"/><SP WIDTH="23" VPOS="724" HPOS="566"/>
+							<String ID="string_11" HPOS="589" VPOS="727" WIDTH="76" HEIGHT="28" WC="0.96" CONTENT="samt"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="102" VPOS="789" WIDTH="672" HEIGHT="40">
+							<String ID="string_12" HPOS="102" VPOS="789" WIDTH="37" HEIGHT="29" WC="0.96" CONTENT="de"/><SP WIDTH="27" VPOS="789" HPOS="139"/>
+							<String ID="string_13" HPOS="166" VPOS="789" WIDTH="122" HEIGHT="31" WC="0.96" CONTENT="faktiska"/><SP WIDTH="26" VPOS="789" HPOS="288"/>
+							<String ID="string_14" HPOS="314" VPOS="789" WIDTH="200" HEIGHT="31" WC="0.96" CONTENT="inkomsterna"/><SP WIDTH="24" VPOS="789" HPOS="514"/>
+							<String ID="string_15" HPOS="538" VPOS="790" WIDTH="57" HEIGHT="30" WC="0.96" CONTENT="och"/><SP WIDTH="24" VPOS="790" HPOS="595"/>
+							<String ID="string_16" HPOS="619" VPOS="789" WIDTH="155" HEIGHT="40" WC="0.96" CONTENT="utgifterna"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="178" VPOS="848" WIDTH="519" HEIGHT="31">
+							<String ID="string_17" HPOS="178" VPOS="848" WIDTH="68" HEIGHT="30" WC="0.95" CONTENT="intill"/><SP WIDTH="24" VPOS="848" HPOS="246"/>
+							<String ID="string_18" HPOS="270" VPOS="848" WIDTH="57" HEIGHT="30" WC="0.96" CONTENT="den"/><SP WIDTH="24" VPOS="848" HPOS="327"/>
+							<String ID="string_19" HPOS="351" VPOS="848" WIDTH="40" HEIGHT="31" WC="0.96" CONTENT="30"/><SP WIDTH="23" VPOS="848" HPOS="391"/>
+							<String ID="string_20" HPOS="414" VPOS="848" WIDTH="171" HEIGHT="31" WC="0.96" CONTENT="November"/><SP WIDTH="26" VPOS="848" HPOS="585"/>
+							<String ID="string_21" HPOS="611" VPOS="849" WIDTH="86" HEIGHT="30" WC="0.96" CONTENT="1904."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

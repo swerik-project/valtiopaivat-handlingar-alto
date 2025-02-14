@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_6yete0ra_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1034" HEIGHT="1620" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1034" HEIGHT="1620">
+				<ComposedBlock ID="cblock_0" HPOS="55" VPOS="346" WIDTH="744" HEIGHT="48">
+					<TextBlock ID="block_0" HPOS="55" VPOS="346" WIDTH="744" HEIGHT="48">
+						<TextLine ID="line_0" HPOS="55" VPOS="346" WIDTH="744" HEIGHT="48">
+							<String ID="string_0" HPOS="55" VPOS="346" WIDTH="166" HEIGHT="39" WC="0.92" CONTENT="Finlands"/><SP WIDTH="39" VPOS="346" HPOS="221"/>
+							<String ID="string_1" HPOS="260" VPOS="347" WIDTH="165" HEIGHT="38" WC="0.88" CONTENT="Ständers"/><SP WIDTH="38" VPOS="347" HPOS="425"/>
+							<String ID="string_2" HPOS="463" VPOS="347" WIDTH="336" HEIGHT="47" WC="0.90" CONTENT="Bankfullmäktiges"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="238" VPOS="530" WIDTH="384" HEIGHT="64">
+					<TextBlock ID="block_1" HPOS="238" VPOS="530" WIDTH="384" HEIGHT="64">
+						<TextLine ID="line_1" HPOS="238" VPOS="530" WIDTH="384" HEIGHT="64">
+							<String ID="string_3" HPOS="238" VPOS="530" WIDTH="384" HEIGHT="64" WC="0.95" CONTENT="BERÄTTELSE"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="170" VPOS="659" WIDTH="524" HEIGHT="123">
+					<TextBlock ID="block_2" HPOS="170" VPOS="659" WIDTH="524" HEIGHT="123">
+						<TextLine ID="line_2" HPOS="416" VPOS="659" WIDTH="30" HEIGHT="17">
+							<String ID="string_4" HPOS="416" VPOS="659" WIDTH="30" HEIGHT="17" WC="0.96" CONTENT="till"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="170" VPOS="750" WIDTH="524" HEIGHT="32">
+							<String ID="string_5" HPOS="170" VPOS="750" WIDTH="229" HEIGHT="27" WC="0.88" CONTENT="Ständernas"/><SP WIDTH="26" VPOS="750" HPOS="399"/>
+							<String ID="string_6" HPOS="425" VPOS="751" WIDTH="269" HEIGHT="31" WC="0.90" CONTENT="Bankutskott,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="351" VPOS="852" WIDTH="154" HEIGHT="19">
+					<TextBlock ID="block_3" HPOS="351" VPOS="852" WIDTH="154" HEIGHT="19">
+						<TextLine ID="line_4" HPOS="351" VPOS="852" WIDTH="154" HEIGHT="19">
+							<String ID="string_7" HPOS="351" VPOS="852" WIDTH="106" HEIGHT="19" WC="0.96" CONTENT="omfattande"/><SP WIDTH="12" VPOS="852" HPOS="457"/>
+							<String ID="string_8" HPOS="469" VPOS="852" WIDTH="36" HEIGHT="19" WC="0.96" CONTENT="året"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="392" VPOS="944" WIDTH="70" HEIGHT="28">
+					<TextBlock ID="block_4" HPOS="392" VPOS="944" WIDTH="70" HEIGHT="28">
+						<TextLine ID="line_5" HPOS="392" VPOS="944" WIDTH="70" HEIGHT="28">
+							<String ID="string_9" HPOS="392" VPOS="944" WIDTH="70" HEIGHT="28" WC="0.96" CONTENT="1904."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="233" VPOS="1384" WIDTH="409" HEIGHT="63">
+					<TextBlock ID="block_5" HPOS="233" VPOS="1384" WIDTH="409" HEIGHT="63">
+						<TextLine ID="line_6" HPOS="357" VPOS="1384" WIDTH="142" HEIGHT="29">
+							<String ID="string_10" HPOS="357" VPOS="1384" WIDTH="142" HEIGHT="29" WC="0.95" CONTENT="Helsingfors,"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="233" VPOS="1424" WIDTH="409" HEIGHT="23">
+							<String ID="string_11" HPOS="233" VPOS="1424" WIDTH="121" HEIGHT="18" WC="0.91" CONTENT="Frenckellska"/><SP WIDTH="11" VPOS="1424" HPOS="354"/>
+							<String ID="string_12" HPOS="365" VPOS="1424" WIDTH="215" HEIGHT="23" WC="0.91" CONTENT="Tryckeri-Aktiebolaget,"/><SP WIDTH="12" VPOS="1424" HPOS="580"/>
+							<String ID="string_13" HPOS="592" VPOS="1424" WIDTH="50" HEIGHT="18" WC="0.96" CONTENT="1905."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
