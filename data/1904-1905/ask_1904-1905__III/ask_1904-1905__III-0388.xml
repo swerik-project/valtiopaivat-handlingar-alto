@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_a05m_pb5_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1106" HEIGHT="1767" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1106" HEIGHT="1767">
+				<GraphicalElement ID="cblock_0" HPOS="274" VPOS="748" WIDTH="686" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="314" VPOS="764" WIDTH="606" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="314" VPOS="764" WIDTH="606" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="314" VPOS="764" WIDTH="606" HEIGHT="24">
+							<String ID="string_0" HPOS="314" VPOS="764" WIDTH="130" HEIGHT="24" WC="0.91" CONTENT="Helsingissä,"/><SP WIDTH="13" VPOS="764" HPOS="444"/>
+							<String ID="string_1" HPOS="457" VPOS="765" WIDTH="137" HEIGHT="18" WC="0.92" CONTENT="Keisarillisen"/><SP WIDTH="12" VPOS="765" HPOS="594"/>
+							<String ID="string_2" HPOS="606" VPOS="765" WIDTH="93" HEIGHT="18" WC="0.91" CONTENT="Senaatin"/><SP WIDTH="12" VPOS="765" HPOS="699"/>
+							<String ID="string_3" HPOS="711" VPOS="765" WIDTH="147" HEIGHT="23" WC="0.90" CONTENT="kirjapainossa,"/><SP WIDTH="13" VPOS="765" HPOS="858"/>
+							<String ID="string_4" HPOS="871" VPOS="766" WIDTH="49" HEIGHT="17" WC="0.95" CONTENT="1905."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="274" VPOS="799" WIDTH="678" HEIGHT="4"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
