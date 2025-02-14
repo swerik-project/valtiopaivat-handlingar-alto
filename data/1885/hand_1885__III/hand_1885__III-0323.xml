@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_mlzubiz5_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1086" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1086" HEIGHT="1717">
+				<GraphicalElement ID="cblock_0" HPOS="607" VPOS="213" WIDTH="312" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="286" VPOS="841" WIDTH="546" HEIGHT="6"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="337" VPOS="840" WIDTH="440" HEIGHT="37">
+					<TextBlock ID="block_0" HPOS="337" VPOS="840" WIDTH="440" HEIGHT="37">
+						<TextLine ID="line_0" HPOS="337" VPOS="840" WIDTH="440" HEIGHT="37">
+							<String ID="string_0" HPOS="337" VPOS="851" WIDTH="110" HEIGHT="26" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="9" VPOS="851" HPOS="447"/>
+							<String ID="string_1" HPOS="456" VPOS="840" WIDTH="184" HEIGHT="36" WC="0.67" CONTENT="Hufvadstadsbladets"/><SP WIDTH="8" VPOS="840" HPOS="640"/>
+							<String ID="string_2" HPOS="648" VPOS="853" WIDTH="80" HEIGHT="17" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="10" VPOS="853" HPOS="728"/>
+							<String ID="string_3" HPOS="738" VPOS="853" WIDTH="39" HEIGHT="14" WC="0.96" CONTENT="1885."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="290" VPOS="877" WIDTH="544" HEIGHT="5"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
