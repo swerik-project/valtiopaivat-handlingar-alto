@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_1ukjuz5h_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1075" HEIGHT="1698" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1075" HEIGHT="1698">
+				<GraphicalElement ID="cblock_0" HPOS="275" VPOS="768" WIDTH="620" HEIGHT="5"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="305" VPOS="791" WIDTH="560" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="305" VPOS="791" WIDTH="560" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="305" VPOS="791" WIDTH="560" HEIGHT="23">
+							<String ID="string_0" HPOS="305" VPOS="792" WIDTH="117" HEIGHT="22" WC="0.93" CONTENT="Helsingissä,"/><SP WIDTH="13" VPOS="792" HPOS="422"/>
+							<String ID="string_1" HPOS="435" VPOS="792" WIDTH="17" HEIGHT="18" WC="0.93" CONTENT="J."/><SP WIDTH="13" VPOS="792" HPOS="452"/>
+							<String ID="string_2" HPOS="465" VPOS="792" WIDTH="19" HEIGHT="18" WC="0.91" CONTENT="C."/><SP WIDTH="12" VPOS="792" HPOS="484"/>
+							<String ID="string_3" HPOS="496" VPOS="792" WIDTH="118" HEIGHT="18" WC="0.89" CONTENT="FrenckelPin"/><SP WIDTH="11" VPOS="792" HPOS="614"/>
+							<String ID="string_4" HPOS="625" VPOS="792" WIDTH="20" HEIGHT="22" WC="0.97" CONTENT="ja"/><SP WIDTH="12" VPOS="792" HPOS="645"/>
+							<String ID="string_5" HPOS="657" VPOS="791" WIDTH="56" HEIGHT="23" WC="0.93" CONTENT="Pojan"/><SP WIDTH="15" VPOS="791" HPOS="713"/>
+							<String ID="string_6" HPOS="728" VPOS="792" WIDTH="73" HEIGHT="22" WC="0.92" CONTENT="tykönä,"/><SP WIDTH="15" VPOS="792" HPOS="801"/>
+							<String ID="string_7" HPOS="816" VPOS="792" WIDTH="49" HEIGHT="18" WC="0.96" CONTENT="1885."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="275" VPOS="833" WIDTH="551" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

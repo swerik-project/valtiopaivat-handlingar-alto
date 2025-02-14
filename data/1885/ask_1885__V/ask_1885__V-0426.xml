@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_3ffoacvl_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1078" HEIGHT="1695" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1078" HEIGHT="1695">
+				<ComposedBlock ID="cblock_0" HPOS="214" VPOS="700" WIDTH="29" HEIGHT="7">
+					<TextBlock ID="block_0" HPOS="214" VPOS="700" WIDTH="29" HEIGHT="7">
+						<TextLine ID="line_0" HPOS="214" VPOS="700" WIDTH="29" HEIGHT="7">
+							<String ID="string_0" HPOS="214" VPOS="700" WIDTH="29" HEIGHT="7" WC="0.79" CONTENT="—"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="243" VPOS="701" WIDTH="718" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="257" VPOS="718" WIDTH="666" HEIGHT="23">
+					<TextBlock ID="block_1" HPOS="257" VPOS="718" WIDTH="666" HEIGHT="23">
+						<TextLine ID="line_1" HPOS="257" VPOS="718" WIDTH="666" HEIGHT="23">
+							<String ID="string_1" HPOS="257" VPOS="718" WIDTH="119" HEIGHT="22" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="13" VPOS="718" HPOS="376"/>
+							<String ID="string_2" HPOS="389" VPOS="719" WIDTH="65" HEIGHT="18" WC="0.96" CONTENT="Weilin"/><SP WIDTH="10" VPOS="719" HPOS="454"/>
+							<String ID="string_3" HPOS="464" VPOS="719" WIDTH="20" HEIGHT="22" WC="0.93" CONTENT="ja"/><SP WIDTH="13" VPOS="719" HPOS="484"/>
+							<String ID="string_4" HPOS="497" VPOS="719" WIDTH="71" HEIGHT="18" WC="0.92" CONTENT="Göös&#39;in"/><SP WIDTH="12" VPOS="719" HPOS="568"/>
+							<String ID="string_5" HPOS="580" VPOS="720" WIDTH="126" HEIGHT="21" WC="0.93" CONTENT="osake-yhtiön"/><SP WIDTH="12" VPOS="720" HPOS="706"/>
+							<String ID="string_6" HPOS="718" VPOS="720" WIDTH="139" HEIGHT="21" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="15" VPOS="720" HPOS="857"/>
+							<String ID="string_7" HPOS="872" VPOS="720" WIDTH="51" HEIGHT="17" WC="0.96" CONTENT="1885."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="214" VPOS="754" WIDTH="747" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

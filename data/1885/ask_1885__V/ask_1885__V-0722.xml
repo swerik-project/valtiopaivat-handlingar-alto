@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_sli6x5zn_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1064" HEIGHT="1698" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1064" HEIGHT="1698">
+				<GraphicalElement ID="cblock_0" HPOS="299" VPOS="701" WIDTH="601" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="327" VPOS="723" WIDTH="545" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="327" VPOS="723" WIDTH="545" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="327" VPOS="723" WIDTH="545" HEIGHT="24">
+							<String ID="string_0" HPOS="327" VPOS="723" WIDTH="113" HEIGHT="24" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="13" VPOS="723" HPOS="440"/>
+							<String ID="string_1" HPOS="453" VPOS="724" WIDTH="17" HEIGHT="18" WC="0.93" CONTENT="J."/><SP WIDTH="12" VPOS="724" HPOS="470"/>
+							<String ID="string_2" HPOS="482" VPOS="724" WIDTH="19" HEIGHT="17" WC="0.92" CONTENT="C."/><SP WIDTH="12" VPOS="724" HPOS="501"/>
+							<String ID="string_3" HPOS="513" VPOS="724" WIDTH="117" HEIGHT="17" WC="0.49" CONTENT="FrenckelPin"/><SP WIDTH="9" VPOS="724" HPOS="630"/>
+							<String ID="string_4" HPOS="639" VPOS="723" WIDTH="20" HEIGHT="23" WC="0.97" CONTENT="ja"/><SP WIDTH="12" VPOS="723" HPOS="659"/>
+							<String ID="string_5" HPOS="671" VPOS="723" WIDTH="55" HEIGHT="23" WC="0.93" CONTENT="Pojan"/><SP WIDTH="12" VPOS="723" HPOS="726"/>
+							<String ID="string_6" HPOS="738" VPOS="723" WIDTH="72" HEIGHT="23" WC="0.92" CONTENT="tykönä,"/><SP WIDTH="14" VPOS="723" HPOS="810"/>
+							<String ID="string_7" HPOS="824" VPOS="723" WIDTH="48" HEIGHT="18" WC="0.95" CONTENT="1885:"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="298" VPOS="763" WIDTH="602" HEIGHT="4"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
