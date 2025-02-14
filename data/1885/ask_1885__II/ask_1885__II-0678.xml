@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_rvc00m85_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1081" HEIGHT="1731" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1081" HEIGHT="1731">
+				<GraphicalElement ID="cblock_0" HPOS="247" VPOS="826" WIDTH="739" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="282" VPOS="846" WIDTH="681" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="282" VPOS="846" WIDTH="681" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="282" VPOS="846" WIDTH="681" HEIGHT="24">
+							<String ID="string_0" HPOS="282" VPOS="846" WIDTH="121" HEIGHT="24" WC="0.92" CONTENT="Helsingissä,"/><SP WIDTH="12" VPOS="846" HPOS="403"/>
+							<String ID="string_1" HPOS="415" VPOS="848" WIDTH="186" HEIGHT="22" WC="0.92" CONTENT="Puupiirroksellisen"/><SP WIDTH="13" VPOS="848" HPOS="601"/>
+							<String ID="string_2" HPOS="614" VPOS="848" WIDTH="134" HEIGHT="18" WC="0.85" CONTENT="Taidetchtaan"/><SP WIDTH="13" VPOS="848" HPOS="748"/>
+							<String ID="string_3" HPOS="761" VPOS="848" WIDTH="140" HEIGHT="22" WC="0.91" CONTENT="Kirjapainossa"/><SP WIDTH="12" VPOS="848" HPOS="901"/>
+							<String ID="string_4" HPOS="913" VPOS="848" WIDTH="50" HEIGHT="17" WC="0.96" CONTENT="1885."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="255" VPOS="887" WIDTH="745" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

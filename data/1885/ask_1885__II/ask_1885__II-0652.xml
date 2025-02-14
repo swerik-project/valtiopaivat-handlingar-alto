@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_dkz8g1m4_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1081" HEIGHT="1723" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1081" HEIGHT="1723">
+				<ComposedBlock ID="cblock_0" HPOS="236" VPOS="77" WIDTH="814" HEIGHT="31">
+					<TextBlock ID="block_0" HPOS="236" VPOS="77" WIDTH="814" HEIGHT="31">
+						<TextLine ID="line_0" HPOS="236" VPOS="77" WIDTH="814" HEIGHT="31">
+							<String ID="string_0" HPOS="236" VPOS="77" WIDTH="13" HEIGHT="21" WC="0.96" CONTENT="8"/><SP WIDTH="335" VPOS="77" HPOS="249"/>
+							<String ID="string_1" HPOS="584" VPOS="78" WIDTH="102" HEIGHT="24" WC="0.91" CONTENT="Suomen"/><SP WIDTH="16" VPOS="78" HPOS="686"/>
+							<String ID="string_2" HPOS="702" VPOS="80" WIDTH="91" HEIGHT="22" WC="0.91" CONTENT="valtion"/><SP WIDTH="16" VPOS="80" HPOS="793"/>
+							<String ID="string_3" HPOS="809" VPOS="80" WIDTH="62" HEIGHT="23" WC="0.91" CONTENT="tulo-"/><SP WIDTH="12" VPOS="80" HPOS="871"/>
+							<String ID="string_4" HPOS="883" VPOS="80" WIDTH="27" HEIGHT="28" WC="0.92" CONTENT="ja"/><SP WIDTH="15" VPOS="80" HPOS="910"/>
+							<String ID="string_5" HPOS="925" VPOS="80" WIDTH="125" HEIGHT="22" WC="0.92" CONTENT="menoarvi"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="643" VPOS="143" WIDTH="410" HEIGHT="28">
+					<TextBlock ID="block_1" HPOS="643" VPOS="143" WIDTH="410" HEIGHT="28">
+						<TextLine ID="line_1" HPOS="643" VPOS="143" WIDTH="410" HEIGHT="28">
+							<String ID="string_6" HPOS="643" VPOS="143" WIDTH="98" HEIGHT="28" WC="0.89" CONTENT="Siirretty"/><SP WIDTH="45" VPOS="143" HPOS="741"/>
+							<String ID="string_7" HPOS="786" VPOS="155" WIDTH="27" HEIGHT="3" WC="0.79" CONTENT="—"/><SP WIDTH="31" VPOS="155" HPOS="813"/>
+							<String ID="string_8" HPOS="844" VPOS="156" WIDTH="26" HEIGHT="3" WC="0.70" CONTENT="-—"/><SP WIDTH="16" VPOS="156" HPOS="870"/>
+							<String ID="string_9" HPOS="886" VPOS="143" WIDTH="167" HEIGHT="27" WC="0.87" CONTENT="42,017,701:"/><SP WIDTH="-21" VPOS="143" HPOS="1053"/>
+							<String ID="string_10" HPOS="1032" VPOS="139" WIDTH="24" HEIGHT="36" WC="0.57" CONTENT="Oi"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="610" VPOS="1426" WIDTH="448" HEIGHT="30">
+					<TextBlock ID="block_2" HPOS="610" VPOS="1426" WIDTH="448" HEIGHT="30">
+						<TextLine ID="line_2" HPOS="610" VPOS="1426" WIDTH="448" HEIGHT="30">
+							<String ID="string_11" HPOS="610" VPOS="1426" WIDTH="125" HEIGHT="23" WC="0.86" CONTENT="Siirrettävä"/><SP WIDTH="48" VPOS="1426" HPOS="735"/>
+							<String ID="string_12" HPOS="783" VPOS="1441" WIDTH="22" HEIGHT="2" WC="0.31" CONTENT=" —"/><SP WIDTH="33" VPOS="1441" HPOS="805"/>
+							<String ID="string_13" HPOS="838" VPOS="1442" WIDTH="27" HEIGHT="3" WC="0.65" CONTENT="—"/><SP WIDTH="15" VPOS="1442" HPOS="865"/>
+							<String ID="string_14" HPOS="880" VPOS="1431" WIDTH="134" HEIGHT="25" WC="0.92" CONTENT="42,017,701."/><SP WIDTH="10" VPOS="1431" HPOS="1014"/>
+							<String ID="string_15" HPOS="1024" VPOS="1433" WIDTH="34" HEIGHT="21" WC="0.96" CONTENT="07."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

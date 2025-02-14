@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_1krnu94y_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1061" HEIGHT="1731" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1061" HEIGHT="1731">
+				<ComposedBlock ID="cblock_0" HPOS="235" VPOS="88" WIDTH="26" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="235" VPOS="88" WIDTH="26" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="235" VPOS="88" WIDTH="26" HEIGHT="21">
+							<String ID="string_0" HPOS="235" VPOS="88" WIDTH="26" HEIGHT="21" WC="0.96" CONTENT="14"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="581" VPOS="91" WIDTH="460" HEIGHT="28">
+					<TextBlock ID="block_1" HPOS="581" VPOS="91" WIDTH="460" HEIGHT="28">
+						<TextLine ID="line_1" HPOS="581" VPOS="91" WIDTH="460" HEIGHT="28">
+							<String ID="string_1" HPOS="581" VPOS="91" WIDTH="102" HEIGHT="22" WC="0.95" CONTENT="Suomen"/><SP WIDTH="18" VPOS="91" HPOS="683"/>
+							<String ID="string_2" HPOS="701" VPOS="92" WIDTH="168" HEIGHT="22" WC="0.90" CONTENT="valtion.tulo-"/><SP WIDTH="13" VPOS="92" HPOS="869"/>
+							<String ID="string_3" HPOS="882" VPOS="91" WIDTH="26" HEIGHT="28" WC="0.93" CONTENT="ja"/><SP WIDTH="15" VPOS="91" HPOS="908"/>
+							<String ID="string_4" HPOS="923" VPOS="97" WIDTH="118" HEIGHT="16" WC="0.92" CONTENT="menoarvi"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="641" VPOS="155" WIDTH="398" HEIGHT="28">
+					<TextBlock ID="block_2" HPOS="641" VPOS="155" WIDTH="398" HEIGHT="28">
+						<TextLine ID="line_2" HPOS="641" VPOS="155" WIDTH="398" HEIGHT="28">
+							<String ID="string_5" HPOS="641" VPOS="155" WIDTH="100" HEIGHT="28" WC="0.91" CONTENT="Siirretty"/><SP WIDTH="47" VPOS="155" HPOS="741"/>
+							<String ID="string_6" HPOS="788" VPOS="168" WIDTH="22" HEIGHT="2" WC="0.68" CONTENT="—"/><SP WIDTH="31" VPOS="168" HPOS="810"/>
+							<String ID="string_7" HPOS="841" VPOS="167" WIDTH="27" HEIGHT="3" WC="0.70" CONTENT="—"/><SP WIDTH="15" VPOS="167" HPOS="868"/>
+							<String ID="string_8" HPOS="883" VPOS="155" WIDTH="156" HEIGHT="26" WC="0.70" CONTENT=" 42,017,701:0"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="440" VPOS="230" WIDTH="406" HEIGHT="662"></Illustration>
+				<ComposedBlock ID="cblock_4" HPOS="533" VPOS="902" WIDTH="508" HEIGHT="28">
+					<TextBlock ID="block_3" HPOS="533" VPOS="902" WIDTH="508" HEIGHT="28">
+						<TextLine ID="line_3" HPOS="533" VPOS="902" WIDTH="508" HEIGHT="28">
+							<String ID="string_9" HPOS="533" VPOS="902" WIDTH="50" HEIGHT="22" WC="0.70" CONTENT="Sum"/><SP WIDTH="12" VPOS="902" HPOS="583"/>
+							<String ID="string_10" HPOS="595" VPOS="910" WIDTH="30" HEIGHT="14" WC="0.70" CONTENT="ma"/><SP WIDTH="16" VPOS="910" HPOS="625"/>
+							<String ID="string_11" HPOS="641" VPOS="904" WIDTH="48" HEIGHT="26" WC="0.59" CONTENT="Fine"/><SP WIDTH="59" VPOS="904" HPOS="689"/>
+							<String ID="string_12" HPOS="748" VPOS="916" WIDTH="28" HEIGHT="2" WC="0.91" CONTENT="—"/><SP WIDTH="44" VPOS="916" HPOS="776"/>
+							<String ID="string_13" HPOS="820" VPOS="916" WIDTH="27" HEIGHT="3" WC="0.85" CONTENT="—"/><SP WIDTH="29" VPOS="916" HPOS="847"/>
+							<String ID="string_14" HPOS="876" VPOS="903" WIDTH="165" HEIGHT="25" WC="0.61" CONTENT="42,017,701:0i"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

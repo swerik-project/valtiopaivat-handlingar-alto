@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_cpwwuyig_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1073" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1073" HEIGHT="1692">
+				<Illustration ID="cblock_0" HPOS="501" VPOS="64" WIDTH="270" HEIGHT="196"></Illustration>
+				<GraphicalElement ID="cblock_1" HPOS="353" VPOS="717" WIDTH="536" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="392" VPOS="732" WIDTH="457" HEIGHT="25">
+					<TextBlock ID="block_0" HPOS="392" VPOS="732" WIDTH="457" HEIGHT="25">
+						<TextLine ID="line_0" HPOS="392" VPOS="732" WIDTH="457" HEIGHT="25">
+							<String ID="string_0" HPOS="392" VPOS="732" WIDTH="121" HEIGHT="23" WC="0.92" CONTENT="Helsingissä,"/><SP WIDTH="12" VPOS="732" HPOS="513"/>
+							<String ID="string_1" HPOS="525" VPOS="733" WIDTH="17" HEIGHT="18" WC="0.89" CONTENT="J."/><SP WIDTH="13" VPOS="733" HPOS="542"/>
+							<String ID="string_2" HPOS="555" VPOS="733" WIDTH="18" HEIGHT="18" WC="0.91" CONTENT="C."/><SP WIDTH="13" VPOS="733" HPOS="573"/>
+							<String ID="string_3" HPOS="586" VPOS="733" WIDTH="98" HEIGHT="18" WC="0.92" CONTENT="Frenckell"/><SP WIDTH="9" VPOS="733" HPOS="684"/>
+							<String ID="string_4" HPOS="693" VPOS="734" WIDTH="20" HEIGHT="23" WC="0.93" CONTENT="ja"/><SP WIDTH="12" VPOS="734" HPOS="713"/>
+							<String ID="string_5" HPOS="725" VPOS="734" WIDTH="62" HEIGHT="19" WC="0.91" CONTENT="Poika,"/><SP WIDTH="13" VPOS="734" HPOS="787"/>
+							<String ID="string_6" HPOS="800" VPOS="734" WIDTH="49" HEIGHT="18" WC="0.96" CONTENT="1885."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="354" VPOS="768" WIDTH="535" HEIGHT="4"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
