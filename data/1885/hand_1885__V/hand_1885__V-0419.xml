@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_n137swgh_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1061" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1061" HEIGHT="1717">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="26" WIDTH="2" HEIGHT="1208"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="215" VPOS="734" WIDTH="713" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="280" VPOS="751" WIDTH="583" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="280" VPOS="751" WIDTH="583" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="280" VPOS="751" WIDTH="583" HEIGHT="24">
+							<String ID="string_0" HPOS="280" VPOS="753" WIDTH="118" HEIGHT="22" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="13" VPOS="753" HPOS="398"/>
+							<String ID="string_1" HPOS="411" VPOS="753" WIDTH="66" HEIGHT="18" WC="0.92" CONTENT="Weilin"/><SP WIDTH="13" VPOS="753" HPOS="477"/>
+							<String ID="string_2" HPOS="490" VPOS="753" WIDTH="17" HEIGHT="18" WC="0.92" CONTENT="&amp;"/><SP WIDTH="13" VPOS="753" HPOS="507"/>
+							<String ID="string_3" HPOS="520" VPOS="753" WIDTH="50" HEIGHT="18" WC="0.91" CONTENT="Göös&#39;"/><SP WIDTH="12" VPOS="753" HPOS="570"/>
+							<String ID="string_4" HPOS="582" VPOS="753" WIDTH="119" HEIGHT="22" WC="0.91" CONTENT="Aktiebolags"/><SP WIDTH="13" VPOS="753" HPOS="701"/>
+							<String ID="string_5" HPOS="714" VPOS="753" WIDTH="84" HEIGHT="22" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="14" VPOS="753" HPOS="798"/>
+							<String ID="string_6" HPOS="812" VPOS="751" WIDTH="51" HEIGHT="19" WC="0.96" CONTENT="1885."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="214" VPOS="788" WIDTH="713" HEIGHT="5"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
