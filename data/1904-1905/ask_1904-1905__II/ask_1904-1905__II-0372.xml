@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_lf4wpag1_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1111" HEIGHT="1775" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1111" HEIGHT="1775">
+				<ComposedBlock ID="cblock_0" HPOS="533" VPOS="786" WIDTH="3" HEIGHT="8">
+					<TextBlock ID="block_0" HPOS="533" VPOS="786" WIDTH="3" HEIGHT="8">
+						<TextLine ID="line_0" HPOS="533" VPOS="786" WIDTH="3" HEIGHT="8">
+							<String ID="string_0" HPOS="533" VPOS="786" WIDTH="3" HEIGHT="8" WC="0.61" CONTENT="3"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="298" VPOS="825" WIDTH="125" HEIGHT="48"></Illustration>
+				<ComposedBlock ID="cblock_2" HPOS="412" VPOS="847" WIDTH="507" HEIGHT="28">
+					<TextBlock ID="block_1" HPOS="412" VPOS="847" WIDTH="507" HEIGHT="28">
+						<TextLine ID="line_1" HPOS="412" VPOS="847" WIDTH="507" HEIGHT="28">
+							<String ID="string_1" HPOS="412" VPOS="849" WIDTH="16" HEIGHT="21" WC="0.82" CONTENT="ä,"/><SP WIDTH="12" VPOS="849" HPOS="428"/>
+							<String ID="string_2" HPOS="440" VPOS="847" WIDTH="136" HEIGHT="28" WC="0.95" CONTENT="Keisarillisen"/><SP WIDTH="14" VPOS="847" HPOS="576"/>
+							<String ID="string_3" HPOS="590" VPOS="847" WIDTH="92" HEIGHT="24" WC="0.96" CONTENT="Senaatin"/><SP WIDTH="12" VPOS="847" HPOS="682"/>
+							<String ID="string_4" HPOS="694" VPOS="847" WIDTH="148" HEIGHT="25" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="14" VPOS="847" HPOS="842"/>
+							<String ID="string_5" HPOS="856" VPOS="848" WIDTH="49" HEIGHT="17" WC="0.92" CONTENT="1905."/><SP WIDTH="12" VPOS="848" HPOS="905"/>
+							<String ID="string_6" HPOS="917" VPOS="862" WIDTH="2" HEIGHT="2" WC="0.91" CONTENT="."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="295" VPOS="888" WIDTH="129" HEIGHT="3"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

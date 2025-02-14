@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_r9i9mcu1_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1111" HEIGHT="1767" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1111" HEIGHT="1767">
+				<Illustration ID="cblock_0" HPOS="300" VPOS="198" WIDTH="474" HEIGHT="28"></Illustration>
+				<Illustration ID="cblock_1" HPOS="906" VPOS="797" WIDTH="5" HEIGHT="2"></Illustration>
+				<Illustration ID="cblock_2" HPOS="910" VPOS="801" WIDTH="4" HEIGHT="22"></Illustration>
+				<ComposedBlock ID="cblock_3" HPOS="309" VPOS="794" WIDTH="623" HEIGHT="40">
+					<TextBlock ID="block_0" HPOS="309" VPOS="794" WIDTH="623" HEIGHT="40">
+						<TextLine ID="line_0" HPOS="309" VPOS="794" WIDTH="623" HEIGHT="40">
+							<String ID="string_0" HPOS="309" VPOS="802" WIDTH="129" HEIGHT="32" WC="0.88" CONTENT="Helsingissä,"/><SP WIDTH="12" VPOS="802" HPOS="438"/>
+							<String ID="string_1" HPOS="450" VPOS="798" WIDTH="136" HEIGHT="27" WC="0.93" CONTENT="Keisarillisen"/><SP WIDTH="11" VPOS="798" HPOS="586"/>
+							<String ID="string_2" HPOS="597" VPOS="798" WIDTH="99" HEIGHT="27" WC="0.74" CONTENT="Senaatin."/><SP WIDTH="8" VPOS="798" HPOS="696"/>
+							<String ID="string_3" HPOS="704" VPOS="794" WIDTH="146" HEIGHT="40" WC="0.92" CONTENT="kirjapainossa,"/><SP WIDTH="14" VPOS="794" HPOS="850"/>
+							<String ID="string_4" HPOS="864" VPOS="806" WIDTH="42" HEIGHT="18" WC="0.31" CONTENT="1905."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_4" HPOS="287" VPOS="962" WIDTH="58" HEIGHT="23"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
