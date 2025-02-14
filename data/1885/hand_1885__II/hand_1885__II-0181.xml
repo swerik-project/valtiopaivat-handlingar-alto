@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_y_37498l_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1009" HEIGHT="1739" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1009" HEIGHT="1739">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="311" WIDTH="6" HEIGHT="559"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="325" VPOS="873" WIDTH="413" HEIGHT="8"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="286" VPOS="873" WIDTH="444" HEIGHT="40">
+					<TextBlock ID="block_0" HPOS="286" VPOS="873" WIDTH="444" HEIGHT="40">
+						<TextLine ID="line_0" HPOS="286" VPOS="873" WIDTH="444" HEIGHT="40">
+							<String ID="string_0" HPOS="286" VPOS="882" WIDTH="124" HEIGHT="31" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="12" VPOS="882" HPOS="410"/>
+							<String ID="string_1" HPOS="422" VPOS="877" WIDTH="16" HEIGHT="27" WC="0.84" CONTENT="I"/><SP WIDTH="14" VPOS="877" HPOS="438"/>
+							<String ID="string_2" HPOS="452" VPOS="877" WIDTH="21" HEIGHT="27" WC="0.92" CONTENT="C."/><SP WIDTH="14" VPOS="877" HPOS="473"/>
+							<String ID="string_3" HPOS="487" VPOS="873" WIDTH="101" HEIGHT="39" WC="0.53" CONTENT="Frenckell."/><SP WIDTH="8" VPOS="873" HPOS="588"/>
+							<String ID="string_4" HPOS="596" VPOS="877" WIDTH="20" HEIGHT="27" WC="0.92" CONTENT="&amp;"/><SP WIDTH="8" VPOS="877" HPOS="616"/>
+							<String ID="string_5" HPOS="624" VPOS="886" WIDTH="44" HEIGHT="21" WC="0.73" CONTENT="Sen,"/><SP WIDTH="8" VPOS="886" HPOS="668"/>
+							<String ID="string_6" HPOS="676" VPOS="873" WIDTH="54" HEIGHT="38" WC="0.87" CONTENT="1885."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="268" VPOS="911" WIDTH="458" HEIGHT="11"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
