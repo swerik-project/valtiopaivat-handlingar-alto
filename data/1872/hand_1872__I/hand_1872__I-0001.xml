@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_2hf1wu9__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1142" HEIGHT="1786" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1142" HEIGHT="1786">
+				<ComposedBlock ID="cblock_0" HPOS="312" VPOS="472" WIDTH="407" HEIGHT="56">
+					<TextBlock ID="block_0" HPOS="312" VPOS="472" WIDTH="407" HEIGHT="56">
+						<TextLine ID="line_0" HPOS="312" VPOS="472" WIDTH="407" HEIGHT="56">
+							<String ID="string_0" HPOS="312" VPOS="472" WIDTH="407" HEIGHT="56" WC="0.96" CONTENT="HANDLINGAR"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="426" VPOS="590" WIDTH="161" HEIGHT="20">
+					<TextBlock ID="block_1" HPOS="426" VPOS="590" WIDTH="161" HEIGHT="20">
+						<TextLine ID="line_1" HPOS="426" VPOS="590" WIDTH="161" HEIGHT="20">
+							<String ID="string_1" HPOS="426" VPOS="590" WIDTH="113" HEIGHT="20" WC="0.95" CONTENT="tillkomna"/><SP WIDTH="15" VPOS="590" HPOS="539"/>
+							<String ID="string_2" HPOS="554" VPOS="591" WIDTH="33" HEIGHT="19" WC="0.96" CONTENT="vid"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="139" VPOS="674" WIDTH="752" HEIGHT="140">
+					<TextBlock ID="block_2" HPOS="139" VPOS="674" WIDTH="752" HEIGHT="140">
+						<TextLine ID="line_2" HPOS="139" VPOS="674" WIDTH="752" HEIGHT="46">
+							<String ID="string_3" HPOS="139" VPOS="674" WIDTH="338" HEIGHT="46" WC="0.91" CONTENT="LANDTDAGEN"/><SP WIDTH="31" VPOS="674" HPOS="477"/>
+							<String ID="string_4" HPOS="508" VPOS="675" WIDTH="14" HEIGHT="43" WC="0.95" CONTENT="i"/><SP WIDTH="30" VPOS="675" HPOS="522"/>
+							<String ID="string_5" HPOS="552" VPOS="674" WIDTH="339" HEIGHT="46" WC="0.70" CONTENT="HELSINGFORS"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="437" VPOS="775" WIDTH="164" HEIGHT="39">
+							<String ID="string_6" HPOS="437" VPOS="779" WIDTH="39" HEIGHT="34" WC="0.95" CONTENT="år"/><SP WIDTH="28" VPOS="779" HPOS="476"/>
+							<String ID="string_7" HPOS="504" VPOS="775" WIDTH="97" HEIGHT="39" WC="0.96" CONTENT="1872."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="399" VPOS="1022" WIDTH="236" HEIGHT="19">
+					<TextBlock ID="block_3" HPOS="399" VPOS="1022" WIDTH="236" HEIGHT="19">
+						<TextLine ID="line_4" HPOS="399" VPOS="1022" WIDTH="236" HEIGHT="19">
+							<String ID="string_8" HPOS="399" VPOS="1022" WIDTH="115" HEIGHT="19" WC="0.96" CONTENT="Första"/><SP WIDTH="18" VPOS="1022" HPOS="514"/>
+							<String ID="string_9" HPOS="532" VPOS="1023" WIDTH="103" HEIGHT="18" WC="0.94" CONTENT="delen."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="429" VPOS="1444" WIDTH="187" HEIGHT="26">
+					<TextBlock ID="block_4" HPOS="429" VPOS="1444" WIDTH="187" HEIGHT="26">
+						<TextLine ID="line_5" HPOS="429" VPOS="1444" WIDTH="187" HEIGHT="26">
+							<String ID="string_10" HPOS="429" VPOS="1444" WIDTH="187" HEIGHT="26" WC="0.92" CONTENT="HELSINGFORS,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="382" VPOS="1483" WIDTH="286" HEIGHT="23">
+					<TextBlock ID="block_5" HPOS="382" VPOS="1483" WIDTH="286" HEIGHT="23">
+						<TextLine ID="line_6" HPOS="382" VPOS="1483" WIDTH="286" HEIGHT="23">
+							<String ID="string_11" HPOS="382" VPOS="1484" WIDTH="16" HEIGHT="17" WC="0.93" CONTENT="J."/><SP WIDTH="14" VPOS="1484" HPOS="398"/>
+							<String ID="string_12" HPOS="412" VPOS="1485" WIDTH="72" HEIGHT="17" WC="0.93" CONTENT="Simelii"/><SP WIDTH="16" VPOS="1485" HPOS="484"/>
+							<String ID="string_13" HPOS="500" VPOS="1485" WIDTH="101" HEIGHT="21" WC="0.92" CONTENT="arfvingar,"/><SP WIDTH="18" VPOS="1485" HPOS="601"/>
+							<String ID="string_14" HPOS="619" VPOS="1483" WIDTH="49" HEIGHT="17" WC="0.96" CONTENT="1873."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

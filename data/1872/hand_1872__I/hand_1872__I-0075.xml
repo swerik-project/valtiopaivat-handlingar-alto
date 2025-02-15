@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_fgbinf5j_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1142" HEIGHT="1786" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1142" HEIGHT="1786">
+				<GraphicalElement ID="cblock_0" HPOS="22" VPOS="1374" WIDTH="6" HEIGHT="395"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="290" VPOS="557" WIDTH="466" HEIGHT="118">
+					<TextBlock ID="block_0" HPOS="290" VPOS="557" WIDTH="466" HEIGHT="118">
+						<TextLine ID="line_0" HPOS="290" VPOS="557" WIDTH="466" HEIGHT="58">
+							<String ID="string_0" HPOS="290" VPOS="557" WIDTH="254" HEIGHT="46" WC="0.91" CONTENT="Summarisk"/><SP WIDTH="33" VPOS="557" HPOS="544"/>
+							<String ID="string_1" HPOS="577" VPOS="559" WIDTH="179" HEIGHT="56" WC="0.96" CONTENT="räkning"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="495" VPOS="656" WIDTH="59" HEIGHT="19">
+							<String ID="string_2" HPOS="495" VPOS="656" WIDTH="59" HEIGHT="19" WC="0.95" CONTENT="öfver"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="151" VPOS="721" WIDTH="748" HEIGHT="57">
+					<TextBlock ID="block_1" HPOS="151" VPOS="721" WIDTH="748" HEIGHT="57">
+						<TextLine ID="line_2" HPOS="151" VPOS="721" WIDTH="748" HEIGHT="57">
+							<String ID="string_3" HPOS="151" VPOS="721" WIDTH="310" HEIGHT="56" WC="0.93" CONTENT="Allmänna"/><SP WIDTH="32" VPOS="721" HPOS="461"/>
+							<String ID="string_4" HPOS="493" VPOS="722" WIDTH="406" HEIGHT="56" WC="0.91" CONTENT="Stats-Fonden"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="270" VPOS="899" WIDTH="502" HEIGHT="120">
+					<TextBlock ID="block_2" HPOS="270" VPOS="899" WIDTH="502" HEIGHT="120">
+						<TextLine ID="line_3" HPOS="270" VPOS="899" WIDTH="502" HEIGHT="38">
+							<String ID="string_5" HPOS="270" VPOS="899" WIDTH="331" HEIGHT="38" WC="0.91" CONTENT="Storfurstendömet"/><SP WIDTH="24" VPOS="899" HPOS="601"/>
+							<String ID="string_6" HPOS="625" VPOS="899" WIDTH="147" HEIGHT="38" WC="0.96" CONTENT="Finland"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="507" VPOS="999" WIDTH="31" HEIGHT="20">
+							<String ID="string_7" HPOS="507" VPOS="999" WIDTH="31" HEIGHT="20" WC="0.96" CONTENT="för"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="463" VPOS="1079" WIDTH="118" HEIGHT="28">
+					<TextBlock ID="block_3" HPOS="463" VPOS="1079" WIDTH="118" HEIGHT="28">
+						<TextLine ID="line_5" HPOS="463" VPOS="1079" WIDTH="118" HEIGHT="28">
+							<String ID="string_8" HPOS="463" VPOS="1079" WIDTH="29" HEIGHT="28" WC="0.96" CONTENT="är"/><SP WIDTH="22" VPOS="1079" HPOS="492"/>
+							<String ID="string_9" HPOS="514" VPOS="1079" WIDTH="67" HEIGHT="28" WC="0.96" CONTENT="1869."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

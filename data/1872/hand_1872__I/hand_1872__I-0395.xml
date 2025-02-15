@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_wjpowrv0_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1142" HEIGHT="1786" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1142" HEIGHT="1786">
+				<ComposedBlock ID="cblock_0" HPOS="249" VPOS="465" WIDTH="591" HEIGHT="47">
+					<TextBlock ID="block_0" HPOS="249" VPOS="465" WIDTH="591" HEIGHT="47">
+						<TextLine ID="line_0" HPOS="249" VPOS="465" WIDTH="591" HEIGHT="47">
+							<String ID="string_0" HPOS="249" VPOS="466" WIDTH="107" HEIGHT="36" WC="0.96" CONTENT="Hans"/><SP WIDTH="29" VPOS="466" HPOS="356"/>
+							<String ID="string_1" HPOS="385" VPOS="465" WIDTH="223" HEIGHT="46" WC="0.95" CONTENT="Kejserliga"/><SP WIDTH="29" VPOS="465" HPOS="608"/>
+							<String ID="string_2" HPOS="637" VPOS="466" WIDTH="203" HEIGHT="46" WC="0.96" CONTENT="Majestäts"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="190" VPOS="586" WIDTH="709" HEIGHT="150">
+					<TextBlock ID="block_1" HPOS="190" VPOS="586" WIDTH="709" HEIGHT="150">
+						<TextLine ID="line_1" HPOS="190" VPOS="586" WIDTH="709" HEIGHT="71">
+							<String ID="string_3" HPOS="190" VPOS="586" WIDTH="222" HEIGHT="71" WC="0.92" CONTENT="Nådiga"/><SP WIDTH="46" VPOS="586" HPOS="412"/>
+							<String ID="string_4" HPOS="458" VPOS="587" WIDTH="441" HEIGHT="70" WC="0.95" CONTENT="Propositioner"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="489" VPOS="716" WIDTH="108" HEIGHT="20">
+							<String ID="string_5" HPOS="489" VPOS="716" WIDTH="108" HEIGHT="20" WC="0.96" CONTENT="äfvensom"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="187" VPOS="803" WIDTH="713" HEIGHT="28">
+					<TextBlock ID="block_2" HPOS="187" VPOS="803" WIDTH="713" HEIGHT="28">
+						<TextLine ID="line_3" HPOS="187" VPOS="803" WIDTH="713" HEIGHT="28">
+							<String ID="string_6" HPOS="187" VPOS="804" WIDTH="172" HEIGHT="27" WC="0.96" CONTENT="vederbörande"/><SP WIDTH="21" VPOS="804" HPOS="359"/>
+							<String ID="string_7" HPOS="380" VPOS="803" WIDTH="98" HEIGHT="28" WC="0.91" CONTENT="utskotts"/><SP WIDTH="20" VPOS="803" HPOS="478"/>
+							<String ID="string_8" HPOS="498" VPOS="804" WIDTH="158" HEIGHT="26" WC="0.96" CONTENT="betänkanden"/><SP WIDTH="26" VPOS="804" HPOS="656"/>
+							<String ID="string_9" HPOS="682" VPOS="806" WIDTH="57" HEIGHT="24" WC="0.92" CONTENT="samt"/><SP WIDTH="22" VPOS="806" HPOS="739"/>
+							<String ID="string_10" HPOS="761" VPOS="804" WIDTH="139" HEIGHT="26" WC="0.91" CONTENT="Ständernas"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="315" VPOS="866" WIDTH="458" HEIGHT="35">
+					<TextBlock ID="block_3" HPOS="315" VPOS="866" WIDTH="458" HEIGHT="35">
+						<TextLine ID="line_4" HPOS="315" VPOS="866" WIDTH="458" HEIGHT="35">
+							<String ID="string_11" HPOS="315" VPOS="866" WIDTH="156" HEIGHT="35" WC="0.91" CONTENT="underdäniga"/><SP WIDTH="22" VPOS="866" HPOS="471"/>
+							<String ID="string_12" HPOS="493" VPOS="874" WIDTH="54" HEIGHT="19" WC="0.96" CONTENT="svar"/><SP WIDTH="20" VPOS="874" HPOS="547"/>
+							<String ID="string_13" HPOS="567" VPOS="868" WIDTH="43" HEIGHT="26" WC="0.93" CONTENT="och"/><SP WIDTH="21" VPOS="868" HPOS="610"/>
+							<String ID="string_14" HPOS="631" VPOS="866" WIDTH="142" HEIGHT="28" WC="0.91" CONTENT="skrifvelser."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="372" VPOS="1045" WIDTH="350" HEIGHT="38">
+					<TextBlock ID="block_4" HPOS="372" VPOS="1045" WIDTH="350" HEIGHT="38">
+						<TextLine ID="line_5" HPOS="372" VPOS="1045" WIDTH="350" HEIGHT="38">
+							<String ID="string_15" HPOS="372" VPOS="1045" WIDTH="350" HEIGHT="38" WC="0.92" CONTENT="Ekonomiutskottet."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
