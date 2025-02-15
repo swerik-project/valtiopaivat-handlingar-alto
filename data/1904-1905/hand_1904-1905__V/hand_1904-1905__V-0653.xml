@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess__c1_43aa_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1114" HEIGHT="1775" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1114" HEIGHT="1775">
+				<ComposedBlock ID="cblock_0" HPOS="310" VPOS="160" WIDTH="380" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="310" VPOS="160" WIDTH="380" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="310" VPOS="160" WIDTH="380" HEIGHT="23">
+							<String ID="string_0" HPOS="310" VPOS="160" WIDTH="278" HEIGHT="23" WC="0.91" CONTENT="Petitionsbetänkande"/><SP WIDTH="16" VPOS="160" HPOS="588"/>
+							<String ID="string_1" HPOS="604" VPOS="161" WIDTH="42" HEIGHT="22" WC="0.96" CONTENT="N:o"/><SP WIDTH="21" VPOS="161" HPOS="646"/>
+							<String ID="string_2" HPOS="667" VPOS="160" WIDTH="23" HEIGHT="23" WC="0.95" CONTENT="6."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="114" VPOS="602" WIDTH="755" HEIGHT="56">
+					<TextBlock ID="block_1" HPOS="114" VPOS="602" WIDTH="755" HEIGHT="56">
+						<TextLine ID="line_1" HPOS="182" VPOS="602" WIDTH="687" HEIGHT="29">
+							<String ID="string_3" HPOS="182" VPOS="602" WIDTH="147" HEIGHT="22" WC="0.96" CONTENT="Betänkandet"/><SP WIDTH="25" VPOS="602" HPOS="329"/>
+							<String ID="string_4" HPOS="354" VPOS="605" WIDTH="22" HEIGHT="19" WC="0.96" CONTENT="är"/><SP WIDTH="26" VPOS="605" HPOS="376"/>
+							<String ID="string_5" HPOS="402" VPOS="605" WIDTH="50" HEIGHT="19" WC="0.96" CONTENT="utan"/><SP WIDTH="24" VPOS="605" HPOS="452"/>
+							<String ID="string_6" HPOS="476" VPOS="603" WIDTH="73" HEIGHT="27" WC="0.95" CONTENT="slutlig"/><SP WIDTH="21" VPOS="603" HPOS="549"/>
+							<String ID="string_7" HPOS="570" VPOS="604" WIDTH="107" HEIGHT="27" WC="0.96" CONTENT="justering"/><SP WIDTH="25" VPOS="604" HPOS="677"/>
+							<String ID="string_8" HPOS="702" VPOS="603" WIDTH="31" HEIGHT="21" WC="0.94" CONTENT="till"/><SP WIDTH="25" VPOS="603" HPOS="733"/>
+							<String ID="string_9" HPOS="758" VPOS="603" WIDTH="60" HEIGHT="28" WC="0.93" CONTENT="tryck"/><SP WIDTH="16" VPOS="603" HPOS="818"/>
+							<String ID="string_10" HPOS="834" VPOS="603" WIDTH="35" HEIGHT="21" WC="0.91" CONTENT="be-"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="114" VPOS="637" WIDTH="102" HEIGHT="21">
+							<String ID="string_11" HPOS="114" VPOS="637" WIDTH="102" HEIGHT="21" WC="0.91" CONTENT="fordradt."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="363" VPOS="734" WIDTH="432" HEIGHT="30">
+					<TextBlock ID="block_2" HPOS="363" VPOS="734" WIDTH="432" HEIGHT="30">
+						<TextLine ID="line_3" HPOS="363" VPOS="734" WIDTH="432" HEIGHT="30">
+							<String ID="string_12" HPOS="363" VPOS="734" WIDTH="261" HEIGHT="29" WC="0.72" CONTENT="Expeditionsutskottets"/><SP WIDTH="15" VPOS="734" HPOS="624"/>
+							<String ID="string_13" HPOS="639" VPOS="735" WIDTH="156" HEIGHT="29" WC="0.95" CONTENT="anmärkning."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

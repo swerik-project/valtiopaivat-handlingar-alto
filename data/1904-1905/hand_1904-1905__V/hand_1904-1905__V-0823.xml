@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_48v17scl_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1773">
+				<GraphicalElement ID="cblock_0" HPOS="228" VPOS="801" WIDTH="751" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="230" VPOS="808" WIDTH="751" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="336" VPOS="826" WIDTH="548" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="336" VPOS="826" WIDTH="548" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="336" VPOS="826" WIDTH="548" HEIGHT="22">
+							<String ID="string_0" HPOS="336" VPOS="827" WIDTH="126" HEIGHT="21" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="15" VPOS="827" HPOS="462"/>
+							<String ID="string_1" HPOS="477" VPOS="827" WIDTH="132" HEIGHT="21" WC="0.93" CONTENT="Aktiebolaget"/><SP WIDTH="14" VPOS="827" HPOS="609"/>
+							<String ID="string_2" HPOS="623" VPOS="826" WIDTH="196" HEIGHT="22" WC="0.91" CONTENT="Handelstryckeriet,"/><SP WIDTH="14" VPOS="826" HPOS="819"/>
+							<String ID="string_3" HPOS="833" VPOS="826" WIDTH="51" HEIGHT="16" WC="0.96" CONTENT="1905."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="230" VPOS="855" WIDTH="734" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="227" VPOS="862" WIDTH="752" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
