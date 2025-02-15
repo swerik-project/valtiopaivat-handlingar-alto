@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_txo7j5jl_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1759" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1759">
+				<GraphicalElement ID="cblock_0" HPOS="334" VPOS="787" WIDTH="558" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="323" VPOS="784" WIDTH="549" HEIGHT="43">
+					<TextBlock ID="block_0" HPOS="323" VPOS="784" WIDTH="549" HEIGHT="43">
+						<TextLine ID="line_0" HPOS="323" VPOS="784" WIDTH="549" HEIGHT="43">
+							<String ID="string_0" HPOS="323" VPOS="788" WIDTH="8" HEIGHT="2" WC="0.4" CONTENT="-"/><SP WIDTH="12" VPOS="788" HPOS="331"/>
+							<String ID="string_1" HPOS="343" VPOS="784" WIDTH="128" HEIGHT="43" WC="0.90" CONTENT="Helsingissä,"/><SP WIDTH="2" VPOS="784" HPOS="471"/>
+							<String ID="string_2" HPOS="473" VPOS="784" WIDTH="129" HEIGHT="43" WC="0.66" CONTENT="&quot;Osakeyhtiö"/><SP WIDTH="14" VPOS="784" HPOS="602"/>
+							<String ID="string_3" HPOS="616" VPOS="785" WIDTH="190" HEIGHT="42" WC="0.90" CONTENT="Kauppakirjapaino"/><SP WIDTH="15" VPOS="785" HPOS="806"/>
+							<String ID="string_4" HPOS="821" VPOS="799" WIDTH="51" HEIGHT="17" WC="0.96" CONTENT="1906."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="324" VPOS="830" WIDTH="568" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

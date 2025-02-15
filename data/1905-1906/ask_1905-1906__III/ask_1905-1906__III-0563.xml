@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_h1g9nl_h_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1753" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1753">
+				<ComposedBlock ID="cblock_0" HPOS="281" VPOS="135" WIDTH="27" HEIGHT="19">
+					<TextBlock ID="block_0" HPOS="281" VPOS="135" WIDTH="27" HEIGHT="19">
+						<TextLine ID="line_0" HPOS="281" VPOS="135" WIDTH="27" HEIGHT="19">
+							<String ID="string_0" HPOS="281" VPOS="135" WIDTH="27" HEIGHT="19" WC="0.96" CONTENT="40"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="250" VPOS="197" WIDTH="757" HEIGHT="55">
+					<TextBlock ID="block_1" HPOS="250" VPOS="197" WIDTH="757" HEIGHT="55">
+						<TextLine ID="line_1" HPOS="320" VPOS="197" WIDTH="685" HEIGHT="26">
+							<String ID="string_1" HPOS="320" VPOS="197" WIDTH="120" HEIGHT="25" WC="0.88" CONTENT="Merkittiin"/><SP WIDTH="-3" VPOS="197" HPOS="440"/>
+							<String ID="string_2" HPOS="437" VPOS="193" WIDTH="11" HEIGHT="34" WC="0.88" CONTENT=";"/><SP WIDTH="8" VPOS="193" HPOS="448"/>
+							<String ID="string_3" HPOS="456" VPOS="197" WIDTH="60" HEIGHT="26" WC="0.90" CONTENT="jonka"/><SP WIDTH="14" VPOS="197" HPOS="516"/>
+							<String ID="string_4" HPOS="530" VPOS="197" WIDTH="80" HEIGHT="26" WC="0.91" CONTENT="jälkeen"/><SP WIDTH="15" VPOS="197" HPOS="610"/>
+							<String ID="string_5" HPOS="625" VPOS="197" WIDTH="139" HEIGHT="20" WC="0.91" CONTENT="Keisarillinen"/><SP WIDTH="16" VPOS="197" HPOS="764"/>
+							<String ID="string_6" HPOS="780" VPOS="197" WIDTH="94" HEIGHT="25" WC="0.92" CONTENT="Senaatti,"/><SP WIDTH="11" VPOS="197" HPOS="874"/>
+							<String ID="string_7" HPOS="885" VPOS="197" WIDTH="120" HEIGHT="26" WC="0.92" CONTENT="hyväksyen"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="250" VPOS="226" WIDTH="757" HEIGHT="26">
+							<String ID="string_8" HPOS="250" VPOS="226" WIDTH="111" HEIGHT="19" WC="0.84" CONTENT="Senaattori"/><SP WIDTH="22" VPOS="226" HPOS="361"/>
+							<String ID="string_9" HPOS="383" VPOS="226" WIDTH="113" HEIGHT="26" WC="0.87" CONTENT="Enebergin"/><SP WIDTH="22" VPOS="226" HPOS="496"/>
+							<String ID="string_10" HPOS="518" VPOS="226" WIDTH="113" HEIGHT="25" WC="0.96" CONTENT="ylläolevan"/><SP WIDTH="20" VPOS="226" HPOS="631"/>
+							<String ID="string_11" HPOS="651" VPOS="226" WIDTH="132" HEIGHT="25" WC="0.96" CONTENT="ehdotuksen,"/><SP WIDTH="15" VPOS="226" HPOS="783"/>
+							<String ID="string_12" HPOS="798" VPOS="227" WIDTH="63" HEIGHT="25" WC="0.93" CONTENT="päätti"/><SP WIDTH="16" VPOS="227" HPOS="861"/>
+							<String ID="string_13" HPOS="877" VPOS="226" WIDTH="130" HEIGHT="20" WC="0.89" CONTENT="Kenraaliku-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="249" VPOS="254" WIDTH="758" HEIGHT="49">
+					<TextBlock ID="block_2" HPOS="249" VPOS="254" WIDTH="758" HEIGHT="49">
+						<TextLine ID="line_3" HPOS="250" VPOS="254" WIDTH="757" HEIGHT="26">
+							<String ID="string_14" HPOS="250" VPOS="255" WIDTH="118" HEIGHT="19" WC="0.91" CONTENT="vernöörille"/><SP WIDTH="22" VPOS="255" HPOS="368"/>
+							<String ID="string_15" HPOS="390" VPOS="255" WIDTH="59" HEIGHT="20" WC="0.96" CONTENT="tehdä"/><SP WIDTH="23" VPOS="255" HPOS="449"/>
+							<String ID="string_16" HPOS="472" VPOS="255" WIDTH="104" HEIGHT="25" WC="0.96" CONTENT="esityksen"/><SP WIDTH="23" VPOS="255" HPOS="576"/>
+							<String ID="string_17" HPOS="599" VPOS="254" WIDTH="111" HEIGHT="21" WC="0.93" CONTENT="Senaattori"/><SP WIDTH="22" VPOS="254" HPOS="710"/>
+							<String ID="string_18" HPOS="732" VPOS="255" WIDTH="112" HEIGHT="25" WC="0.92" CONTENT="Enebergin"/><SP WIDTH="14" VPOS="255" HPOS="844"/>
+							<String ID="string_19" HPOS="858" VPOS="255" WIDTH="149" HEIGHT="20" WC="0.96" CONTENT="ehdottamassa"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="249" VPOS="283" WIDTH="164" HEIGHT="20">
+							<String ID="string_20" HPOS="249" VPOS="283" WIDTH="164" HEIGHT="20" WC="0.96" CONTENT="tarkoituksessa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="525" VPOS="346" WIDTH="358" HEIGHT="26">
+					<TextBlock ID="block_3" HPOS="525" VPOS="346" WIDTH="358" HEIGHT="26">
+						<TextLine ID="line_5" HPOS="525" VPOS="346" WIDTH="358" HEIGHT="26">
+							<String ID="string_21" HPOS="525" VPOS="346" WIDTH="139" HEIGHT="26" WC="0.92" CONTENT="Jäljennöksen"/><SP WIDTH="18" VPOS="346" HPOS="664"/>
+							<String ID="string_22" HPOS="682" VPOS="347" WIDTH="87" HEIGHT="19" WC="0.96" CONTENT="oikeaksi"/><SP WIDTH="16" VPOS="347" HPOS="769"/>
+							<String ID="string_23" HPOS="785" VPOS="347" WIDTH="85" HEIGHT="19" WC="0.71" CONTENT="todistaa"/><SP WIDTH="9" VPOS="347" HPOS="870"/>
+							<String ID="string_24" HPOS="879" VPOS="352" WIDTH="4" HEIGHT="14" WC="0.71" CONTENT=":"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="455" VPOS="386" WIDTH="552" HEIGHT="78">
+					<TextBlock ID="block_4" HPOS="455" VPOS="386" WIDTH="552" HEIGHT="78">
+						<TextLine ID="line_6" HPOS="456" VPOS="386" WIDTH="551" HEIGHT="26">
+							<String ID="string_25" HPOS="456" VPOS="386" WIDTH="134" HEIGHT="26" WC="0.95" CONTENT="Helsingissä,"/><SP WIDTH="20" VPOS="386" HPOS="590"/>
+							<String ID="string_26" HPOS="610" VPOS="386" WIDTH="136" HEIGHT="20" WC="0.96" CONTENT="Keisarillisen"/><SP WIDTH="16" VPOS="386" HPOS="746"/>
+							<String ID="string_27" HPOS="762" VPOS="386" WIDTH="87" HEIGHT="20" WC="0.96" CONTENT="Suomen"/><SP WIDTH="17" VPOS="386" HPOS="849"/>
+							<String ID="string_28" HPOS="866" VPOS="386" WIDTH="93" HEIGHT="20" WC="0.93" CONTENT="Senaatin"/><SP WIDTH="16" VPOS="386" HPOS="959"/>
+							<String ID="string_29" HPOS="975" VPOS="386" WIDTH="32" HEIGHT="20" WC="0.91" CONTENT="Oi-"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="455" VPOS="415" WIDTH="551" HEIGHT="25">
+							<String ID="string_30" HPOS="455" VPOS="415" WIDTH="250" HEIGHT="25" WC="0.91" CONTENT="keustoimituskunnassa,"/><SP WIDTH="23" VPOS="415" HPOS="705"/>
+							<String ID="string_31" HPOS="728" VPOS="416" WIDTH="12" HEIGHT="19" WC="0.95" CONTENT="5"/><SP WIDTH="25" VPOS="416" HPOS="740"/>
+							<String ID="string_32" HPOS="765" VPOS="415" WIDTH="85" HEIGHT="25" WC="0.94" CONTENT="päivänä"/><SP WIDTH="25" VPOS="415" HPOS="850"/>
+							<String ID="string_33" HPOS="875" VPOS="415" WIDTH="131" HEIGHT="20" WC="0.94" CONTENT="Toukokuuta"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="459" VPOS="444" WIDTH="61" HEIGHT="20">
+							<String ID="string_34" HPOS="459" VPOS="444" WIDTH="61" HEIGHT="20" WC="0.96" CONTENT="1906."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="784" VPOS="472" WIDTH="153" HEIGHT="61">
+					<TextBlock ID="block_5" HPOS="784" VPOS="472" WIDTH="153" HEIGHT="61">
+						<TextLine ID="line_9" HPOS="784" VPOS="472" WIDTH="153" HEIGHT="26">
+							<String ID="string_35" HPOS="784" VPOS="472" WIDTH="19" HEIGHT="20" WC="0.91" CONTENT="T."/><SP WIDTH="16" VPOS="472" HPOS="803"/>
+							<String ID="string_36" HPOS="819" VPOS="472" WIDTH="118" HEIGHT="26" WC="0.93" CONTENT="Langolain."/>
+						</TextLine>
+						<TextLine ID="line_10" HPOS="786" VPOS="507" WIDTH="144" HEIGHT="26">
+							<String ID="string_37" HPOS="786" VPOS="507" WIDTH="144" HEIGHT="26" WC="0.93" CONTENT="Ekspeditööri."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
