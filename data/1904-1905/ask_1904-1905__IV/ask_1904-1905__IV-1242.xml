@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_f2tfoc5m_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1078" HEIGHT="1728" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1078" HEIGHT="1728">
+				<ComposedBlock ID="cblock_0" HPOS="779" VPOS="165" WIDTH="89" HEIGHT="19">
+					<TextBlock ID="block_0" HPOS="779" VPOS="165" WIDTH="89" HEIGHT="19">
+						<TextLine ID="line_0" HPOS="779" VPOS="165" WIDTH="89" HEIGHT="19">
+							<String ID="string_0" HPOS="779" VPOS="166" WIDTH="50" HEIGHT="18" WC="0.96" CONTENT="Liite"/><SP WIDTH="13" VPOS="166" HPOS="829"/>
+							<String ID="string_1" HPOS="842" VPOS="165" WIDTH="26" HEIGHT="18" WC="0.96" CONTENT="K."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="143" VPOS="675" WIDTH="696" HEIGHT="231">
+					<TextBlock ID="block_1" HPOS="143" VPOS="675" WIDTH="696" HEIGHT="231">
+						<TextLine ID="line_1" HPOS="431" VPOS="675" WIDTH="116" HEIGHT="41">
+							<String ID="string_2" HPOS="431" VPOS="675" WIDTH="116" HEIGHT="41" WC="0.96" CONTENT="Taulu,"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="143" VPOS="748" WIDTH="696" HEIGHT="41">
+							<String ID="string_3" HPOS="143" VPOS="750" WIDTH="69" HEIGHT="39" WC="0.96" CONTENT="joka"/><SP WIDTH="22" VPOS="750" HPOS="212"/>
+							<String ID="string_4" HPOS="234" VPOS="750" WIDTH="126" HEIGHT="31" WC="0.94" CONTENT="valaisee"/><SP WIDTH="23" VPOS="750" HPOS="360"/>
+							<String ID="string_5" HPOS="383" VPOS="752" WIDTH="133" HEIGHT="28" WC="0.93" CONTENT="erinäisiä"/><SP WIDTH="23" VPOS="752" HPOS="516"/>
+							<String ID="string_6" HPOS="539" VPOS="748" WIDTH="300" HEIGHT="32" WC="0.93" CONTENT="Valtionrautateiden"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="216" VPOS="802" WIDTH="553" HEIGHT="38">
+							<String ID="string_7" HPOS="216" VPOS="802" WIDTH="262" HEIGHT="38" WC="0.95" CONTENT="keskushallinnon"/><SP WIDTH="22" VPOS="802" HPOS="478"/>
+							<String ID="string_8" HPOS="500" VPOS="808" WIDTH="269" HEIGHT="31" WC="0.96" CONTENT="virkamiehistössä"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="359" VPOS="868" WIDTH="269" HEIGHT="38">
+							<String ID="string_9" HPOS="359" VPOS="868" WIDTH="159" HEIGHT="30" WC="0.93" CONTENT="vallitsevia"/><SP WIDTH="23" VPOS="868" HPOS="518"/>
+							<String ID="string_10" HPOS="541" VPOS="868" WIDTH="87" HEIGHT="38" WC="0.96" CONTENT="oloja."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

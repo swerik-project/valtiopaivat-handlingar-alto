@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_42db9733_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1070" HEIGHT="1720" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1070" HEIGHT="1720">
+				<ComposedBlock ID="cblock_0" HPOS="432" VPOS="425" WIDTH="90" HEIGHT="31">
+					<TextBlock ID="block_0" HPOS="432" VPOS="425" WIDTH="90" HEIGHT="31">
+						<TextLine ID="line_0" HPOS="432" VPOS="425" WIDTH="90" HEIGHT="31">
+							<String ID="string_0" HPOS="432" VPOS="425" WIDTH="44" HEIGHT="31" WC="0.88" CONTENT="14"/><SP WIDTH="14" VPOS="425" HPOS="476"/>
+							<String ID="string_1" HPOS="490" VPOS="425" WIDTH="32" HEIGHT="30" WC="0.88" CONTENT="b."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="82" VPOS="602" WIDTH="797" HEIGHT="206">
+					<TextBlock ID="block_1" HPOS="82" VPOS="602" WIDTH="797" HEIGHT="206">
+						<TextLine ID="line_1" HPOS="262" VPOS="602" WIDTH="437" HEIGHT="50">
+							<String ID="string_2" HPOS="262" VPOS="602" WIDTH="437" HEIGHT="50" WC="0.90" CONTENT="Yhteenveto"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="82" VPOS="763" WIDTH="797" HEIGHT="45">
+							<String ID="string_3" HPOS="82" VPOS="763" WIDTH="178" HEIGHT="37" WC="0.91" CONTENT="Valtion"/><SP WIDTH="24" VPOS="763" HPOS="260"/>
+							<String ID="string_4" HPOS="284" VPOS="764" WIDTH="409" HEIGHT="44" WC="0.91" CONTENT="hätäapurahaston"/><SP WIDTH="24" VPOS="764" HPOS="693"/>
+							<String ID="string_5" HPOS="717" VPOS="763" WIDTH="162" HEIGHT="37" WC="0.90" CONTENT="tileistä"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="322" VPOS="926" WIDTH="318" HEIGHT="25">
+					<TextBlock ID="block_2" HPOS="322" VPOS="926" WIDTH="318" HEIGHT="25">
+						<TextLine ID="line_3" HPOS="322" VPOS="926" WIDTH="318" HEIGHT="25">
+							<String ID="string_6" HPOS="322" VPOS="926" WIDTH="113" HEIGHT="20" WC="0.89" CONTENT="vuosilta"/><SP WIDTH="15" VPOS="926" HPOS="435"/>
+							<String ID="string_7" HPOS="450" VPOS="926" WIDTH="61" HEIGHT="20" WC="0.96" CONTENT="1899"/><SP WIDTH="14" VPOS="926" HPOS="511"/>
+							<String ID="string_8" HPOS="525" VPOS="926" WIDTH="28" HEIGHT="25" WC="0.96" CONTENT="ja"/><SP WIDTH="15" VPOS="926" HPOS="553"/>
+							<String ID="string_9" HPOS="568" VPOS="926" WIDTH="72" HEIGHT="20" WC="0.95" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

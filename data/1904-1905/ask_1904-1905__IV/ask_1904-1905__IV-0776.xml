@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess__j10sznf_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1078" HEIGHT="1725" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1078" HEIGHT="1725">
+				<ComposedBlock ID="cblock_0" HPOS="486" VPOS="460" WIDTH="54" HEIGHT="30">
+					<TextBlock ID="block_0" HPOS="486" VPOS="460" WIDTH="54" HEIGHT="30">
+						<TextLine ID="line_0" HPOS="486" VPOS="460" WIDTH="54" HEIGHT="30">
+							<String ID="string_0" HPOS="486" VPOS="460" WIDTH="54" HEIGHT="30" WC="0.96" CONTENT="25."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="400" VPOS="639" WIDTH="229" HEIGHT="26">
+					<TextBlock ID="block_1" HPOS="400" VPOS="639" WIDTH="229" HEIGHT="26">
+						<TextLine ID="line_1" HPOS="400" VPOS="639" WIDTH="229" HEIGHT="26">
+							<String ID="string_1" HPOS="400" VPOS="639" WIDTH="77" HEIGHT="26" WC="0.95" CONTENT="1902"/><SP WIDTH="19" VPOS="639" HPOS="477"/>
+							<String ID="string_2" HPOS="496" VPOS="639" WIDTH="133" HEIGHT="26" WC="0.96" CONTENT="vuoden"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="65" VPOS="776" WIDTH="896" HEIGHT="61">
+					<TextBlock ID="block_2" HPOS="65" VPOS="776" WIDTH="896" HEIGHT="61">
+						<TextLine ID="line_2" HPOS="65" VPOS="776" WIDTH="896" HEIGHT="61">
+							<String ID="string_3" HPOS="65" VPOS="772" WIDTH="440" HEIGHT="73" WC="0.91" CONTENT="Valtiontilin"/><SP WIDTH="42" VPOS="772" HPOS="505"/>
+							<String ID="string_4" HPOS="547" VPOS="777" WIDTH="414" HEIGHT="60" WC="0.94" CONTENT="päätökseen"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="342" VPOS="939" WIDTH="352" HEIGHT="30">
+					<TextBlock ID="block_3" HPOS="342" VPOS="939" WIDTH="352" HEIGHT="30">
+						<TextLine ID="line_3" HPOS="342" VPOS="939" WIDTH="352" HEIGHT="30">
+							<String ID="string_5" HPOS="342" VPOS="939" WIDTH="187" HEIGHT="30" WC="0.96" CONTENT="kuuluvat"/><SP WIDTH="21" VPOS="939" HPOS="529"/>
+							<String ID="string_6" HPOS="550" VPOS="940" WIDTH="144" HEIGHT="29" WC="0.96" CONTENT="liitteet."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

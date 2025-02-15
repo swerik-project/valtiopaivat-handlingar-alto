@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_muzk6usk_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1073" HEIGHT="1723" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1073" HEIGHT="1723">
+				<ComposedBlock ID="cblock_0" HPOS="499" VPOS="132" WIDTH="25" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="499" VPOS="132" WIDTH="25" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="499" VPOS="132" WIDTH="25" HEIGHT="21">
+							<String ID="string_0" HPOS="499" VPOS="132" WIDTH="25" HEIGHT="21" WC="0.79" CONTENT="II"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="352" VPOS="546" WIDTH="327" HEIGHT="30">
+					<TextBlock ID="block_1" HPOS="352" VPOS="546" WIDTH="327" HEIGHT="30">
+						<TextLine ID="line_1" HPOS="352" VPOS="546" WIDTH="327" HEIGHT="30">
+							<String ID="string_1" HPOS="352" VPOS="546" WIDTH="327" HEIGHT="30" WC="0.96" CONTENT="Yhteenveto"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="151" VPOS="726" WIDTH="727" HEIGHT="49">
+					<TextBlock ID="block_2" HPOS="151" VPOS="726" WIDTH="727" HEIGHT="49">
+						<TextLine ID="line_2" HPOS="151" VPOS="726" WIDTH="727" HEIGHT="49">
+							<String ID="string_2" HPOS="151" VPOS="726" WIDTH="727" HEIGHT="49" WC="0.91" CONTENT="Valtiontilinpäätöksestä"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="412" VPOS="919" WIDTH="207" HEIGHT="22">
+					<TextBlock ID="block_3" HPOS="412" VPOS="919" WIDTH="207" HEIGHT="22">
+						<TextLine ID="line_3" HPOS="412" VPOS="919" WIDTH="207" HEIGHT="22">
+							<String ID="string_3" HPOS="412" VPOS="920" WIDTH="123" HEIGHT="21" WC="0.96" CONTENT="vuodelta"/><SP WIDTH="18" VPOS="920" HPOS="535"/>
+							<String ID="string_4" HPOS="553" VPOS="919" WIDTH="66" HEIGHT="21" WC="0.96" CONTENT="1901."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

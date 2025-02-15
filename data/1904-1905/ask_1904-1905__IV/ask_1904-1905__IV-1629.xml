@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_y0r0uiq7_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1084" HEIGHT="1725" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1084" HEIGHT="1725">
+				<Illustration ID="cblock_0" HPOS="30" VPOS="0" WIDTH="1052" HEIGHT="1725"></Illustration>
+				<ComposedBlock ID="cblock_1" HPOS="182" VPOS="374" WIDTH="296" HEIGHT="99">
+					<TextBlock ID="block_0" HPOS="182" VPOS="374" WIDTH="298" HEIGHT="99">
+						<TextLine ID="line_0" HPOS="182" VPOS="374" WIDTH="296" HEIGHT="99">
+							<String ID="string_0" HPOS="182" VPOS="413" WIDTH="2" HEIGHT="2" WC="0.81" CONTENT="i"/><SP WIDTH="12" VPOS="413" HPOS="184"/>
+							<String ID="string_1" HPOS="196" VPOS="374" WIDTH="93" HEIGHT="75" WC="0.58" CONTENT="tykset,"/><SP WIDTH="18" VPOS="374" HPOS="289"/>
+							<String ID="string_2" HPOS="307" VPOS="397" WIDTH="76" HEIGHT="57" WC="0.92" CONTENT="mitkä"/><SP WIDTH="14" VPOS="397" HPOS="383"/>
+							<String ID="string_3" HPOS="397" VPOS="379" WIDTH="81" HEIGHT="94" WC="0.34" CONTENT="san"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="200" VPOS="443" WIDTH="159" HEIGHT="27">
+							<String ID="string_4" HPOS="200" VPOS="443" WIDTH="159" HEIGHT="27" WC="0.87" CONTENT="Korkealle:"/><SP WIDTH="-10" VPOS="443" HPOS="359"/>
+							<String ID="string_5" HPOS="349" VPOS="439" WIDTH="14" HEIGHT="40" WC="0.92" CONTENT="H"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="200" VPOS="457" WIDTH="233" HEIGHT="111">
+					<TextBlock ID="block_1" HPOS="200" VPOS="457" WIDTH="233" HEIGHT="86">
+						<TextLine ID="line_2" HPOS="200" VPOS="457" WIDTH="233" HEIGHT="58">
+							<String ID="string_6" HPOS="200" VPOS="486" WIDTH="30" HEIGHT="15" WC="0.96" CONTENT="ne"/><SP WIDTH="8" VPOS="486" HPOS="230"/>
+							<String ID="string_7" HPOS="238" VPOS="478" WIDTH="51" HEIGHT="24" WC="0.96" CONTENT="tule"/><SP WIDTH="8" VPOS="478" HPOS="289"/>
+							<String ID="string_8" HPOS="297" VPOS="457" WIDTH="103" HEIGHT="58" WC="0.86" CONTENT="jäämään"/><SP WIDTH="9" VPOS="457" HPOS="400"/>
+							<String ID="string_9" HPOS="409" VPOS="473" WIDTH="24" HEIGHT="32" WC="0.57" CONTENT="I»"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="200" VPOS="509" WIDTH="215" HEIGHT="59">
+							<String ID="string_10" HPOS="200" VPOS="517" WIDTH="38" HEIGHT="20" WC="0.81" CONTENT="on:"/><SP WIDTH="4" VPOS="517" HPOS="238"/>
+							<String ID="string_11" HPOS="242" VPOS="513" WIDTH="62" HEIGHT="55" WC="0.75" CONTENT="olet"/><SP WIDTH="12" VPOS="513" HPOS="304"/>
+							<String ID="string_12" HPOS="316" VPOS="509" WIDTH="99" HEIGHT="50" WC="0.47" CONTENT="esittää."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="429" VPOS="392" WIDTH="653" HEIGHT="132"></Illustration>
+				<Illustration ID="cblock_4" HPOS="19" VPOS="784" WIDTH="40" HEIGHT="41"></Illustration>
+				<ComposedBlock ID="cblock_5" HPOS="269" VPOS="861" WIDTH="208" HEIGHT="29">
+					<TextBlock ID="block_2" HPOS="269" VPOS="861" WIDTH="208" HEIGHT="29">
+						<TextLine ID="line_4" HPOS="269" VPOS="861" WIDTH="208" HEIGHT="29">
+							<String ID="string_13" HPOS="269" VPOS="861" WIDTH="149" HEIGHT="29" WC="0.93" CONTENT="Helsingissä"/><SP WIDTH="13" VPOS="861" HPOS="418"/>
+							<String ID="string_14" HPOS="431" VPOS="862" WIDTH="46" HEIGHT="23" WC="0.10" CONTENT="35."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_6" HPOS="0" VPOS="1523" WIDTH="39" HEIGHT="36"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

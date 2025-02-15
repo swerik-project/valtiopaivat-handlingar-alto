@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_y9jyjb0i_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1078" HEIGHT="1728" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1078" HEIGHT="1728">
+				<ComposedBlock ID="cblock_0" HPOS="280" VPOS="452" WIDTH="491" HEIGHT="39">
+					<TextBlock ID="block_0" HPOS="280" VPOS="452" WIDTH="491" HEIGHT="39">
+						<TextLine ID="line_0" HPOS="280" VPOS="452" WIDTH="491" HEIGHT="39">
+							<String ID="string_0" HPOS="280" VPOS="452" WIDTH="491" HEIGHT="39" WC="0.91" CONTENT="Valtiorahasto"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="229" VPOS="556" WIDTH="604" HEIGHT="285">
+					<TextBlock ID="block_1" HPOS="229" VPOS="556" WIDTH="604" HEIGHT="285">
+						<TextLine ID="line_1" HPOS="403" VPOS="556" WIDTH="251" HEIGHT="23">
+							<String ID="string_1" HPOS="403" VPOS="558" WIDTH="51" HEIGHT="20" WC="0.94" CONTENT="ynnä"/><SP WIDTH="15" VPOS="558" HPOS="454"/>
+							<String ID="string_2" HPOS="469" VPOS="556" WIDTH="63" HEIGHT="18" WC="0.95" CONTENT="siihen"/><SP WIDTH="13" VPOS="556" HPOS="532"/>
+							<String ID="string_3" HPOS="545" VPOS="556" WIDTH="109" HEIGHT="23" WC="0.96" CONTENT="yhdistetyt"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="229" VPOS="637" WIDTH="604" HEIGHT="39">
+							<String ID="string_4" HPOS="229" VPOS="637" WIDTH="172" HEIGHT="30" WC="0.91" CONTENT="Vaivais-"/><SP WIDTH="20" VPOS="637" HPOS="401"/>
+							<String ID="string_5" HPOS="421" VPOS="638" WIDTH="41" HEIGHT="38" WC="0.93" CONTENT="ja"/><SP WIDTH="28" VPOS="638" HPOS="462"/>
+							<String ID="string_6" HPOS="490" VPOS="638" WIDTH="343" HEIGHT="38" WC="0.92" CONTENT="työhuonerahasto"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="521" VPOS="729" WIDTH="16" HEIGHT="23">
+							<String ID="string_7" HPOS="521" VPOS="729" WIDTH="16" HEIGHT="23" WC="0.96" CONTENT="ja"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="245" VPOS="811" WIDTH="576" HEIGHT="30">
+							<String ID="string_8" HPOS="245" VPOS="811" WIDTH="130" HEIGHT="29" WC="0.96" CONTENT="Turun"/><SP WIDTH="15" VPOS="811" HPOS="375"/>
+							<String ID="string_9" HPOS="390" VPOS="811" WIDTH="129" HEIGHT="30" WC="0.93" CONTENT="läänin"/><SP WIDTH="15" VPOS="811" HPOS="519"/>
+							<String ID="string_10" HPOS="534" VPOS="811" WIDTH="287" HEIGHT="29" WC="0.91" CONTENT="säästörahasto."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="319" VPOS="913" WIDTH="424" HEIGHT="26">
+					<TextBlock ID="block_2" HPOS="319" VPOS="913" WIDTH="424" HEIGHT="26">
+						<TextLine ID="line_5" HPOS="319" VPOS="913" WIDTH="424" HEIGHT="26">
+							<String ID="string_11" HPOS="319" VPOS="915" WIDTH="59" HEIGHT="20" WC="0.95" CONTENT="Tila"/><SP WIDTH="16" VPOS="915" HPOS="378"/>
+							<String ID="string_12" HPOS="394" VPOS="915" WIDTH="64" HEIGHT="20" WC="0.96" CONTENT="1904"/><SP WIDTH="16" VPOS="915" HPOS="458"/>
+							<String ID="string_13" HPOS="474" VPOS="915" WIDTH="101" HEIGHT="20" WC="0.96" CONTENT="vuoden"/><SP WIDTH="16" VPOS="915" HPOS="575"/>
+							<String ID="string_14" HPOS="591" VPOS="913" WIDTH="152" HEIGHT="26" WC="0.96" CONTENT="päättyessä."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="464" VPOS="999" WIDTH="139" HEIGHT="18">
+					<TextBlock ID="block_3" HPOS="464" VPOS="999" WIDTH="139" HEIGHT="18">
+						<TextLine ID="line_6" HPOS="464" VPOS="999" WIDTH="139" HEIGHT="18">
+							<String ID="string_15" HPOS="464" VPOS="999" WIDTH="139" HEIGHT="18" WC="0.72" CONTENT="(Arviolasku.)"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

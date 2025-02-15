@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0pk3y8ol_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1075" HEIGHT="1723" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1075" HEIGHT="1723">
+				<ComposedBlock ID="cblock_0" HPOS="303" VPOS="541" WIDTH="438" HEIGHT="30">
+					<TextBlock ID="block_0" HPOS="303" VPOS="541" WIDTH="438" HEIGHT="30">
+						<TextLine ID="line_0" HPOS="303" VPOS="541" WIDTH="438" HEIGHT="30">
+							<String ID="string_0" HPOS="303" VPOS="541" WIDTH="438" HEIGHT="30" WC="0.87" CONTENT="Valtiovaraston"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="352" VPOS="683" WIDTH="337" HEIGHT="49">
+					<TextBlock ID="block_1" HPOS="352" VPOS="683" WIDTH="337" HEIGHT="49">
+						<TextLine ID="line_1" HPOS="352" VPOS="683" WIDTH="337" HEIGHT="49">
+							<String ID="string_1" HPOS="352" VPOS="683" WIDTH="337" HEIGHT="49" WC="0.91" CONTENT="Bilanssi"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="263" VPOS="846" WIDTH="521" HEIGHT="25">
+					<TextBlock ID="block_2" HPOS="263" VPOS="846" WIDTH="521" HEIGHT="25">
+						<TextLine ID="line_2" HPOS="263" VPOS="846" WIDTH="521" HEIGHT="25">
+							<String ID="string_2" HPOS="263" VPOS="852" WIDTH="57" HEIGHT="19" WC="0.96" CONTENT="per"/><SP WIDTH="22" VPOS="852" HPOS="320"/>
+							<String ID="string_3" HPOS="342" VPOS="846" WIDTH="34" HEIGHT="20" WC="0.95" CONTENT="31"/><SP WIDTH="24" VPOS="846" HPOS="376"/>
+							<String ID="string_4" HPOS="400" VPOS="852" WIDTH="23" HEIGHT="19" WC="0.90" CONTENT="p."/><SP WIDTH="23" VPOS="852" HPOS="423"/>
+							<String ID="string_5" HPOS="446" VPOS="846" WIDTH="228" HEIGHT="21" WC="0.96" CONTENT="Joulukuuta"/><SP WIDTH="23" VPOS="846" HPOS="674"/>
+							<String ID="string_6" HPOS="697" VPOS="846" WIDTH="87" HEIGHT="20" WC="0.96" CONTENT="1901."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
