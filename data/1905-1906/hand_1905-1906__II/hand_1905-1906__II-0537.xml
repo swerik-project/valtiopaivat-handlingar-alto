@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_jcjct73q_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1100" HEIGHT="1750" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1100" HEIGHT="1750">
+				<ComposedBlock ID="cblock_0" HPOS="221" VPOS="618" WIDTH="503" HEIGHT="140">
+					<TextBlock ID="block_0" HPOS="221" VPOS="618" WIDTH="503" HEIGHT="140">
+						<TextLine ID="line_0" HPOS="247" VPOS="618" WIDTH="447" HEIGHT="39">
+							<String ID="string_0" HPOS="247" VPOS="618" WIDTH="447" HEIGHT="39" WC="0.91" CONTENT="Statsfondens"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="221" VPOS="728" WIDTH="503" HEIGHT="30">
+							<String ID="string_1" HPOS="221" VPOS="728" WIDTH="124" HEIGHT="30" WC="0.96" CONTENT="ställning"/><SP WIDTH="15" VPOS="728" HPOS="345"/>
+							<String ID="string_2" HPOS="360" VPOS="729" WIDTH="43" HEIGHT="22" WC="0.96" CONTENT="vid"/><SP WIDTH="16" VPOS="729" HPOS="403"/>
+							<String ID="string_3" HPOS="419" VPOS="728" WIDTH="133" HEIGHT="30" WC="0.96" CONTENT="utgången"/><SP WIDTH="17" VPOS="728" HPOS="552"/>
+							<String ID="string_4" HPOS="569" VPOS="728" WIDTH="27" HEIGHT="23" WC="0.96" CONTENT="af"/><SP WIDTH="15" VPOS="728" HPOS="596"/>
+							<String ID="string_5" HPOS="611" VPOS="728" WIDTH="29" HEIGHT="23" WC="0.96" CONTENT="år"/><SP WIDTH="16" VPOS="728" HPOS="640"/>
+							<String ID="string_6" HPOS="656" VPOS="734" WIDTH="68" HEIGHT="23" WC="0.96" CONTENT="1905."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="336" VPOS="827" WIDTH="275" HEIGHT="29">
+					<TextBlock ID="block_1" HPOS="336" VPOS="827" WIDTH="275" HEIGHT="29">
+						<TextLine ID="line_2" HPOS="336" VPOS="827" WIDTH="275" HEIGHT="29">
+							<String ID="string_7" HPOS="336" VPOS="828" WIDTH="176" HEIGHT="28" WC="0.88" CONTENT="(Approximativ"/><SP WIDTH="10" VPOS="828" HPOS="512"/>
+							<String ID="string_8" HPOS="522" VPOS="827" WIDTH="89" HEIGHT="29" WC="0.94" CONTENT="kalkyl)."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="166" VPOS="1520" WIDTH="349" HEIGHT="19">
+					<TextBlock ID="block_2" HPOS="166" VPOS="1520" WIDTH="349" HEIGHT="19">
+						<TextLine ID="line_3" HPOS="166" VPOS="1520" WIDTH="349" HEIGHT="19">
+							<String ID="string_9" HPOS="166" VPOS="1520" WIDTH="143" HEIGHT="18" WC="0.86" CONTENT="Statsutskottets"/><SP WIDTH="12" VPOS="1520" HPOS="309"/>
+							<String ID="string_10" HPOS="321" VPOS="1520" WIDTH="111" HEIGHT="18" WC="0.96" CONTENT="betänkande"/><SP WIDTH="12" VPOS="1520" HPOS="432"/>
+							<String ID="string_11" HPOS="444" VPOS="1520" WIDTH="38" HEIGHT="19" WC="0.96" CONTENT="N:o"/><SP WIDTH="18" VPOS="1520" HPOS="482"/>
+							<String ID="string_12" HPOS="500" VPOS="1521" WIDTH="15" HEIGHT="17" WC="0.96" CONTENT="7."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
