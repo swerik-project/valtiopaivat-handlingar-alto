@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_6d25cgf3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1086" HEIGHT="1770" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1086" HEIGHT="1770">
+				<ComposedBlock ID="cblock_0" HPOS="335" VPOS="888" WIDTH="541" HEIGHT="41">
+					<TextBlock ID="block_0" HPOS="335" VPOS="888" WIDTH="541" HEIGHT="41">
+						<TextLine ID="line_0" HPOS="335" VPOS="888" WIDTH="541" HEIGHT="41">
+							<String ID="string_0" HPOS="335" VPOS="903" WIDTH="127" HEIGHT="22" WC="0.95" CONTENT="Helsingfors,"/><SP WIDTH="14" VPOS="903" HPOS="462"/>
+							<String ID="string_1" HPOS="476" VPOS="903" WIDTH="132" HEIGHT="22" WC="0.96" CONTENT="Aktiebolaget"/><SP WIDTH="14" VPOS="903" HPOS="608"/>
+							<String ID="string_2" HPOS="622" VPOS="888" WIDTH="189" HEIGHT="41" WC="0.92" CONTENT="Handelstryckeriet"/><SP WIDTH="13" VPOS="888" HPOS="811"/>
+							<String ID="string_3" HPOS="824" VPOS="903" WIDTH="52" HEIGHT="17" WC="0.96" CONTENT="1906."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="330" VPOS="933" WIDTH="547" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
