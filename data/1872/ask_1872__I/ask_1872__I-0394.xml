@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_7v6c8qa7_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1094" HEIGHT="1789" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1094" HEIGHT="1789">
+				<ComposedBlock ID="cblock_0" HPOS="279" VPOS="509" WIDTH="426" HEIGHT="46">
+					<TextBlock ID="block_0" HPOS="279" VPOS="509" WIDTH="426" HEIGHT="46">
+						<TextLine ID="line_0" HPOS="279" VPOS="509" WIDTH="426" HEIGHT="46">
+							<String ID="string_0" HPOS="279" VPOS="510" WIDTH="200" HEIGHT="45" WC="0.68" CONTENT="Keifarilijen"/><SP WIDTH="24" VPOS="510" HPOS="479"/>
+							<String ID="string_1" HPOS="503" VPOS="509" WIDTH="202" HEIGHT="46" WC="0.88" CONTENT="Majesteetin"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="182" VPOS="617" WIDTH="622" HEIGHT="78">
+					<TextBlock ID="block_1" HPOS="182" VPOS="617" WIDTH="622" HEIGHT="78">
+						<TextLine ID="line_1" HPOS="182" VPOS="617" WIDTH="622" HEIGHT="78">
+							<String ID="string_2" HPOS="182" VPOS="617" WIDTH="315" HEIGHT="77" WC="0.90" CONTENT="Armollijet"/><SP WIDTH="48" VPOS="617" HPOS="497"/>
+							<String ID="string_3" HPOS="545" VPOS="618" WIDTH="259" HEIGHT="77" WC="0.65" CONTENT="Cjityfjet"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="435" VPOS="741" WIDTH="116" HEIGHT="27">
+					<TextBlock ID="block_2" HPOS="435" VPOS="741" WIDTH="116" HEIGHT="27">
+						<TextLine ID="line_2" HPOS="435" VPOS="741" WIDTH="116" HEIGHT="27">
+							<String ID="string_4" HPOS="435" VPOS="741" WIDTH="42" HEIGHT="22" WC="0.82" CONTENT="fuin"/><SP WIDTH="16" VPOS="741" HPOS="477"/>
+							<String ID="string_5" HPOS="493" VPOS="742" WIDTH="58" HEIGHT="26" WC="0.93" CONTENT="myös"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="118" VPOS="813" WIDTH="749" HEIGHT="81">
+					<TextBlock ID="block_3" HPOS="118" VPOS="813" WIDTH="749" HEIGHT="81">
+						<TextLine ID="line_3" HPOS="118" VPOS="813" WIDTH="749" HEIGHT="34">
+							<String ID="string_6" HPOS="118" VPOS="813" WIDTH="159" HEIGHT="34" WC="0.63" CONTENT="afianomaifen"/><SP WIDTH="22" VPOS="813" HPOS="277"/>
+							<String ID="string_7" HPOS="299" VPOS="813" WIDTH="158" HEIGHT="27" WC="0.63" CONTENT="waliokunnan"/><SP WIDTH="23" VPOS="813" HPOS="457"/>
+							<String ID="string_8" HPOS="480" VPOS="813" WIDTH="117" HEIGHT="27" WC="0.90" CONTENT="mietinnöt"/><SP WIDTH="18" VPOS="813" HPOS="597"/>
+							<String ID="string_9" HPOS="615" VPOS="813" WIDTH="46" HEIGHT="33" WC="0.48" CONTENT="fetä"/><SP WIDTH="19" VPOS="813" HPOS="661"/>
+							<String ID="string_10" HPOS="680" VPOS="814" WIDTH="119" HEIGHT="33" WC="0.91" CONTENT="Säätyjen"/><SP WIDTH="19" VPOS="814" HPOS="799"/>
+							<String ID="string_11" HPOS="818" VPOS="814" WIDTH="49" HEIGHT="27" WC="0.79" CONTENT="ala-"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="278" VPOS="860" WIDTH="427" HEIGHT="34">
+							<String ID="string_12" HPOS="278" VPOS="860" WIDTH="78" HEIGHT="33" WC="0.92" CONTENT="maijet"/><SP WIDTH="18" VPOS="860" HPOS="356"/>
+							<String ID="string_13" HPOS="374" VPOS="860" WIDTH="134" HEIGHT="34" WC="0.66" CONTENT="wastautjet"/><SP WIDTH="17" VPOS="860" HPOS="508"/>
+							<String ID="string_14" HPOS="525" VPOS="860" WIDTH="24" HEIGHT="33" WC="0.93" CONTENT="ja"/><SP WIDTH="18" VPOS="860" HPOS="549"/>
+							<String ID="string_15" HPOS="567" VPOS="860" WIDTH="138" HEIGHT="34" WC="0.38" CONTENT="firjoitutjet."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="336" VPOS="1065" WIDTH="312" HEIGHT="40">
+					<TextBlock ID="block_4" HPOS="336" VPOS="1065" WIDTH="312" HEIGHT="40">
+						<TextLine ID="line_5" HPOS="336" VPOS="1065" WIDTH="312" HEIGHT="40">
+							<String ID="string_16" HPOS="336" VPOS="1065" WIDTH="312" HEIGHT="40" WC="0.66" CONTENT="Talonswaliokunta."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_5" HPOS="1090" VPOS="40" WIDTH="3" HEIGHT="844"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
