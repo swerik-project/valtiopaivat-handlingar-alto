@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_1j5p1jaz_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1182" HEIGHT="1772" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1182" HEIGHT="1772">
+				<ComposedBlock ID="cblock_0" HPOS="243" VPOS="526" WIDTH="691" HEIGHT="193">
+					<TextBlock ID="block_0" HPOS="243" VPOS="526" WIDTH="691" HEIGHT="193">
+						<TextLine ID="line_0" HPOS="243" VPOS="526" WIDTH="691" HEIGHT="47">
+							<String ID="string_0" HPOS="243" VPOS="528" WIDTH="241" HEIGHT="45" WC="0.87" CONTENT="Afianomaisten"/><SP WIDTH="31" VPOS="528" HPOS="484"/>
+							<String ID="string_1" HPOS="515" VPOS="526" WIDTH="226" HEIGHT="39" WC="0.49" CONTENT="Waliokuntain"/><SP WIDTH="31" VPOS="526" HPOS="741"/>
+							<String ID="string_2" HPOS="772" VPOS="527" WIDTH="162" HEIGHT="45" WC="0.91" CONTENT="mietinnöt,"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="324" VPOS="600" WIDTH="531" HEIGHT="46">
+							<String ID="string_3" HPOS="324" VPOS="601" WIDTH="84" HEIGHT="45" WC="0.93" CONTENT="heille"/><SP WIDTH="23" VPOS="601" HPOS="408"/>
+							<String ID="string_4" HPOS="431" VPOS="600" WIDTH="172" HEIGHT="45" WC="0.92" CONTENT="lähetettyin"/><SP WIDTH="24" VPOS="600" HPOS="603"/>
+							<String ID="string_5" HPOS="627" VPOS="600" WIDTH="228" HEIGHT="45" WC="0.63" CONTENT="pyyntö=efitys-"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="483" VPOS="673" WIDTH="214" HEIGHT="46">
+							<String ID="string_6" HPOS="483" VPOS="676" WIDTH="48" HEIGHT="36" WC="0.96" CONTENT="ten"/><SP WIDTH="23" VPOS="676" HPOS="531"/>
+							<String ID="string_7" HPOS="554" VPOS="673" WIDTH="143" HEIGHT="46" WC="0.94" CONTENT="johdosta"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="574" VPOS="765" WIDTH="38" HEIGHT="26">
+					<TextBlock ID="block_1" HPOS="574" VPOS="765" WIDTH="38" HEIGHT="26">
+						<TextLine ID="line_3" HPOS="574" VPOS="765" WIDTH="38" HEIGHT="26">
+							<String ID="string_8" HPOS="574" VPOS="765" WIDTH="38" HEIGHT="26" WC="0.43" CONTENT="fetä"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="228" VPOS="838" WIDTH="728" HEIGHT="40">
+					<TextBlock ID="block_2" HPOS="228" VPOS="838" WIDTH="728" HEIGHT="40">
+						<TextLine ID="line_4" HPOS="228" VPOS="838" WIDTH="728" HEIGHT="40">
+							<String ID="string_9" HPOS="228" VPOS="839" WIDTH="133" HEIGHT="38" WC="0.73" CONTENT="Säätyjen"/><SP WIDTH="21" VPOS="839" HPOS="361"/>
+							<String ID="string_10" HPOS="382" VPOS="839" WIDTH="81" HEIGHT="38" WC="0.32" CONTENT="tähän"/><SP WIDTH="21" VPOS="839" HPOS="463"/>
+							<String ID="string_11" HPOS="484" VPOS="838" WIDTH="132" HEIGHT="32" WC="0.44" CONTENT="kuulumwat"/><SP WIDTH="22" VPOS="838" HPOS="616"/>
+							<String ID="string_12" HPOS="638" VPOS="838" WIDTH="139" HEIGHT="39" WC="0.84" CONTENT="alamaijet"/><SP WIDTH="17" VPOS="838" HPOS="777"/>
+							<String ID="string_13" HPOS="794" VPOS="838" WIDTH="162" HEIGHT="40" WC="0.77" CONTENT="kirjoitukjet."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="464" VPOS="1019" WIDTH="257" HEIGHT="39">
+					<TextBlock ID="block_3" HPOS="464" VPOS="1019" WIDTH="257" HEIGHT="39">
+						<TextLine ID="line_5" HPOS="464" VPOS="1019" WIDTH="257" HEIGHT="39">
+							<String ID="string_14" HPOS="464" VPOS="1019" WIDTH="257" HEIGHT="39" WC="0.41" CONTENT="Kakimaliokunta."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="1179" VPOS="697" WIDTH="3" HEIGHT="748"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_mwm9sy48_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1182" HEIGHT="1772" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1182" HEIGHT="1772">
+				<ComposedBlock ID="cblock_0" HPOS="374" VPOS="697" WIDTH="472" HEIGHT="45">
+					<TextBlock ID="block_0" HPOS="374" VPOS="697" WIDTH="472" HEIGHT="45">
+						<TextLine ID="line_0" HPOS="374" VPOS="697" WIDTH="472" HEIGHT="45">
+							<String ID="string_0" HPOS="374" VPOS="697" WIDTH="314" HEIGHT="45" WC="0.32" CONTENT="Pankkimwaliokunnan"/><SP WIDTH="28" VPOS="697" HPOS="688"/>
+							<String ID="string_1" HPOS="716" VPOS="697" WIDTH="130" HEIGHT="38" WC="0.95" CONTENT="mietintö"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="239" VPOS="783" WIDTH="746" HEIGHT="97">
+					<TextBlock ID="block_1" HPOS="239" VPOS="783" WIDTH="746" HEIGHT="97">
+						<TextLine ID="line_1" HPOS="239" VPOS="783" WIDTH="746" HEIGHT="40">
+							<String ID="string_2" HPOS="239" VPOS="784" WIDTH="78" HEIGHT="32" WC="0.89" CONTENT="erään"/><SP WIDTH="28" VPOS="784" HPOS="317"/>
+							<String ID="string_3" HPOS="345" VPOS="783" WIDTH="121" HEIGHT="32" WC="0.92" CONTENT="Suomen"/><SP WIDTH="26" VPOS="783" HPOS="466"/>
+							<String ID="string_4" HPOS="492" VPOS="783" WIDTH="318" HEIGHT="40" WC="0.62" CONTENT="Hypoteekkinhdistykjen"/><SP WIDTH="28" VPOS="783" HPOS="810"/>
+							<String ID="string_5" HPOS="838" VPOS="783" WIDTH="147" HEIGHT="39" WC="0.68" CONTENT="Iohtolun-"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="350" VPOS="840" WIDTH="525" HEIGHT="40">
+							<String ID="string_6" HPOS="350" VPOS="840" WIDTH="74" HEIGHT="33" WC="0.83" CONTENT="nalta"/><SP WIDTH="21" VPOS="840" HPOS="424"/>
+							<String ID="string_7" HPOS="445" VPOS="841" WIDTH="96" HEIGHT="32" WC="0.93" CONTENT="tulleen"/><SP WIDTH="22" VPOS="841" HPOS="541"/>
+							<String ID="string_8" HPOS="563" VPOS="841" WIDTH="159" HEIGHT="39" WC="0.60" CONTENT="kirjoitukjen"/><SP WIDTH="21" VPOS="841" HPOS="722"/>
+							<String ID="string_9" HPOS="743" VPOS="841" WIDTH="132" HEIGHT="39" WC="0.93" CONTENT="johdosta."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
