@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_99j7_z4__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1098" HEIGHT="1753" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1098" HEIGHT="1753">
+				<ComposedBlock ID="cblock_0" HPOS="302" VPOS="639" WIDTH="358" HEIGHT="42">
+					<TextBlock ID="block_0" HPOS="302" VPOS="639" WIDTH="358" HEIGHT="42">
+						<TextLine ID="line_0" HPOS="302" VPOS="639" WIDTH="358" HEIGHT="42">
+							<String ID="string_0" HPOS="302" VPOS="639" WIDTH="211" HEIGHT="41" WC="0.90" CONTENT="Vertaava"/><SP WIDTH="24" VPOS="639" HPOS="513"/>
+							<String ID="string_1" HPOS="537" VPOS="640" WIDTH="123" HEIGHT="41" WC="0.91" CONTENT="taulu"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="36" VPOS="740" WIDTH="893" HEIGHT="82">
+					<TextBlock ID="block_1" HPOS="36" VPOS="740" WIDTH="893" HEIGHT="82">
+						<TextLine ID="line_1" HPOS="36" VPOS="740" WIDTH="893" HEIGHT="31">
+							<String ID="string_2" HPOS="36" VPOS="740" WIDTH="182" HEIGHT="24" WC="0.90" CONTENT="muutoksista"/><SP WIDTH="16" VPOS="740" HPOS="218"/>
+							<String ID="string_3" HPOS="234" VPOS="740" WIDTH="116" HEIGHT="24" WC="0.93" CONTENT="Suomen"/><SP WIDTH="16" VPOS="740" HPOS="350"/>
+							<String ID="string_4" HPOS="366" VPOS="740" WIDTH="124" HEIGHT="25" WC="0.92" CONTENT="sotaväen"/><SP WIDTH="12" VPOS="740" HPOS="490"/>
+							<String ID="string_5" HPOS="502" VPOS="740" WIDTH="31" HEIGHT="31" WC="0.93" CONTENT="ja"/><SP WIDTH="15" VPOS="740" HPOS="533"/>
+							<String ID="string_6" HPOS="548" VPOS="740" WIDTH="157" HEIGHT="24" WC="0.91" CONTENT="hallitusten"/><SP WIDTH="18" VPOS="740" HPOS="705"/>
+							<String ID="string_7" HPOS="723" VPOS="741" WIDTH="62" HEIGHT="23" WC="0.92" CONTENT="sekä"/><SP WIDTH="13" VPOS="741" HPOS="785"/>
+							<String ID="string_8" HPOS="798" VPOS="740" WIDTH="131" HEIGHT="24" WC="0.92" CONTENT="Suomen-"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="70" VPOS="790" WIDTH="823" HEIGHT="32">
+							<String ID="string_9" HPOS="70" VPOS="790" WIDTH="158" HEIGHT="25" WC="0.92" CONTENT="maalaisten"/><SP WIDTH="16" VPOS="790" HPOS="228"/>
+							<String ID="string_10" HPOS="244" VPOS="790" WIDTH="309" HEIGHT="32" WC="0.90" CONTENT="sotilaspiirihallitusten"/><SP WIDTH="16" VPOS="790" HPOS="553"/>
+							<String ID="string_11" HPOS="569" VPOS="790" WIDTH="324" HEIGHT="26" WC="0.89" CONTENT="vuosirahansääntöihin."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

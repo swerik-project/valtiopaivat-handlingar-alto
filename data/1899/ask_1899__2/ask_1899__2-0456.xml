@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_gs7p781x_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1100" HEIGHT="1792" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1100" HEIGHT="1792">
+				<ComposedBlock ID="cblock_0" HPOS="646" VPOS="209" WIDTH="151" HEIGHT="62">
+					<TextBlock ID="block_0" HPOS="646" VPOS="209" WIDTH="151" HEIGHT="62">
+						<TextLine ID="line_0" HPOS="646" VPOS="209" WIDTH="151" HEIGHT="22">
+							<String ID="string_0" HPOS="646" VPOS="210" WIDTH="58" HEIGHT="20" WC="0.91" CONTENT="Liite"/><SP WIDTH="16" VPOS="210" HPOS="704"/>
+							<String ID="string_1" HPOS="720" VPOS="209" WIDTH="41" HEIGHT="21" WC="0.95" CONTENT="N:o"/><SP WIDTH="16" VPOS="209" HPOS="761"/>
+							<String ID="string_2" HPOS="777" VPOS="212" WIDTH="20" HEIGHT="19" WC="0.96" CONTENT="6."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="672" VPOS="250" WIDTH="97" HEIGHT="21">
+							<String ID="string_3" HPOS="672" VPOS="250" WIDTH="97" HEIGHT="21" WC="0.92" CONTENT="Jäljennös."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="369" VPOS="653" WIDTH="243" HEIGHT="35">
+					<TextBlock ID="block_1" HPOS="369" VPOS="653" WIDTH="243" HEIGHT="35">
+						<TextLine ID="line_2" HPOS="369" VPOS="653" WIDTH="243" HEIGHT="35">
+							<String ID="string_4" HPOS="369" VPOS="653" WIDTH="243" HEIGHT="35" WC="0.90" CONTENT="Arviolasku"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="124" VPOS="733" WIDTH="735" HEIGHT="100">
+					<TextBlock ID="block_2" HPOS="124" VPOS="733" WIDTH="735" HEIGHT="100">
+						<TextLine ID="line_3" HPOS="124" VPOS="733" WIDTH="735" HEIGHT="24">
+							<String ID="string_5" HPOS="124" VPOS="734" WIDTH="74" HEIGHT="19" WC="0.91" CONTENT="niistä"/><SP WIDTH="17" VPOS="734" HPOS="198"/>
+							<String ID="string_6" HPOS="215" VPOS="734" WIDTH="127" HEIGHT="19" WC="0.90" CONTENT="menoista"/><SP WIDTH="16" VPOS="734" HPOS="342"/>
+							<String ID="string_7" HPOS="358" VPOS="734" WIDTH="181" HEIGHT="19" WC="0.90" CONTENT="Valtakunnan"/><SP WIDTH="19" VPOS="734" HPOS="539"/>
+							<String ID="string_8" HPOS="558" VPOS="734" WIDTH="214" HEIGHT="23" WC="0.90" CONTENT="puolustukseen,"/><SP WIDTH="15" VPOS="734" HPOS="772"/>
+							<String ID="string_9" HPOS="787" VPOS="733" WIDTH="72" HEIGHT="23" WC="0.92" CONTENT="jotka"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="175" VPOS="774" WIDTH="636" HEIGHT="23">
+							<String ID="string_10" HPOS="175" VPOS="775" WIDTH="140" HEIGHT="18" WC="0.92" CONTENT="kohtaavat"/><SP WIDTH="14" VPOS="775" HPOS="315"/>
+							<String ID="string_11" HPOS="329" VPOS="775" WIDTH="113" HEIGHT="22" WC="0.91" CONTENT="jokaista"/><SP WIDTH="17" VPOS="775" HPOS="442"/>
+							<String ID="string_12" HPOS="459" VPOS="774" WIDTH="119" HEIGHT="19" WC="0.91" CONTENT="henkilöä"/><SP WIDTH="16" VPOS="774" HPOS="578"/>
+							<String ID="string_13" HPOS="594" VPOS="774" WIDTH="136" HEIGHT="19" WC="0.90" CONTENT="väestöstä"/><SP WIDTH="15" VPOS="774" HPOS="730"/>
+							<String ID="string_14" HPOS="745" VPOS="774" WIDTH="66" HEIGHT="19" WC="0.87" CONTENT="viisi-"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="272" VPOS="815" WIDTH="438" HEIGHT="18">
+							<String ID="string_15" HPOS="272" VPOS="815" WIDTH="261" HEIGHT="18" WC="0.90" CONTENT="vuotisaikakautena"/><SP WIDTH="15" VPOS="815" HPOS="533"/>
+							<String ID="string_16" HPOS="548" VPOS="815" WIDTH="162" HEIGHT="18" WC="0.90" CONTENT="1894—1898."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
