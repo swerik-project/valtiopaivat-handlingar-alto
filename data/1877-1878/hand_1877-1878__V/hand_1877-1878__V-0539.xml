@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_kk92tb_p_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1848" HEIGHT="1673" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1848" HEIGHT="1673">
+				<ComposedBlock ID="cblock_0" HPOS="923" VPOS="26" WIDTH="10" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="923" VPOS="26" WIDTH="10" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="923" VPOS="26" WIDTH="10" HEIGHT="23">
+							<String ID="string_0" HPOS="923" VPOS="26" WIDTH="10" HEIGHT="23" WC="0.59" CONTENT="jä"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="919" VPOS="155" WIDTH="22" HEIGHT="389"></Illustration>
+				<Illustration ID="cblock_2" HPOS="920" VPOS="1041" WIDTH="17" HEIGHT="360"></Illustration>
+				<GraphicalElement ID="cblock_3" HPOS="1017" VPOS="744" WIDTH="746" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="1005" VPOS="806" WIDTH="346" HEIGHT="6"></GraphicalElement >
+				<ComposedBlock ID="cblock_5" HPOS="1080" VPOS="766" WIDTH="609" HEIGHT="24">
+					<TextBlock ID="block_1" HPOS="1080" VPOS="766" WIDTH="609" HEIGHT="24">
+						<TextLine ID="line_1" HPOS="1080" VPOS="766" WIDTH="609" HEIGHT="24">
+							<String ID="string_1" HPOS="1080" VPOS="766" WIDTH="126" HEIGHT="23" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="12" VPOS="766" HPOS="1206"/>
+							<String ID="string_2" HPOS="1218" VPOS="766" WIDTH="71" HEIGHT="19" WC="0.93" CONTENT="Finska"/><SP WIDTH="11" VPOS="766" HPOS="1289"/>
+							<String ID="string_3" HPOS="1300" VPOS="766" WIDTH="226" HEIGHT="24" WC="0.75" CONTENT="Litteratur-sällskapets"/><SP WIDTH="12" VPOS="766" HPOS="1526"/>
+							<String ID="string_4" HPOS="1538" VPOS="766" WIDTH="87" HEIGHT="24" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="13" VPOS="766" HPOS="1625"/>
+							<String ID="string_5" HPOS="1638" VPOS="768" WIDTH="51" HEIGHT="18" WC="0.96" CONTENT="1877."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="1352" VPOS="806" WIDTH="410" HEIGHT="8">
+					<TextBlock ID="block_2" HPOS="1352" VPOS="806" WIDTH="410" HEIGHT="8">
+						<TextLine ID="line_2" HPOS="1352" VPOS="806" WIDTH="410" HEIGHT="8">
+							<String ID="string_6" HPOS="1348" VPOS="794" WIDTH="21" HEIGHT="28" WC="0.0" CONTENT="m"/><SP WIDTH="-17" VPOS="794" HPOS="1369"/>
+							<String ID="string_7" HPOS="1352" VPOS="806" WIDTH="410" HEIGHT="8" WC="0.0" CONTENT="vmmsissam"/><SP WIDTH="-216" VPOS="806" HPOS="1762"/>
+							<String ID="string_8" HPOS="1546" VPOS="794" WIDTH="17" HEIGHT="28" WC="0.41" CONTENT="—"/><SP WIDTH="22" VPOS="794" HPOS="1563"/>
+							<String ID="string_9" HPOS="1585" VPOS="794" WIDTH="78" HEIGHT="28" WC="0.12" CONTENT=" -—"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

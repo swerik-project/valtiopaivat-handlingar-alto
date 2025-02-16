@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_i1d2jcy4_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1028" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1028" HEIGHT="1692">
+				<ComposedBlock ID="cblock_0" HPOS="240" VPOS="171" WIDTH="44" HEIGHT="17">
+					<TextBlock ID="block_0" HPOS="240" VPOS="171" WIDTH="44" HEIGHT="17">
+						<TextLine ID="line_0" HPOS="240" VPOS="171" WIDTH="44" HEIGHT="17">
+							<String ID="string_0" HPOS="240" VPOS="171" WIDTH="44" HEIGHT="17" WC="0.78" CONTENT="VII"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="217" VPOS="226" WIDTH="681" HEIGHT="109">
+					<TextBlock ID="block_1" HPOS="217" VPOS="226" WIDTH="681" HEIGHT="76">
+						<TextLine ID="line_1" HPOS="285" VPOS="226" WIDTH="613" HEIGHT="22">
+							<String ID="string_1" HPOS="285" VPOS="226" WIDTH="178" HEIGHT="18" WC="0.96" CONTENT="Storfurstendömet"/><SP WIDTH="18" VPOS="226" HPOS="463"/>
+							<String ID="string_2" HPOS="481" VPOS="226" WIDTH="88" HEIGHT="18" WC="0.93" CONTENT="Finlands"/><SP WIDTH="19" VPOS="226" HPOS="569"/>
+							<String ID="string_3" HPOS="588" VPOS="226" WIDTH="87" HEIGHT="18" WC="0.86" CONTENT="Ständers"/><SP WIDTH="18" VPOS="226" HPOS="675"/>
+							<String ID="string_4" HPOS="693" VPOS="226" WIDTH="68" HEIGHT="22" WC="0.93" CONTENT="beslut,"/><SP WIDTH="20" VPOS="226" HPOS="761"/>
+							<String ID="string_5" HPOS="781" VPOS="226" WIDTH="67" HEIGHT="17" WC="0.92" CONTENT="fattadt"/><SP WIDTH="16" VPOS="226" HPOS="848"/>
+							<String ID="string_6" HPOS="864" VPOS="226" WIDTH="34" HEIGHT="17" WC="0.96" CONTENT="och"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="217" VPOS="254" WIDTH="679" HEIGHT="24">
+							<String ID="string_7" HPOS="217" VPOS="256" WIDTH="59" HEIGHT="22" WC="0.91" CONTENT="gifvet"/><SP WIDTH="18" VPOS="256" HPOS="276"/>
+							<String ID="string_8" HPOS="294" VPOS="254" WIDTH="10" HEIGHT="18" WC="0.93" CONTENT="&amp;"/><SP WIDTH="18" VPOS="254" HPOS="304"/>
+							<String ID="string_9" HPOS="322" VPOS="255" WIDTH="78" HEIGHT="23" WC="0.92" CONTENT="lagtima"/><SP WIDTH="23" VPOS="255" HPOS="400"/>
+							<String ID="string_10" HPOS="423" VPOS="255" WIDTH="113" HEIGHT="23" WC="0.92" CONTENT="landtdagen"/><SP WIDTH="18" VPOS="255" HPOS="536"/>
+							<String ID="string_11" HPOS="554" VPOS="256" WIDTH="7" HEIGHT="16" WC="0.96" CONTENT="i"/><SP WIDTH="19" VPOS="256" HPOS="561"/>
+							<String ID="string_12" HPOS="580" VPOS="254" WIDTH="123" HEIGHT="24" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="23" VPOS="254" HPOS="703"/>
+							<String ID="string_13" HPOS="726" VPOS="255" WIDTH="35" HEIGHT="17" WC="0.96" CONTENT="den"/><SP WIDTH="21" VPOS="255" HPOS="761"/>
+							<String ID="string_14" HPOS="782" VPOS="254" WIDTH="22" HEIGHT="17" WC="0.96" CONTENT="24"/><SP WIDTH="17" VPOS="254" HPOS="804"/>
+							<String ID="string_15" HPOS="821" VPOS="255" WIDTH="75" HEIGHT="22" WC="0.96" CONTENT="januari"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="218" VPOS="284" WIDTH="50" HEIGHT="18">
+							<String ID="string_16" HPOS="218" VPOS="284" WIDTH="50" HEIGHT="18" WC="0.91" CONTENT="1878,"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="286" VPOS="312" WIDTH="90" HEIGHT="23">
+						<TextLine ID="line_4" HPOS="286" VPOS="312" WIDTH="90" HEIGHT="23">
+							<String ID="string_17" HPOS="286" VPOS="312" WIDTH="90" HEIGHT="23" WC="0.95" CONTENT="Register."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
