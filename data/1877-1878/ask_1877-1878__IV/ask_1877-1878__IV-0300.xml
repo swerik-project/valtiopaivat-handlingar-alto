@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_9j7d9jsk_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1031" HEIGHT="1720" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1031" HEIGHT="1720">
+				<GraphicalElement ID="cblock_0" HPOS="195" VPOS="201" WIDTH="8" HEIGHT="757"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="221" VPOS="126" WIDTH="27" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="221" VPOS="126" WIDTH="27" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="221" VPOS="126" WIDTH="27" HEIGHT="21">
+							<String ID="string_0" HPOS="221" VPOS="126" WIDTH="27" HEIGHT="21" WC="0.96" CONTENT="20"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="543" VPOS="122" WIDTH="48" HEIGHT="21">
+					<TextBlock ID="block_1" HPOS="543" VPOS="122" WIDTH="48" HEIGHT="21">
+						<TextLine ID="line_1" HPOS="543" VPOS="122" WIDTH="48" HEIGHT="21">
+							<String ID="string_1" HPOS="543" VPOS="122" WIDTH="48" HEIGHT="21" WC="0.74" CONTENT="VII"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="400" VPOS="188" WIDTH="546" HEIGHT="8"></GraphicalElement >
+				<ComposedBlock ID="cblock_4" HPOS="679" VPOS="212" WIDTH="259" HEIGHT="43">
+					<TextBlock ID="block_2" HPOS="679" VPOS="212" WIDTH="259" HEIGHT="43">
+						<TextLine ID="line_2" HPOS="679" VPOS="212" WIDTH="259" HEIGHT="43">
+							<String ID="string_2" HPOS="679" VPOS="224" WIDTH="66" HEIGHT="21" WC="0.94" CONTENT="Siirto"/><SP WIDTH="14" VPOS="224" HPOS="745"/>
+							<String ID="string_3" HPOS="759" VPOS="212" WIDTH="1" HEIGHT="43" WC="0.81" CONTENT="|"/><SP WIDTH="11" VPOS="212" HPOS="760"/>
+							<String ID="string_4" HPOS="771" VPOS="212" WIDTH="127" HEIGHT="43" WC="0.81" CONTENT="32,268,294]"/><SP WIDTH="14" VPOS="212" HPOS="898"/>
+							<String ID="string_5" HPOS="912" VPOS="223" WIDTH="26" HEIGHT="20" WC="0.91" CONTENT="32"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_5" HPOS="900" VPOS="194" WIDTH="10" HEIGHT="832"></GraphicalElement >
+				<GraphicalElement ID="cblock_6" HPOS="941" VPOS="208" WIDTH="11" HEIGHT="822"></GraphicalElement >
+				<GraphicalElement ID="cblock_7" HPOS="761" VPOS="717" WIDTH="6" HEIGHT="313"></GraphicalElement >
+				<ComposedBlock ID="cblock_8" HPOS="664" VPOS="997" WIDTH="280" HEIGHT="32">
+					<TextBlock ID="block_3" HPOS="664" VPOS="997" WIDTH="280" HEIGHT="32">
+						<TextLine ID="line_3" HPOS="664" VPOS="997" WIDTH="280" HEIGHT="32">
+							<String ID="string_6" HPOS="664" VPOS="1004" WIDTH="86" HEIGHT="21" WC="0.96" CONTENT="Summa"/><SP WIDTH="13" VPOS="1004" HPOS="750"/>
+							<String ID="string_7" HPOS="763" VPOS="997" WIDTH="2" HEIGHT="5" WC="0.93" CONTENT="|"/><SP WIDTH="12" VPOS="997" HPOS="765"/>
+							<String ID="string_8" HPOS="777" VPOS="1004" WIDTH="127" HEIGHT="25" WC="0.46" CONTENT="32,268,294]"/><SP WIDTH="13" VPOS="1004" HPOS="904"/>
+							<String ID="string_9" HPOS="917" VPOS="1004" WIDTH="27" HEIGHT="20" WC="0.93" CONTENT="32"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_9" HPOS="287" VPOS="1134" WIDTH="663" HEIGHT="27">
+					<TextBlock ID="block_4" HPOS="287" VPOS="1134" WIDTH="663" HEIGHT="27">
+						<TextLine ID="line_4" HPOS="287" VPOS="1134" WIDTH="663" HEIGHT="27">
+							<String ID="string_10" HPOS="287" VPOS="1134" WIDTH="143" HEIGHT="27" WC="0.93" CONTENT="Helsingissä,"/><SP WIDTH="16" VPOS="1134" HPOS="430"/>
+							<String ID="string_11" HPOS="446" VPOS="1134" WIDTH="368" HEIGHT="22" WC="0.91" CONTENT="Valtiovarain-Toimituskunnalta"/><SP WIDTH="16" VPOS="1134" HPOS="814"/>
+							<String ID="string_12" HPOS="830" VPOS="1134" WIDTH="120" HEIGHT="23" WC="0.92" CONTENT="Keisarilli-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
