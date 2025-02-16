@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_gyxwkle6_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1098" HEIGHT="1709" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1098" HEIGHT="1709">
+				<ComposedBlock ID="cblock_0" HPOS="338" VPOS="402" WIDTH="279" HEIGHT="38">
+					<TextBlock ID="block_0" HPOS="338" VPOS="402" WIDTH="279" HEIGHT="38">
+						<TextLine ID="line_0" HPOS="338" VPOS="402" WIDTH="279" HEIGHT="38">
+							<String ID="string_0" HPOS="338" VPOS="402" WIDTH="279" HEIGHT="38" WC="0.89" CONTENT="ASTAKIRJAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="127" VPOS="549" WIDTH="708" HEIGHT="218">
+					<TextBlock ID="block_1" HPOS="127" VPOS="549" WIDTH="708" HEIGHT="218">
+						<TextLine ID="line_1" HPOS="127" VPOS="549" WIDTH="708" HEIGHT="72">
+							<String ID="string_1" HPOS="127" VPOS="549" WIDTH="373" HEIGHT="68" WC="0.80" CONTENT="VALTIOPÄIVILTÄ"/><SP WIDTH="43" VPOS="549" HPOS="500"/>
+							<String ID="string_2" HPOS="543" VPOS="553" WIDTH="292" HEIGHT="68" WC="0.95" CONTENT="HELSINGISSÄ"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="294" VPOS="735" WIDTH="365" HEIGHT="32">
+							<String ID="string_3" HPOS="294" VPOS="735" WIDTH="139" HEIGHT="30" WC="0.93" CONTENT="vuosina"/><SP WIDTH="21" VPOS="735" HPOS="433"/>
+							<String ID="string_4" HPOS="454" VPOS="735" WIDTH="205" HEIGHT="32" WC="0.73" CONTENT="1877—1878."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="388" VPOS="997" WIDTH="180" HEIGHT="19">
+					<TextBlock ID="block_2" HPOS="388" VPOS="997" WIDTH="180" HEIGHT="19">
+						<TextLine ID="line_3" HPOS="388" VPOS="997" WIDTH="180" HEIGHT="19">
+							<String ID="string_5" HPOS="388" VPOS="997" WIDTH="126" HEIGHT="18" WC="0.91" CONTENT="Ensimäinen"/><SP WIDTH="13" VPOS="997" HPOS="514"/>
+							<String ID="string_6" HPOS="527" VPOS="1003" WIDTH="41" HEIGHT="13" WC="0.96" CONTENT="osa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="234" VPOS="1434" WIDTH="480" HEIGHT="62">
+					<TextBlock ID="block_3" HPOS="234" VPOS="1434" WIDTH="480" HEIGHT="62">
+						<TextLine ID="line_4" HPOS="385" VPOS="1434" WIDTH="185" HEIGHT="26">
+							<String ID="string_7" HPOS="385" VPOS="1434" WIDTH="185" HEIGHT="26" WC="0.96" CONTENT="HELSINGISSÄ,"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="234" VPOS="1473" WIDTH="480" HEIGHT="23">
+							<String ID="string_8" HPOS="234" VPOS="1474" WIDTH="15" HEIGHT="19" WC="0.92" CONTENT="J."/><SP WIDTH="15" VPOS="1474" HPOS="249"/>
+							<String ID="string_9" HPOS="264" VPOS="1474" WIDTH="116" HEIGHT="18" WC="0.91" CONTENT="Simelius&#39;en"/><SP WIDTH="13" VPOS="1474" HPOS="380"/>
+							<String ID="string_10" HPOS="393" VPOS="1474" WIDTH="105" HEIGHT="22" WC="0.96" CONTENT="perillisten"/><SP WIDTH="12" VPOS="1474" HPOS="498"/>
+							<String ID="string_11" HPOS="510" VPOS="1474" WIDTH="141" HEIGHT="22" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="15" VPOS="1474" HPOS="651"/>
+							<String ID="string_12" HPOS="666" VPOS="1473" WIDTH="48" HEIGHT="18" WC="0.96" CONTENT="1878."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="1082" VPOS="1068" WIDTH="16" HEIGHT="629"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

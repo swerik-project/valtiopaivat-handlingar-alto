@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_u932xglw_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1064" HEIGHT="1742" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1064" HEIGHT="1742">
+				<GraphicalElement ID="cblock_0" HPOS="521" VPOS="766" WIDTH="135" HEIGHT="6"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="336" VPOS="800" WIDTH="492" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="336" VPOS="800" WIDTH="492" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="336" VPOS="800" WIDTH="492" HEIGHT="18">
+							<String ID="string_0" HPOS="336" VPOS="800" WIDTH="74" HEIGHT="18" WC="0.86" CONTENT="Tarussa,"/><SP WIDTH="10" VPOS="800" HPOS="410"/>
+							<String ID="string_1" HPOS="420" VPOS="800" WIDTH="19" HEIGHT="15" WC="0.96" CONTENT="G."/><SP WIDTH="7" VPOS="800" HPOS="439"/>
+							<String ID="string_2" HPOS="446" VPOS="800" WIDTH="26" HEIGHT="15" WC="0.93" CONTENT="W."/><SP WIDTH="10" VPOS="800" HPOS="472"/>
+							<String ID="string_3" HPOS="482" VPOS="801" WIDTH="69" HEIGHT="14" WC="0.91" CONTENT="Wilénin"/><SP WIDTH="7" VPOS="801" HPOS="551"/>
+							<String ID="string_4" HPOS="558" VPOS="801" WIDTH="18" HEIGHT="16" WC="0.96" CONTENT="ja"/><SP WIDTH="7" VPOS="801" HPOS="576"/>
+							<String ID="string_5" HPOS="583" VPOS="801" WIDTH="68" HEIGHT="17" WC="0.84" CONTENT="Kumpp."/><SP WIDTH="8" VPOS="801" HPOS="651"/>
+							<String ID="string_6" HPOS="659" VPOS="800" WIDTH="121" HEIGHT="18" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="9" VPOS="800" HPOS="780"/>
+							<String ID="string_7" HPOS="789" VPOS="801" WIDTH="39" HEIGHT="14" WC="0.94" CONTENT="1877."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="1059" VPOS="1166" WIDTH="5" HEIGHT="576"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

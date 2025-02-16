@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_6cbp4a64_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1064" HEIGHT="1748" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1064" HEIGHT="1748">
+				<GraphicalElement ID="cblock_0" HPOS="328" VPOS="773" WIDTH="525" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="329" VPOS="790" WIDTH="529" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="329" VPOS="790" WIDTH="529" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="329" VPOS="790" WIDTH="529" HEIGHT="24">
+							<String ID="string_0" HPOS="329" VPOS="790" WIDTH="120" HEIGHT="23" WC="0.79" CONTENT="Turusfa,"/><SP WIDTH="19" VPOS="790" HPOS="449"/>
+							<String ID="string_1" HPOS="468" VPOS="792" WIDTH="58" HEIGHT="18" WC="0.66" CONTENT="Jurun"/><SP WIDTH="12" VPOS="792" HPOS="526"/>
+							<String ID="string_2" HPOS="538" VPOS="790" WIDTH="119" HEIGHT="24" WC="0.88" CONTENT="Ofake-yhtiön"/><SP WIDTH="11" VPOS="790" HPOS="657"/>
+							<String ID="string_3" HPOS="668" VPOS="790" WIDTH="125" HEIGHT="24" WC="0.80" CONTENT="kirjapainosfa,"/><SP WIDTH="14" VPOS="790" HPOS="793"/>
+							<String ID="string_4" HPOS="807" VPOS="792" WIDTH="51" HEIGHT="17" WC="0.96" CONTENT="1877."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="328" VPOS="827" WIDTH="530" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="1062" VPOS="0" WIDTH="2" HEIGHT="305"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
