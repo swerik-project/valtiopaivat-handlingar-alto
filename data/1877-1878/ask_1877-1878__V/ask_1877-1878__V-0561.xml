@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_qd3k7naj_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1003" HEIGHT="1756" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1003" HEIGHT="1756">
+				<GraphicalElement ID="cblock_0" HPOS="294" VPOS="808" WIDTH="527" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="321" VPOS="830" WIDTH="465" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="321" VPOS="830" WIDTH="465" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="321" VPOS="830" WIDTH="465" HEIGHT="24">
+							<String ID="string_0" HPOS="321" VPOS="831" WIDTH="121" HEIGHT="23" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="12" VPOS="831" HPOS="442"/>
+							<String ID="string_1" HPOS="454" VPOS="831" WIDTH="17" HEIGHT="17" WC="0.93" CONTENT="J."/><SP WIDTH="13" VPOS="831" HPOS="471"/>
+							<String ID="string_2" HPOS="484" VPOS="830" WIDTH="117" HEIGHT="18" WC="0.93" CONTENT="Simelius&#39;en"/><SP WIDTH="13" VPOS="830" HPOS="601"/>
+							<String ID="string_3" HPOS="614" VPOS="830" WIDTH="109" HEIGHT="24" WC="0.91" CONTENT="perillisillä,"/><SP WIDTH="14" VPOS="830" HPOS="723"/>
+							<String ID="string_4" HPOS="737" VPOS="830" WIDTH="49" HEIGHT="19" WC="0.96" CONTENT="1878."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="285" VPOS="872" WIDTH="536" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="999" VPOS="0" WIDTH="3" HEIGHT="326"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
