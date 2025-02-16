@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_9ppr8fx__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1073" HEIGHT="1739" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1073" HEIGHT="1739">
+				<ComposedBlock ID="cblock_0" HPOS="291" VPOS="785" WIDTH="577" HEIGHT="25">
+					<TextBlock ID="block_0" HPOS="291" VPOS="785" WIDTH="577" HEIGHT="25">
+						<TextLine ID="line_0" HPOS="291" VPOS="785" WIDTH="577" HEIGHT="25">
+							<String ID="string_0" HPOS="291" VPOS="786" WIDTH="120" HEIGHT="23" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="13" VPOS="786" HPOS="411"/>
+							<String ID="string_1" HPOS="424" VPOS="785" WIDTH="128" HEIGHT="20" WC="0.96" CONTENT="Keisarillisen"/><SP WIDTH="12" VPOS="785" HPOS="552"/>
+							<String ID="string_2" HPOS="564" VPOS="786" WIDTH="88" HEIGHT="19" WC="0.95" CONTENT="Senaatin"/><SP WIDTH="12" VPOS="786" HPOS="652"/>
+							<String ID="string_3" HPOS="664" VPOS="787" WIDTH="142" HEIGHT="23" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="14" VPOS="787" HPOS="806"/>
+							<String ID="string_4" HPOS="820" VPOS="787" WIDTH="48" HEIGHT="18" WC="0.95" CONTENT="1877."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="478" VPOS="839" WIDTH="203" HEIGHT="12">
+					<TextBlock ID="block_1" HPOS="478" VPOS="839" WIDTH="203" HEIGHT="12">
+						<TextLine ID="line_1" HPOS="478" VPOS="839" WIDTH="203" HEIGHT="12">
+							<String ID="string_5" HPOS="478" VPOS="839" WIDTH="203" HEIGHT="12" WC="0.37" CONTENT="-r—-r-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
