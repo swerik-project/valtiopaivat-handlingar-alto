@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_fyjopcqe_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1025" HEIGHT="1703" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1025" HEIGHT="1703">
+				<ComposedBlock ID="cblock_0" HPOS="363" VPOS="796" WIDTH="447" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="363" VPOS="796" WIDTH="447" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="363" VPOS="796" WIDTH="447" HEIGHT="24">
+							<String ID="string_0" HPOS="363" VPOS="796" WIDTH="123" HEIGHT="23" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="12" VPOS="796" HPOS="486"/>
+							<String ID="string_1" HPOS="498" VPOS="797" WIDTH="10" HEIGHT="17" WC="0.92" CONTENT="&amp;"/><SP WIDTH="13" VPOS="797" HPOS="508"/>
+							<String ID="string_2" HPOS="521" VPOS="796" WIDTH="23" HEIGHT="19" WC="0.70" CONTENT="K,"/><SP WIDTH="12" VPOS="796" HPOS="544"/>
+							<String ID="string_3" HPOS="556" VPOS="796" WIDTH="91" HEIGHT="18" WC="0.91" CONTENT="Senatens"/><SP WIDTH="12" VPOS="796" HPOS="647"/>
+							<String ID="string_4" HPOS="659" VPOS="797" WIDTH="87" HEIGHT="23" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="15" VPOS="797" HPOS="746"/>
+							<String ID="string_5" HPOS="761" VPOS="798" WIDTH="49" HEIGHT="17" WC="0.96" CONTENT="1878."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="482" VPOS="836" WIDTH="204" HEIGHT="8">
+					<TextBlock ID="block_1" HPOS="482" VPOS="836" WIDTH="204" HEIGHT="8">
+						<TextLine ID="line_1" HPOS="482" VPOS="836" WIDTH="204" HEIGHT="8">
+							<String ID="string_6" HPOS="478" VPOS="825" WIDTH="49" HEIGHT="28" WC="0.50" CONTENT="-—"/><SP WIDTH="-45" VPOS="825" HPOS="527"/>
+							<String ID="string_7" HPOS="482" VPOS="836" WIDTH="204" HEIGHT="8" WC="0.29" CONTENT="n"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

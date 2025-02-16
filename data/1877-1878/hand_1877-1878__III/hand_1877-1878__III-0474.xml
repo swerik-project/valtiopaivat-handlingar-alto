@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_hict_t87_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1025" HEIGHT="1698" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1025" HEIGHT="1698">
+				<GraphicalElement ID="cblock_0" HPOS="446" VPOS="754" WIDTH="203" HEIGHT="5"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="289" VPOS="776" WIDTH="526" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="289" VPOS="776" WIDTH="526" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="289" VPOS="776" WIDTH="526" HEIGHT="24">
+							<String ID="string_0" HPOS="289" VPOS="776" WIDTH="122" HEIGHT="23" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="13" VPOS="776" HPOS="411"/>
+							<String ID="string_1" HPOS="424" VPOS="776" WIDTH="11" HEIGHT="18" WC="0.92" CONTENT="&amp;"/><SP WIDTH="12" VPOS="776" HPOS="435"/>
+							<String ID="string_2" HPOS="447" VPOS="777" WIDTH="104" HEIGHT="23" WC="0.93" CONTENT="Kejserliga"/><SP WIDTH="12" VPOS="777" HPOS="551"/>
+							<String ID="string_3" HPOS="563" VPOS="777" WIDTH="90" HEIGHT="19" WC="0.92" CONTENT="Senatens"/><SP WIDTH="12" VPOS="777" HPOS="653"/>
+							<String ID="string_4" HPOS="665" VPOS="777" WIDTH="87" HEIGHT="23" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="15" VPOS="777" HPOS="752"/>
+							<String ID="string_5" HPOS="767" VPOS="778" WIDTH="48" HEIGHT="17" WC="0.96" CONTENT="1877."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
