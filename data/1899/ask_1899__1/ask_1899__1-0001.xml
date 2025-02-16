@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_zcn1p8fs_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1789" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1789">
+				<ComposedBlock ID="cblock_0" HPOS="339" VPOS="440" WIDTH="304" HEIGHT="38">
+					<TextBlock ID="block_0" HPOS="339" VPOS="440" WIDTH="304" HEIGHT="38">
+						<TextLine ID="line_0" HPOS="339" VPOS="440" WIDTH="304" HEIGHT="38">
+							<String ID="string_0" HPOS="339" VPOS="440" WIDTH="304" HEIGHT="38" WC="0.96" CONTENT="ASIAKIRJAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="106" VPOS="603" WIDTH="774" HEIGHT="79">
+					<TextBlock ID="block_1" HPOS="106" VPOS="603" WIDTH="774" HEIGHT="79">
+						<TextLine ID="line_1" HPOS="106" VPOS="603" WIDTH="774" HEIGHT="79">
+							<String ID="string_1" HPOS="106" VPOS="605" WIDTH="368" HEIGHT="77" WC="0.30" CONTENT="VALIAIKAISILTA."/><SP WIDTH="26" VPOS="605" HPOS="474"/>
+							<String ID="string_2" HPOS="500" VPOS="603" WIDTH="380" HEIGHT="79" WC="0.77" CONTENT="VALTIOPATVILTA"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="317" VPOS="805" WIDTH="360" HEIGHT="49">
+					<TextBlock ID="block_2" HPOS="317" VPOS="805" WIDTH="360" HEIGHT="49">
+						<TextLine ID="line_2" HPOS="317" VPOS="805" WIDTH="360" HEIGHT="49">
+							<String ID="string_3" HPOS="317" VPOS="805" WIDTH="360" HEIGHT="49" WC="0.96" CONTENT="HELSINGISSÄ"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="383" VPOS="984" WIDTH="231" HEIGHT="23">
+					<TextBlock ID="block_3" HPOS="383" VPOS="984" WIDTH="231" HEIGHT="23">
+						<TextLine ID="line_3" HPOS="383" VPOS="984" WIDTH="231" HEIGHT="23">
+							<String ID="string_4" HPOS="383" VPOS="984" WIDTH="141" HEIGHT="23" WC="0.96" CONTENT="VUONNA"/><SP WIDTH="15" VPOS="984" HPOS="524"/>
+							<String ID="string_5" HPOS="539" VPOS="984" WIDTH="75" HEIGHT="23" WC="0.92" CONTENT="1899:"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="272" VPOS="1493" WIDTH="458" HEIGHT="16">
+					<TextBlock ID="block_4" HPOS="272" VPOS="1493" WIDTH="458" HEIGHT="16">
+						<TextLine ID="line_4" HPOS="272" VPOS="1493" WIDTH="458" HEIGHT="16">
+							<String ID="string_6" HPOS="272" VPOS="1493" WIDTH="124" HEIGHT="13" WC="0.93" CONTENT="HELSINGIN"/><SP WIDTH="17" VPOS="1493" HPOS="396"/>
+							<String ID="string_7" HPOS="413" VPOS="1494" WIDTH="317" HEIGHT="15" WC="0.91" CONTENT="SENTRAALIKIRJAPAINOSSA,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
