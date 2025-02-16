@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ceph9pzg_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1025" HEIGHT="1756" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1025" HEIGHT="1756">
+				<GraphicalElement ID="cblock_0" HPOS="266" VPOS="780" WIDTH="603" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="281" VPOS="795" WIDTH="573" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="281" VPOS="795" WIDTH="573" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="281" VPOS="795" WIDTH="573" HEIGHT="24">
+							<String ID="string_0" HPOS="281" VPOS="796" WIDTH="122" HEIGHT="22" WC="0.92" CONTENT="Helsingissä,"/><SP WIDTH="12" VPOS="796" HPOS="403"/>
+							<String ID="string_1" HPOS="415" VPOS="796" WIDTH="86" HEIGHT="18" WC="0.93" CONTENT="Theodor"/><SP WIDTH="12" VPOS="796" HPOS="501"/>
+							<String ID="string_2" HPOS="513" VPOS="796" WIDTH="126" HEIGHT="18" WC="0.91" CONTENT="Sederholmin"/><SP WIDTH="11" VPOS="796" HPOS="639"/>
+							<String ID="string_3" HPOS="650" VPOS="795" WIDTH="142" HEIGHT="24" WC="0.91" CONTENT="kirjapainossa,"/><SP WIDTH="15" VPOS="795" HPOS="792"/>
+							<String ID="string_4" HPOS="807" VPOS="796" WIDTH="47" HEIGHT="18" WC="0.96" CONTENT="1877."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="265" VPOS="832" WIDTH="598" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

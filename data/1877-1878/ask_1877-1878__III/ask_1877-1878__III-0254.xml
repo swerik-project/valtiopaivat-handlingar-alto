@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_1z6xzc32_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1034" HEIGHT="1761" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1034" HEIGHT="1761">
+				<GraphicalElement ID="cblock_0" HPOS="212" VPOS="813" WIDTH="517" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="225" VPOS="835" WIDTH="502" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="225" VPOS="835" WIDTH="502" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="225" VPOS="835" WIDTH="502" HEIGHT="24">
+							<String ID="string_0" HPOS="225" VPOS="835" WIDTH="98" HEIGHT="23" WC="0.78" CONTENT="Zurusfa,"/><SP WIDTH="16" VPOS="835" HPOS="323"/>
+							<String ID="string_1" HPOS="339" VPOS="836" WIDTH="56" HEIGHT="19" WC="0.93" CONTENT="Turun"/><SP WIDTH="13" VPOS="836" HPOS="395"/>
+							<String ID="string_2" HPOS="408" VPOS="836" WIDTH="118" HEIGHT="23" WC="0.45" CONTENT="Ofake-yhtiön"/><SP WIDTH="12" VPOS="836" HPOS="526"/>
+							<String ID="string_3" HPOS="538" VPOS="836" WIDTH="124" HEIGHT="23" WC="0.47" CONTENT="firjapainosja,"/><SP WIDTH="16" VPOS="836" HPOS="662"/>
+							<String ID="string_4" HPOS="678" VPOS="837" WIDTH="49" HEIGHT="17" WC="0.96" CONTENT="1877."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="210" VPOS="879" WIDTH="530" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

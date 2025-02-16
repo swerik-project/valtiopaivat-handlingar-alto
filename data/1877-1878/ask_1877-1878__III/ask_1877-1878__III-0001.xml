@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_4_rc5nng_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1028" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1028" HEIGHT="1773">
+				<ComposedBlock ID="cblock_0" HPOS="316" VPOS="443" WIDTH="276" HEIGHT="38">
+					<TextBlock ID="block_0" HPOS="316" VPOS="443" WIDTH="276" HEIGHT="38">
+						<TextLine ID="line_0" HPOS="316" VPOS="443" WIDTH="276" HEIGHT="38">
+							<String ID="string_0" HPOS="316" VPOS="443" WIDTH="276" HEIGHT="38" WC="0.95" CONTENT="ASIAKIRJAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="30" VPOS="590" WIDTH="780" HEIGHT="221">
+					<TextBlock ID="block_1" HPOS="29" VPOS="590" WIDTH="781" HEIGHT="221">
+						<TextLine ID="line_1" HPOS="30" VPOS="590" WIDTH="780" HEIGHT="120">
+							<String ID="string_1" HPOS="30" VPOS="629" WIDTH="15" HEIGHT="81" WC="0.68" CONTENT=")"/><SP WIDTH="62" VPOS="629" HPOS="45"/>
+							<String ID="string_2" HPOS="107" VPOS="591" WIDTH="373" HEIGHT="70" WC="0.92" CONTENT="VALTIOPÄIVILTÄ"/><SP WIDTH="42" VPOS="591" HPOS="480"/>
+							<String ID="string_3" HPOS="522" VPOS="590" WIDTH="288" HEIGHT="71" WC="0.94" CONTENT="HELSINGISSÄ"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="274" VPOS="779" WIDTH="363" HEIGHT="32">
+							<String ID="string_4" HPOS="274" VPOS="779" WIDTH="140" HEIGHT="30" WC="0.93" CONTENT="vuosina"/><SP WIDTH="20" VPOS="779" HPOS="414"/>
+							<String ID="string_5" HPOS="434" VPOS="779" WIDTH="203" HEIGHT="32" WC="0.84" CONTENT="1877—1878."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="392" VPOS="1043" WIDTH="134" HEIGHT="19">
+					<TextBlock ID="block_2" HPOS="392" VPOS="1043" WIDTH="134" HEIGHT="19">
+						<TextLine ID="line_3" HPOS="392" VPOS="1043" WIDTH="134" HEIGHT="19">
+							<String ID="string_6" HPOS="392" VPOS="1043" WIDTH="81" HEIGHT="19" WC="0.96" CONTENT="Kolmas"/><SP WIDTH="12" VPOS="1043" HPOS="473"/>
+							<String ID="string_7" HPOS="485" VPOS="1048" WIDTH="41" HEIGHT="14" WC="0.96" CONTENT="osa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="219" VPOS="1477" WIDTH="478" HEIGHT="62">
+					<TextBlock ID="block_3" HPOS="219" VPOS="1477" WIDTH="478" HEIGHT="62">
+						<TextLine ID="line_4" HPOS="370" VPOS="1477" WIDTH="184" HEIGHT="25">
+							<String ID="string_8" HPOS="370" VPOS="1477" WIDTH="184" HEIGHT="25" WC="0.96" CONTENT="HELSINGISSÄ,"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="219" VPOS="1516" WIDTH="478" HEIGHT="23">
+							<String ID="string_9" HPOS="219" VPOS="1516" WIDTH="16" HEIGHT="18" WC="0.93" CONTENT="J."/><SP WIDTH="15" VPOS="1516" HPOS="235"/>
+							<String ID="string_10" HPOS="250" VPOS="1516" WIDTH="116" HEIGHT="18" WC="0.92" CONTENT="Simelius&#39;en"/><SP WIDTH="14" VPOS="1516" HPOS="366"/>
+							<String ID="string_11" HPOS="380" VPOS="1516" WIDTH="103" HEIGHT="23" WC="0.96" CONTENT="perillisten"/><SP WIDTH="12" VPOS="1516" HPOS="483"/>
+							<String ID="string_12" HPOS="495" VPOS="1517" WIDTH="140" HEIGHT="22" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="14" VPOS="1517" HPOS="635"/>
+							<String ID="string_13" HPOS="649" VPOS="1516" WIDTH="48" HEIGHT="18" WC="0.96" CONTENT="1878."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="1009" VPOS="0" WIDTH="19" HEIGHT="508"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
