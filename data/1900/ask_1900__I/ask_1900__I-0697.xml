@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_kxfp7tvr_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1764" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1764">
+				<GraphicalElement ID="cblock_0" HPOS="1098" VPOS="14" WIDTH="4" HEIGHT="477"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="264" VPOS="821" WIDTH="636" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="284" VPOS="837" WIDTH="587" HEIGHT="25">
+					<TextBlock ID="block_0" HPOS="284" VPOS="837" WIDTH="587" HEIGHT="25">
+						<TextLine ID="line_0" HPOS="284" VPOS="837" WIDTH="587" HEIGHT="25">
+							<String ID="string_0" HPOS="284" VPOS="837" WIDTH="129" HEIGHT="24" WC="0.96" CONTENT="Helsingissä"/><SP WIDTH="12" VPOS="837" HPOS="413"/>
+							<String ID="string_1" HPOS="425" VPOS="837" WIDTH="49" HEIGHT="19" WC="0.96" CONTENT="1900."/><SP WIDTH="25" VPOS="837" HPOS="474"/>
+							<String ID="string_2" HPOS="499" VPOS="838" WIDTH="108" HEIGHT="24" WC="0.93" CONTENT="Helsingin"/><SP WIDTH="12" VPOS="838" HPOS="607"/>
+							<String ID="string_3" HPOS="619" VPOS="838" WIDTH="252" HEIGHT="24" WC="0.92" CONTENT="Sentraalikirjapainossa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="257" VPOS="875" WIDTH="643" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
