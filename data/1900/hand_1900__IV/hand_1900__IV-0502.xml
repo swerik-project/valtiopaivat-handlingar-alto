@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_p9y44vxw_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1795" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1795">
+				<ComposedBlock ID="cblock_0" HPOS="445" VPOS="191" WIDTH="38" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="445" VPOS="191" WIDTH="38" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="445" VPOS="191" WIDTH="38" HEIGHT="21">
+							<String ID="string_0" HPOS="445" VPOS="191" WIDTH="38" HEIGHT="21" WC="0.95" CONTENT="XX"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="355" VPOS="553" WIDTH="223" HEIGHT="41">
+					<TextBlock ID="block_1" HPOS="355" VPOS="553" WIDTH="223" HEIGHT="41">
+						<TextLine ID="line_1" HPOS="355" VPOS="553" WIDTH="223" HEIGHT="41">
+							<String ID="string_1" HPOS="355" VPOS="553" WIDTH="223" HEIGHT="41" WC="0.96" CONTENT="Relation"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="87" VPOS="649" WIDTH="755" HEIGHT="183">
+					<TextBlock ID="block_2" HPOS="87" VPOS="649" WIDTH="755" HEIGHT="183">
+						<TextLine ID="line_2" HPOS="423" VPOS="649" WIDTH="95" HEIGHT="22">
+							<String ID="string_2" HPOS="423" VPOS="649" WIDTH="95" HEIGHT="22" WC="0.89" CONTENT="angäende"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="87" VPOS="721" WIDTH="755" HEIGHT="46">
+							<String ID="string_3" HPOS="87" VPOS="721" WIDTH="755" HEIGHT="46" WC="0.91" CONTENT="Lagmanstingsgästningsfonden"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="455" VPOS="814" WIDTH="29" HEIGHT="18">
+							<String ID="string_4" HPOS="455" VPOS="814" WIDTH="29" HEIGHT="18" WC="0.96" CONTENT="för"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="299" VPOS="881" WIDTH="341" HEIGHT="26">
+					<TextBlock ID="block_3" HPOS="299" VPOS="881" WIDTH="341" HEIGHT="26">
+						<TextLine ID="line_5" HPOS="299" VPOS="881" WIDTH="341" HEIGHT="26">
+							<String ID="string_5" HPOS="299" VPOS="881" WIDTH="96" HEIGHT="26" WC="0.92" CONTENT="Åren"/><SP WIDTH="27" VPOS="881" HPOS="395"/>
+							<String ID="string_6" HPOS="422" VPOS="891" WIDTH="218" HEIGHT="16" WC="0.60" CONTENT="1896—1898."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

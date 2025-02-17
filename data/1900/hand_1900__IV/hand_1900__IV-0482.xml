@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_k11qoo82_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1795" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1795">
+				<ComposedBlock ID="cblock_0" HPOS="445" VPOS="215" WIDTH="72" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="445" VPOS="215" WIDTH="72" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="445" VPOS="215" WIDTH="72" HEIGHT="21">
+							<String ID="string_0" HPOS="445" VPOS="215" WIDTH="72" HEIGHT="21" WC="0.95" CONTENT="XVIII"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="332" VPOS="629" WIDTH="310" HEIGHT="49">
+					<TextBlock ID="block_1" HPOS="332" VPOS="629" WIDTH="310" HEIGHT="49">
+						<TextLine ID="line_1" HPOS="332" VPOS="629" WIDTH="310" HEIGHT="49">
+							<String ID="string_1" HPOS="332" VPOS="629" WIDTH="310" HEIGHT="49" WC="0.91" CONTENT="Sammandrag"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="474" VPOS="729" WIDTH="20" HEIGHT="18">
+					<TextBlock ID="block_2" HPOS="474" VPOS="729" WIDTH="20" HEIGHT="18">
+						<TextLine ID="line_2" HPOS="474" VPOS="729" WIDTH="20" HEIGHT="18">
+							<String ID="string_2" HPOS="474" VPOS="729" WIDTH="20" HEIGHT="18" WC="0.96" CONTENT="af"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="102" VPOS="809" WIDTH="758" HEIGHT="57">
+					<TextBlock ID="block_3" HPOS="102" VPOS="809" WIDTH="758" HEIGHT="57">
+						<TextLine ID="line_3" HPOS="102" VPOS="809" WIDTH="758" HEIGHT="57">
+							<String ID="string_3" HPOS="102" VPOS="810" WIDTH="206" HEIGHT="56" WC="0.95" CONTENT="räkningarna"/><SP WIDTH="34" VPOS="810" HPOS="308"/>
+							<String ID="string_4" HPOS="342" VPOS="809" WIDTH="84" HEIGHT="45" WC="0.80" CONTENT="öfver"/><SP WIDTH="33" VPOS="809" HPOS="426"/>
+							<String ID="string_5" HPOS="459" VPOS="809" WIDTH="401" HEIGHT="57" WC="0.42" CONTENT="hevillningsmedelsfonden"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="329" VPOS="1011" WIDTH="317" HEIGHT="28">
+					<TextBlock ID="block_4" HPOS="329" VPOS="1011" WIDTH="317" HEIGHT="28">
+						<TextLine ID="line_4" HPOS="329" VPOS="1011" WIDTH="317" HEIGHT="28">
+							<String ID="string_6" HPOS="329" VPOS="1011" WIDTH="90" HEIGHT="28" WC="0.93" CONTENT="Åren"/><SP WIDTH="22" VPOS="1011" HPOS="419"/>
+							<String ID="string_7" HPOS="441" VPOS="1022" WIDTH="205" HEIGHT="17" WC="0.23" CONTENT="1896-1898."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_5" HPOS="495" VPOS="1182" WIDTH="100" HEIGHT="1"></GraphicalElement >
+				<ComposedBlock ID="cblock_6" HPOS="171" VPOS="1563" WIDTH="620" HEIGHT="18">
+					<TextBlock ID="block_5" HPOS="171" VPOS="1563" WIDTH="620" HEIGHT="18">
+						<TextLine ID="line_5" HPOS="171" VPOS="1563" WIDTH="620" HEIGHT="18">
+							<String ID="string_8" HPOS="171" VPOS="1563" WIDTH="83" HEIGHT="18" WC="0.96" CONTENT="Relation"/><SP WIDTH="12" VPOS="1563" HPOS="254"/>
+							<String ID="string_9" HPOS="266" VPOS="1563" WIDTH="75" HEIGHT="18" WC="0.94" CONTENT="XVIII."/><SP WIDTH="439" VPOS="1563" HPOS="341"/>
+							<String ID="string_10" HPOS="780" VPOS="1563" WIDTH="11" HEIGHT="17" WC="0.96" CONTENT="2"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

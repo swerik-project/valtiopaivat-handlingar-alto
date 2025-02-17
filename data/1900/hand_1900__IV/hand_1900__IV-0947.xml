@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_atbigaee_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1103" HEIGHT="1795" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1103" HEIGHT="1795">
+				<ComposedBlock ID="cblock_0" HPOS="453" VPOS="257" WIDTH="176" HEIGHT="14">
+					<TextBlock ID="block_0" HPOS="453" VPOS="257" WIDTH="176" HEIGHT="14">
+						<TextLine ID="line_0" HPOS="453" VPOS="257" WIDTH="176" HEIGHT="14">
+							<String ID="string_0" HPOS="453" VPOS="257" WIDTH="43" HEIGHT="13" WC="0.49" CONTENT="a"/><SP WIDTH="24" VPOS="257" HPOS="496"/>
+							<String ID="string_1" HPOS="520" VPOS="259" WIDTH="54" HEIGHT="12" WC="0.21" CONTENT="mak"/><SP WIDTH="37" VPOS="259" HPOS="574"/>
+							<String ID="string_2" HPOS="611" VPOS="261" WIDTH="18" HEIGHT="7" WC="0.30" CONTENT="vd"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="630" VPOS="257" WIDTH="42" HEIGHT="20"></Illustration>
+				<GraphicalElement ID="cblock_2" HPOS="391" VPOS="909" WIDTH="427" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="397" VPOS="921" WIDTH="412" HEIGHT="17">
+					<TextBlock ID="block_1" HPOS="397" VPOS="921" WIDTH="412" HEIGHT="17">
+						<TextLine ID="line_1" HPOS="397" VPOS="921" WIDTH="412" HEIGHT="17">
+							<String ID="string_3" HPOS="397" VPOS="921" WIDTH="93" HEIGHT="16" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="11" VPOS="921" HPOS="490"/>
+							<String ID="string_4" HPOS="501" VPOS="921" WIDTH="101" HEIGHT="16" WC="0.93" CONTENT="Aktiebolaget"/><SP WIDTH="10" VPOS="921" HPOS="602"/>
+							<String ID="string_5" HPOS="612" VPOS="921" WIDTH="145" HEIGHT="16" WC="0.89" CONTENT="Handelstryckeriet,"/><SP WIDTH="13" VPOS="921" HPOS="757"/>
+							<String ID="string_6" HPOS="770" VPOS="925" WIDTH="39" HEIGHT="13" WC="0.87" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="429" VPOS="946" WIDTH="390" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
