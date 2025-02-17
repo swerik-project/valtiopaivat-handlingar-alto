@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_z54wy7a3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1064" HEIGHT="1714" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1064" HEIGHT="1714">
+				<ComposedBlock ID="cblock_0" HPOS="310" VPOS="789" WIDTH="537" HEIGHT="19">
+					<TextBlock ID="block_0" HPOS="310" VPOS="789" WIDTH="537" HEIGHT="19">
+						<TextLine ID="line_0" HPOS="310" VPOS="789" WIDTH="537" HEIGHT="19">
+							<String ID="string_0" HPOS="310" VPOS="790" WIDTH="99" HEIGHT="16" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="10" VPOS="790" HPOS="409"/>
+							<String ID="string_1" HPOS="419" VPOS="790" WIDTH="82" HEIGHT="17" WC="0.92" CONTENT="Tidnings-"/><SP WIDTH="9" VPOS="790" HPOS="501"/>
+							<String ID="string_2" HPOS="510" VPOS="789" WIDTH="12" HEIGHT="15" WC="0.93" CONTENT="&amp;"/><SP WIDTH="10" VPOS="789" HPOS="522"/>
+							<String ID="string_3" HPOS="532" VPOS="791" WIDTH="187" HEIGHT="17" WC="0.91" CONTENT="Tryckeri-aktiebolagets"/><SP WIDTH="8" VPOS="791" HPOS="719"/>
+							<String ID="string_4" HPOS="727" VPOS="791" WIDTH="71" HEIGHT="16" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="10" VPOS="791" HPOS="798"/>
+							<String ID="string_5" HPOS="808" VPOS="791" WIDTH="39" HEIGHT="13" WC="0.96" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="301" VPOS="774" WIDTH="554" HEIGHT="1"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="281" VPOS="819" WIDTH="529" HEIGHT="3"></GraphicalElement >
+				<Illustration ID="cblock_3" HPOS="872" VPOS="821" WIDTH="1" HEIGHT="1"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
