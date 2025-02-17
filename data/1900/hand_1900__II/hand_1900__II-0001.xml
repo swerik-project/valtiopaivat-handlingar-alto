@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ezfc65pe_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1700" HEIGHT="1906" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1700" HEIGHT="1906">
+				<ComposedBlock ID="cblock_0" HPOS="625" VPOS="458" WIDTH="348" HEIGHT="38">
+					<TextBlock ID="block_0" HPOS="625" VPOS="458" WIDTH="348" HEIGHT="38">
+						<TextLine ID="line_0" HPOS="625" VPOS="458" WIDTH="348" HEIGHT="38">
+							<String ID="string_0" HPOS="625" VPOS="458" WIDTH="348" HEIGHT="38" WC="0.95" CONTENT="HANDLINGAR"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="386" VPOS="638" WIDTH="756" HEIGHT="72">
+					<TextBlock ID="block_1" HPOS="386" VPOS="638" WIDTH="756" HEIGHT="72">
+						<TextLine ID="line_1" HPOS="386" VPOS="638" WIDTH="756" HEIGHT="72">
+							<String ID="string_1" HPOS="386" VPOS="651" WIDTH="6" HEIGHT="9" WC="0.42" CONTENT="="/><SP WIDTH="59" VPOS="651" HPOS="392"/>
+							<String ID="string_2" HPOS="451" VPOS="638" WIDTH="301" HEIGHT="71" WC="0.85" CONTENT="LANDIDAGEN"/><SP WIDTH="36" VPOS="638" HPOS="752"/>
+							<String ID="string_3" HPOS="788" VPOS="638" WIDTH="15" HEIGHT="70" WC="0.91" CONTENT="1"/><SP WIDTH="35" VPOS="638" HPOS="803"/>
+							<String ID="string_4" HPOS="838" VPOS="638" WIDTH="304" HEIGHT="72" WC="0.83" CONTENT="HELSINGFORS"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="697" VPOS="851" WIDTH="197" HEIGHT="45">
+					<TextBlock ID="block_2" HPOS="697" VPOS="851" WIDTH="197" HEIGHT="45">
+						<TextLine ID="line_2" HPOS="697" VPOS="851" WIDTH="197" HEIGHT="45">
+							<String ID="string_5" HPOS="697" VPOS="851" WIDTH="65" HEIGHT="38" WC="0.95" CONTENT="ÄR"/><SP WIDTH="27" VPOS="851" HPOS="762"/>
+							<String ID="string_6" HPOS="789" VPOS="859" WIDTH="105" HEIGHT="37" WC="0.96" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="673" VPOS="1071" WIDTH="250" HEIGHT="21">
+					<TextBlock ID="block_3" HPOS="673" VPOS="1071" WIDTH="250" HEIGHT="21">
+						<TextLine ID="line_3" HPOS="673" VPOS="1071" WIDTH="250" HEIGHT="21">
+							<String ID="string_7" HPOS="673" VPOS="1071" WIDTH="112" HEIGHT="21" WC="0.91" CONTENT="ANDRA"/><SP WIDTH="23" VPOS="1071" HPOS="785"/>
+							<String ID="string_8" HPOS="808" VPOS="1071" WIDTH="115" HEIGHT="21" WC="0.91" CONTENT="DELEN."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="659" VPOS="1509" WIDTH="278" HEIGHT="24">
+					<TextBlock ID="block_4" HPOS="659" VPOS="1509" WIDTH="278" HEIGHT="24">
+						<TextLine ID="line_4" HPOS="659" VPOS="1509" WIDTH="278" HEIGHT="24">
+							<String ID="string_9" HPOS="659" VPOS="1510" WIDTH="188" HEIGHT="21" WC="0.96" CONTENT="HELSINGFORS"/><SP WIDTH="20" VPOS="1510" HPOS="847"/>
+							<String ID="string_10" HPOS="867" VPOS="1509" WIDTH="70" HEIGHT="24" WC="0.96" CONTENT="1900,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_5" HPOS="16" VPOS="12" WIDTH="1676" HEIGHT="1880"></Illustration>
+				<GraphicalElement ID="cblock_6" HPOS="1693" VPOS="1442" WIDTH="7" HEIGHT="464"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

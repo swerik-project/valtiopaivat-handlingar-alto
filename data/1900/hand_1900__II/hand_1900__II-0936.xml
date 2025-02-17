@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_amk9vjcb_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1720" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1720">
+				<GraphicalElement ID="cblock_0" HPOS="265" VPOS="761" WIDTH="604" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="317" VPOS="777" WIDTH="491" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="317" VPOS="777" WIDTH="491" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="317" VPOS="777" WIDTH="491" HEIGHT="24">
+							<String ID="string_0" HPOS="317" VPOS="777" WIDTH="117" HEIGHT="24" WC="0.96" CONTENT="Helsingfors"/><SP WIDTH="13" VPOS="777" HPOS="434"/>
+							<String ID="string_1" HPOS="447" VPOS="777" WIDTH="49" HEIGHT="19" WC="0.95" CONTENT="1900."/><SP WIDTH="24" VPOS="777" HPOS="496"/>
+							<String ID="string_2" HPOS="520" VPOS="777" WIDTH="115" HEIGHT="24" WC="0.83" CONTENT="Helsingfors"/><SP WIDTH="13" VPOS="777" HPOS="635"/>
+							<String ID="string_3" HPOS="648" VPOS="777" WIDTH="160" HEIGHT="23" WC="0.87" CONTENT="Centraltryckeri."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="254" VPOS="813" WIDTH="616" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="1047" VPOS="1013" WIDTH="9" HEIGHT="707"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
