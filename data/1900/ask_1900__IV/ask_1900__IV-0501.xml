@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_nb2ae79m_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1073" HEIGHT="1711" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1073" HEIGHT="1711">
+				<ComposedBlock ID="cblock_0" HPOS="321" VPOS="559" WIDTH="298" HEIGHT="40">
+					<TextBlock ID="block_0" HPOS="321" VPOS="559" WIDTH="298" HEIGHT="40">
+						<TextLine ID="line_0" HPOS="321" VPOS="559" WIDTH="298" HEIGHT="40">
+							<String ID="string_0" HPOS="321" VPOS="559" WIDTH="298" HEIGHT="40" WC="0.91" CONTENT="Yhteenveto"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="126" VPOS="653" WIDTH="687" HEIGHT="137">
+					<TextBlock ID="block_1" HPOS="126" VPOS="653" WIDTH="687" HEIGHT="137">
+						<TextLine ID="line_1" HPOS="126" VPOS="653" WIDTH="687" HEIGHT="34">
+							<String ID="string_1" HPOS="126" VPOS="653" WIDTH="135" HEIGHT="27" WC="0.96" CONTENT="eläkkeen"/><SP WIDTH="11" VPOS="653" HPOS="261"/>
+							<String ID="string_2" HPOS="272" VPOS="654" WIDTH="146" HEIGHT="26" WC="0.96" CONTENT="antamista"/><SP WIDTH="8" VPOS="654" HPOS="418"/>
+							<String ID="string_3" HPOS="426" VPOS="656" WIDTH="95" HEIGHT="24" WC="0.96" CONTENT="varten"/><SP WIDTH="8" VPOS="656" HPOS="521"/>
+							<String ID="string_4" HPOS="529" VPOS="653" WIDTH="177" HEIGHT="34" WC="0.92" CONTENT="kaupunkien"/><SP WIDTH="9" VPOS="653" HPOS="706"/>
+							<String ID="string_5" HPOS="715" VPOS="654" WIDTH="98" HEIGHT="26" WC="0.92" CONTENT="kansa-"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="186" VPOS="704" WIDTH="567" HEIGHT="34">
+							<String ID="string_6" HPOS="186" VPOS="704" WIDTH="265" HEIGHT="34" WC="0.93" CONTENT="koulun-opettajille"/><SP WIDTH="16" VPOS="704" HPOS="451"/>
+							<String ID="string_7" HPOS="467" VPOS="705" WIDTH="30" HEIGHT="33" WC="0.93" CONTENT="ja"/><SP WIDTH="18" VPOS="705" HPOS="497"/>
+							<String ID="string_8" HPOS="515" VPOS="704" WIDTH="238" HEIGHT="34" WC="0.92" CONTENT="-opettajattarille"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="170" VPOS="749" WIDTH="515" HEIGHT="41">
+							<String ID="string_9" HPOS="170" VPOS="749" WIDTH="1" HEIGHT="3" WC="0.76" CONTENT="|"/><SP WIDTH="83" VPOS="749" HPOS="171"/>
+							<String ID="string_10" HPOS="254" VPOS="759" WIDTH="157" HEIGHT="31" WC="0.91" CONTENT="perustetun"/><SP WIDTH="18" VPOS="759" HPOS="411"/>
+							<String ID="string_11" HPOS="429" VPOS="758" WIDTH="130" HEIGHT="27" WC="0.92" CONTENT="rahaston"/><SP WIDTH="17" VPOS="758" HPOS="559"/>
+							<String ID="string_12" HPOS="576" VPOS="757" WIDTH="109" HEIGHT="27" WC="0.91" CONTENT="tileistä"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="314" VPOS="842" WIDTH="311" HEIGHT="19">
+					<TextBlock ID="block_2" HPOS="314" VPOS="842" WIDTH="311" HEIGHT="19">
+						<TextLine ID="line_4" HPOS="314" VPOS="842" WIDTH="311" HEIGHT="19">
+							<String ID="string_13" HPOS="314" VPOS="842" WIDTH="125" HEIGHT="19" WC="0.91" CONTENT="Vuosilta"/><SP WIDTH="18" VPOS="842" HPOS="439"/>
+							<String ID="string_14" HPOS="457" VPOS="844" WIDTH="168" HEIGHT="17" WC="0.67" CONTENT="1896—1898."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

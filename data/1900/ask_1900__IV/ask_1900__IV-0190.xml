@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_idktclls_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1073" HEIGHT="1709" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1073" HEIGHT="1709">
+				<ComposedBlock ID="cblock_0" HPOS="601" VPOS="244" WIDTH="108" HEIGHT="20">
+					<TextBlock ID="block_0" HPOS="601" VPOS="244" WIDTH="108" HEIGHT="20">
+						<TextLine ID="line_0" HPOS="601" VPOS="244" WIDTH="108" HEIGHT="20">
+							<String ID="string_0" HPOS="601" VPOS="244" WIDTH="46" HEIGHT="18" WC="0.88" CONTENT="V:na"/><SP WIDTH="13" VPOS="244" HPOS="647"/>
+							<String ID="string_1" HPOS="660" VPOS="246" WIDTH="49" HEIGHT="18" WC="0.95" CONTENT="1895,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="190" VPOS="217" WIDTH="857" HEIGHT="76"></Illustration>
+				<GraphicalElement ID="cblock_2" HPOS="578" VPOS="285" WIDTH="456" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="147" VPOS="228" WIDTH="10" HEIGHT="1282"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="569" VPOS="228" WIDTH="7" HEIGHT="1286"></GraphicalElement >
+				<GraphicalElement ID="cblock_5" HPOS="689" VPOS="338" WIDTH="7" HEIGHT="1176"></GraphicalElement >
+				<ComposedBlock ID="cblock_6" HPOS="703" VPOS="304" WIDTH="18" HEIGHT="14">
+					<TextBlock ID="block_1" HPOS="703" VPOS="304" WIDTH="18" HEIGHT="14">
+						<TextLine ID="line_1" HPOS="703" VPOS="304" WIDTH="18" HEIGHT="14">
+							<String ID="string_2" HPOS="703" VPOS="304" WIDTH="18" HEIGHT="14" WC="0.71" CONTENT="ra"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_7" HPOS="723" VPOS="293" WIDTH="49" HEIGHT="36"></Illustration>
+				<Illustration ID="cblock_8" HPOS="724" VPOS="329" WIDTH="165" HEIGHT="6"></Illustration>
+				<GraphicalElement ID="cblock_9" HPOS="624" VPOS="330" WIDTH="411" HEIGHT="7"></GraphicalElement >
+				<ComposedBlock ID="cblock_10" HPOS="704" VPOS="372" WIDTH="141" HEIGHT="21">
+					<TextBlock ID="block_2" HPOS="704" VPOS="372" WIDTH="141" HEIGHT="21">
+						<TextLine ID="line_2" HPOS="704" VPOS="372" WIDTH="141" HEIGHT="21">
+							<String ID="string_3" HPOS="704" VPOS="372" WIDTH="141" HEIGHT="21" WC="0.65" CONTENT="35/104,494,049"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_11" HPOS="425" VPOS="1473" WIDTH="604" HEIGHT="9">
+					<TextBlock ID="block_3" HPOS="425" VPOS="1473" WIDTH="604" HEIGHT="9">
+						<TextLine ID="line_3" HPOS="425" VPOS="1473" WIDTH="604" HEIGHT="9">
+							<String ID="string_4" HPOS="425" VPOS="1473" WIDTH="604" HEIGHT="9" WC="0.7" CONTENT="—si..-———n10&quot;0n&quot;"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_12" HPOS="699" VPOS="1480" WIDTH="141" HEIGHT="35">
+					<TextBlock ID="block_4" HPOS="699" VPOS="1480" WIDTH="141" HEIGHT="35">
+						<TextLine ID="line_4" HPOS="699" VPOS="1480" WIDTH="141" HEIGHT="35">
+							<String ID="string_5" HPOS="699" VPOS="1480" WIDTH="141" HEIGHT="35" WC="0.66" CONTENT="35]104,494,049"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_13" HPOS="1032" VPOS="227" WIDTH="8" HEIGHT="1286"></GraphicalElement >
+				<GraphicalElement ID="cblock_14" HPOS="998" VPOS="339" WIDTH="7" HEIGHT="1172"></GraphicalElement >
+				<GraphicalElement ID="cblock_15" HPOS="843" VPOS="338" WIDTH="7" HEIGHT="1178"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ndy6juz9_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1092" HEIGHT="1717" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1092" HEIGHT="1717">
+				<Illustration ID="cblock_0" HPOS="965" VPOS="0" WIDTH="104" HEIGHT="69"></Illustration>
+				<ComposedBlock ID="cblock_1" HPOS="211" VPOS="785" WIDTH="443" HEIGHT="79">
+					<TextBlock ID="block_0" HPOS="211" VPOS="785" WIDTH="443" HEIGHT="79">
+						<TextLine ID="line_0" HPOS="211" VPOS="785" WIDTH="443" HEIGHT="79">
+							<String ID="string_0" HPOS="211" VPOS="785" WIDTH="214" HEIGHT="79" WC="0.96" CONTENT="YLEISIÄ"/><SP WIDTH="36" VPOS="785" HPOS="425"/>
+							<String ID="string_1" HPOS="461" VPOS="785" WIDTH="193" HEIGHT="70" WC="0.96" CONTENT="TILEJÄ."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
