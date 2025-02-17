@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_u0zmejs0_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1048" HEIGHT="1731" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1048" HEIGHT="1731">
+				<GraphicalElement ID="cblock_0" HPOS="315" VPOS="830" WIDTH="443" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="315" VPOS="841" WIDTH="502" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="315" VPOS="841" WIDTH="502" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="315" VPOS="841" WIDTH="502" HEIGHT="24">
+							<String ID="string_0" HPOS="315" VPOS="841" WIDTH="89" HEIGHT="19" WC="0.96" CONTENT="Helsinki"/><SP WIDTH="13" VPOS="841" HPOS="404"/>
+							<String ID="string_1" HPOS="417" VPOS="842" WIDTH="52" HEIGHT="18" WC="0.93" CONTENT="1900."/><SP WIDTH="24" VPOS="842" HPOS="469"/>
+							<String ID="string_2" HPOS="493" VPOS="842" WIDTH="117" HEIGHT="23" WC="0.89" CONTENT="Osakeyhtiö"/><SP WIDTH="12" VPOS="842" HPOS="610"/>
+							<String ID="string_3" HPOS="622" VPOS="842" WIDTH="195" HEIGHT="23" WC="0.91" CONTENT="Kauppakirjapaino,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="315" VPOS="873" WIDTH="497" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
