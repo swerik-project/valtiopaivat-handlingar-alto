@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_wxz3xzqp_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1048" HEIGHT="1631" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1048" HEIGHT="1631">
+				<ComposedBlock ID="cblock_0" HPOS="365" VPOS="176" WIDTH="577" HEIGHT="16">
+					<TextBlock ID="block_0" HPOS="365" VPOS="173" WIDTH="577" HEIGHT="19">
+						<TextLine ID="line_0" HPOS="365" VPOS="176" WIDTH="577" HEIGHT="16">
+							<String ID="string_0" HPOS="365" VPOS="173" WIDTH="102" HEIGHT="13" WC="0.0" CONTENT="UMA"/><SP WIDTH="51" VPOS="173" HPOS="467"/>
+							<String ID="string_1" HPOS="518" VPOS="179" WIDTH="15" HEIGHT="8" WC="0.50" CONTENT="en"/><SP WIDTH="32" VPOS="179" HPOS="533"/>
+							<String ID="string_2" HPOS="565" VPOS="179" WIDTH="14" HEIGHT="6" WC="0.19" CONTENT="vaa"/><SP WIDTH="38" VPOS="179" HPOS="579"/>
+							<String ID="string_3" HPOS="617" VPOS="178" WIDTH="150" HEIGHT="13" WC="0.16" CONTENT="EI"/><SP WIDTH="22" VPOS="178" HPOS="767"/>
+							<String ID="string_4" HPOS="789" VPOS="178" WIDTH="109" HEIGHT="14" WC="0.21" CONTENT="KANE"/><SP WIDTH="23" VPOS="178" HPOS="898"/>
+							<String ID="string_5" HPOS="921" VPOS="176" WIDTH="21" HEIGHT="14" WC="0.23" CONTENT="sd."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="333" VPOS="740" WIDTH="508" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="327" VPOS="763" WIDTH="501" HEIGHT="24">
+					<TextBlock ID="block_1" HPOS="327" VPOS="763" WIDTH="501" HEIGHT="24">
+						<TextLine ID="line_1" HPOS="327" VPOS="763" WIDTH="501" HEIGHT="24">
+							<String ID="string_6" HPOS="327" VPOS="763" WIDTH="121" HEIGHT="23" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="12" VPOS="763" HPOS="448"/>
+							<String ID="string_7" HPOS="460" VPOS="763" WIDTH="104" HEIGHT="24" WC="0.93" CONTENT="Kejserliga"/><SP WIDTH="12" VPOS="763" HPOS="564"/>
+							<String ID="string_8" HPOS="576" VPOS="763" WIDTH="90" HEIGHT="18" WC="0.93" CONTENT="Senatens"/><SP WIDTH="11" VPOS="763" HPOS="666"/>
+							<String ID="string_9" HPOS="677" VPOS="763" WIDTH="87" HEIGHT="23" WC="0.93" CONTENT="tryckeri,"/><SP WIDTH="13" VPOS="763" HPOS="764"/>
+							<String ID="string_10" HPOS="777" VPOS="763" WIDTH="51" HEIGHT="18" WC="0.95" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="325" VPOS="805" WIDTH="517" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

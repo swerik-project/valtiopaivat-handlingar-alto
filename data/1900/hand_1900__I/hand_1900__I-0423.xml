@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_s0p_rg56_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1048" HEIGHT="1631" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1048" HEIGHT="1631">
+				<ComposedBlock ID="cblock_0" HPOS="214" VPOS="171" WIDTH="673" HEIGHT="20">
+					<TextBlock ID="block_0" HPOS="214" VPOS="171" WIDTH="673" HEIGHT="20">
+						<TextLine ID="line_0" HPOS="214" VPOS="171" WIDTH="673" HEIGHT="20">
+							<String ID="string_0" HPOS="214" VPOS="174" WIDTH="23" HEIGHT="7" WC="0.47" CONTENT="vo"/><SP WIDTH="8" VPOS="174" HPOS="237"/>
+							<String ID="string_1" HPOS="245" VPOS="171" WIDTH="59" HEIGHT="11" WC="0.0" CONTENT="därest"/><SP WIDTH="22" VPOS="171" HPOS="304"/>
+							<String ID="string_2" HPOS="326" VPOS="172" WIDTH="89" HEIGHT="12" WC="0.8" CONTENT="RIP"/><SP WIDTH="-15" VPOS="172" HPOS="415"/>
+							<String ID="string_3" HPOS="400" VPOS="167" WIDTH="19" HEIGHT="28" WC="0.36" CONTENT="IR"/><SP WIDTH="11" VPOS="167" HPOS="419"/>
+							<String ID="string_4" HPOS="430" VPOS="175" WIDTH="8" HEIGHT="8" WC="0.0" CONTENT="AS"/><SP WIDTH="13" VPOS="175" HPOS="438"/>
+							<String ID="string_5" HPOS="451" VPOS="174" WIDTH="66" HEIGHT="11" WC="0.0" CONTENT="sassala"/><SP WIDTH="19" VPOS="174" HPOS="517"/>
+							<String ID="string_6" HPOS="536" VPOS="175" WIDTH="19" HEIGHT="11" WC="0.79" CONTENT="12."/><SP WIDTH="17" VPOS="175" HPOS="555"/>
+							<String ID="string_7" HPOS="572" VPOS="175" WIDTH="65" HEIGHT="13" WC="0.0" CONTENT="Judas"/><SP WIDTH="20" VPOS="175" HPOS="637"/>
+							<String ID="string_8" HPOS="657" VPOS="176" WIDTH="23" HEIGHT="14" WC="0.14" CONTENT="114"/><SP WIDTH="19" VPOS="176" HPOS="680"/>
+							<String ID="string_9" HPOS="699" VPOS="176" WIDTH="44" HEIGHT="11" WC="0.25" CONTENT="MZ"/><SP WIDTH="18" VPOS="176" HPOS="743"/>
+							<String ID="string_10" HPOS="761" VPOS="174" WIDTH="126" HEIGHT="17" WC="0.0" CONTENT="pogllaites"/><SP WIDTH="-49" VPOS="174" HPOS="887"/>
+							<String ID="string_11" HPOS="838" VPOS="167" WIDTH="22" HEIGHT="28" WC="0.21" CONTENT="sec"/><SP WIDTH="6" VPOS="167" HPOS="860"/>
+							<String ID="string_12" HPOS="866" VPOS="167" WIDTH="25" HEIGHT="28" WC="0.0" CONTENT="inå"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="301" VPOS="726" WIDTH="542" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="323" VPOS="748" WIDTH="504" HEIGHT="23">
+					<TextBlock ID="block_1" HPOS="323" VPOS="748" WIDTH="504" HEIGHT="23">
+						<TextLine ID="line_1" HPOS="323" VPOS="748" WIDTH="504" HEIGHT="23">
+							<String ID="string_13" HPOS="323" VPOS="748" WIDTH="122" HEIGHT="23" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="12" VPOS="748" HPOS="445"/>
+							<String ID="string_14" HPOS="457" VPOS="748" WIDTH="106" HEIGHT="23" WC="0.93" CONTENT="Kejserliga"/><SP WIDTH="12" VPOS="748" HPOS="563"/>
+							<String ID="string_15" HPOS="575" VPOS="748" WIDTH="91" HEIGHT="19" WC="0.92" CONTENT="Seuatens"/><SP WIDTH="11" VPOS="748" HPOS="666"/>
+							<String ID="string_16" HPOS="677" VPOS="748" WIDTH="88" HEIGHT="23" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="14" VPOS="748" HPOS="765"/>
+							<String ID="string_17" HPOS="779" VPOS="749" WIDTH="48" HEIGHT="17" WC="0.96" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="303" VPOS="790" WIDTH="422" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
