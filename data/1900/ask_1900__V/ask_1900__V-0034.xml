@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_3z7ie794_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1686" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1686">
+				<ComposedBlock ID="cblock_0" HPOS="292" VPOS="807" WIDTH="549" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="292" VPOS="807" WIDTH="549" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="292" VPOS="807" WIDTH="549" HEIGHT="32">
+							<String ID="string_0" HPOS="292" VPOS="807" WIDTH="10" HEIGHT="2" WC="0.59" CONTENT="—"/><SP WIDTH="6" VPOS="807" HPOS="302"/>
+							<String ID="string_1" HPOS="308" VPOS="807" WIDTH="115" HEIGHT="32" WC="0.94" CONTENT="Helsingissä"/><SP WIDTH="13" VPOS="807" HPOS="423"/>
+							<String ID="string_2" HPOS="436" VPOS="808" WIDTH="64" HEIGHT="27" WC="0.96" CONTENT="1900."/><SP WIDTH="6" VPOS="808" HPOS="500"/>
+							<String ID="string_3" HPOS="506" VPOS="808" WIDTH="99" HEIGHT="31" WC="0.93" CONTENT="Helsingin"/><SP WIDTH="12" VPOS="808" HPOS="605"/>
+							<String ID="string_4" HPOS="617" VPOS="807" WIDTH="224" HEIGHT="32" WC="0.60" CONTENT="Sentraalikirjapainossa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="416" VPOS="807" WIDTH="410" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="345" VPOS="848" WIDTH="477" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

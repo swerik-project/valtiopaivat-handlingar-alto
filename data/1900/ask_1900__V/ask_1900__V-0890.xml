@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_iufgt21p_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1686" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1686">
+				<ComposedBlock ID="cblock_0" HPOS="323" VPOS="773" WIDTH="533" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="323" VPOS="773" WIDTH="533" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="323" VPOS="773" WIDTH="533" HEIGHT="18">
+							<String ID="string_0" HPOS="323" VPOS="773" WIDTH="102" HEIGHT="17" WC="0.90" CONTENT="Helsingissä,"/><SP WIDTH="10" VPOS="773" HPOS="425"/>
+							<String ID="string_1" HPOS="435" VPOS="774" WIDTH="78" HEIGHT="13" WC="0.90" CONTENT="Sanomal."/><SP WIDTH="9" VPOS="774" HPOS="513"/>
+							<String ID="string_2" HPOS="522" VPOS="774" WIDTH="17" HEIGHT="16" WC="0.93" CONTENT="ja"/><SP WIDTH="9" VPOS="774" HPOS="539"/>
+							<String ID="string_3" HPOS="548" VPOS="774" WIDTH="161" HEIGHT="17" WC="0.91" CONTENT="kirjap.-osakeyhtiön"/><SP WIDTH="11" VPOS="774" HPOS="709"/>
+							<String ID="string_4" HPOS="720" VPOS="775" WIDTH="88" HEIGHT="16" WC="0.96" CONTENT="kirjapaino"/><SP WIDTH="11" VPOS="775" HPOS="808"/>
+							<String ID="string_5" HPOS="819" VPOS="774" WIDTH="37" HEIGHT="13" WC="0.96" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

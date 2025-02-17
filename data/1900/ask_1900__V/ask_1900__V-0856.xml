@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_1aofd960_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1686" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1686">
+				<GraphicalElement ID="cblock_0" HPOS="388" VPOS="747" WIDTH="359" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="334" VPOS="753" WIDTH="468" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="371" VPOS="769" WIDTH="392" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="371" VPOS="769" WIDTH="392" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="371" VPOS="769" WIDTH="392" HEIGHT="18">
+							<String ID="string_0" HPOS="371" VPOS="770" WIDTH="80" HEIGHT="17" WC="0.93" CONTENT="Helsinki,"/><SP WIDTH="11" VPOS="770" HPOS="451"/>
+							<String ID="string_1" HPOS="462" VPOS="770" WIDTH="92" HEIGHT="17" WC="0.91" CONTENT="Osakeyhtiö"/><SP WIDTH="11" VPOS="770" HPOS="554"/>
+							<String ID="string_2" HPOS="565" VPOS="769" WIDTH="147" HEIGHT="18" WC="0.90" CONTENT="Kauppakirjapaino"/><SP WIDTH="10" VPOS="769" HPOS="712"/>
+							<String ID="string_3" HPOS="722" VPOS="769" WIDTH="41" HEIGHT="14" WC="0.96" CONTENT="1900."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="334" VPOS="801" WIDTH="468" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="388" VPOS="808" WIDTH="359" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
