@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0stp9yga_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1078" HEIGHT="1748" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1078" HEIGHT="1748">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="26" WIDTH="7" HEIGHT="486"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="234" VPOS="764" WIDTH="754" HEIGHT="15"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="318" VPOS="785" WIDTH="590" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="318" VPOS="785" WIDTH="590" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="318" VPOS="785" WIDTH="590" HEIGHT="18">
+							<String ID="string_0" HPOS="318" VPOS="785" WIDTH="103" HEIGHT="18" WC="0.85" CONTENT="Helsingissä,"/><SP WIDTH="10" VPOS="785" HPOS="421"/>
+							<String ID="string_1" HPOS="431" VPOS="786" WIDTH="66" HEIGHT="13" WC="0.90" CONTENT="Suomal."/><SP WIDTH="11" VPOS="786" HPOS="497"/>
+							<String ID="string_2" HPOS="508" VPOS="786" WIDTH="73" HEIGHT="17" WC="0.91" CONTENT="Kirjallis."/><SP WIDTH="12" VPOS="786" HPOS="581"/>
+							<String ID="string_3" HPOS="593" VPOS="786" WIDTH="57" HEIGHT="14" WC="0.96" CONTENT="Seuran"/><SP WIDTH="10" VPOS="786" HPOS="650"/>
+							<String ID="string_4" HPOS="660" VPOS="786" WIDTH="96" HEIGHT="17" WC="0.96" CONTENT="kirjapainon"/><SP WIDTH="9" VPOS="786" HPOS="756"/>
+							<String ID="string_5" HPOS="765" VPOS="787" WIDTH="94" HEIGHT="16" WC="0.96" CONTENT="osakeyhtiö,"/><SP WIDTH="10" VPOS="787" HPOS="859"/>
+							<String ID="string_6" HPOS="869" VPOS="787" WIDTH="39" HEIGHT="14" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="236" VPOS="810" WIDTH="751" HEIGHT="15"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="0" VPOS="768" WIDTH="10" HEIGHT="953"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
