@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_dksb_t87_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1050" HEIGHT="1714" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1050" HEIGHT="1714">
+				<GraphicalElement ID="cblock_0" HPOS="311" VPOS="711" WIDTH="546" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="354" VPOS="711" WIDTH="298" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="354" VPOS="711" WIDTH="298" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="354" VPOS="711" WIDTH="298" HEIGHT="32">
+							<String ID="string_0" HPOS="354" VPOS="711" WIDTH="108" HEIGHT="32" WC="0.95" CONTENT="Helsingfors"/><SP WIDTH="14" VPOS="711" HPOS="462"/>
+							<String ID="string_1" HPOS="476" VPOS="711" WIDTH="63" HEIGHT="27" WC="0.89" CONTENT="1897."/><SP WIDTH="4" VPOS="711" HPOS="539"/>
+							<String ID="string_2" HPOS="543" VPOS="711" WIDTH="109" HEIGHT="32" WC="0.95" CONTENT="Helsingfors"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="640" VPOS="710" WIDTH="18" HEIGHT="32"></Illustration>
+				<ComposedBlock ID="cblock_3" HPOS="666" VPOS="707" WIDTH="150" HEIGHT="40">
+					<TextBlock ID="block_1" HPOS="666" VPOS="707" WIDTH="150" HEIGHT="40">
+						<TextLine ID="line_1" HPOS="666" VPOS="707" WIDTH="150" HEIGHT="40">
+							<String ID="string_3" HPOS="666" VPOS="707" WIDTH="150" HEIGHT="40" WC="0.92" CONTENT="Centraltryckeri."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="310" VPOS="751" WIDTH="548" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

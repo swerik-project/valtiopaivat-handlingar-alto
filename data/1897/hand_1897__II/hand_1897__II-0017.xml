@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_mt4y_xa3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1061" HEIGHT="1728" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1061" HEIGHT="1728">
+				<GraphicalElement ID="cblock_0" HPOS="249" VPOS="780" WIDTH="678" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="347" VPOS="796" WIDTH="480" HEIGHT="17">
+					<TextBlock ID="block_0" HPOS="347" VPOS="796" WIDTH="480" HEIGHT="17">
+						<TextLine ID="line_0" HPOS="347" VPOS="796" WIDTH="480" HEIGHT="17">
+							<String ID="string_0" HPOS="347" VPOS="796" WIDTH="101" HEIGHT="17" WC="0.95" CONTENT="Helsingfors,"/><SP WIDTH="11" VPOS="796" HPOS="448"/>
+							<String ID="string_1" HPOS="459" VPOS="797" WIDTH="56" HEIGHT="13" WC="0.93" CONTENT="Finska"/><SP WIDTH="9" VPOS="797" HPOS="515"/>
+							<String ID="string_2" HPOS="524" VPOS="796" WIDTH="173" HEIGHT="17" WC="0.92" CONTENT="Litteratursällskapets"/><SP WIDTH="9" VPOS="796" HPOS="697"/>
+							<String ID="string_3" HPOS="706" VPOS="797" WIDTH="72" HEIGHT="16" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="10" VPOS="797" HPOS="778"/>
+							<String ID="string_4" HPOS="788" VPOS="797" WIDTH="39" HEIGHT="13" WC="0.90" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="250" VPOS="826" WIDTH="677" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
