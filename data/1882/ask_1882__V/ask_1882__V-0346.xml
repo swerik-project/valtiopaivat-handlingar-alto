@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_fkv72oqn_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1073" HEIGHT="1739" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1073" HEIGHT="1739">
+				<GraphicalElement ID="cblock_0" HPOS="262" VPOS="777" WIDTH="701" HEIGHT="5"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="304" VPOS="800" WIDTH="566" HEIGHT="25">
+					<TextBlock ID="block_0" HPOS="304" VPOS="800" WIDTH="566" HEIGHT="25">
+						<TextLine ID="line_0" HPOS="304" VPOS="800" WIDTH="566" HEIGHT="25">
+							<String ID="string_0" HPOS="304" VPOS="802" WIDTH="126" HEIGHT="23" WC="0.82" CONTENT="Helsingissä,"/><SP WIDTH="14" VPOS="802" HPOS="430"/>
+							<String ID="string_1" HPOS="444" VPOS="800" WIDTH="205" HEIGHT="18" WC="0.84" CONTENT="Hufvudstadsblad&#39;in"/><SP WIDTH="13" VPOS="800" HPOS="649"/>
+							<String ID="string_2" HPOS="662" VPOS="801" WIDTH="145" HEIGHT="22" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="15" VPOS="801" HPOS="807"/>
+							<String ID="string_3" HPOS="822" VPOS="801" WIDTH="48" HEIGHT="17" WC="0.93" CONTENT="1882."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="204" VPOS="840" WIDTH="330" HEIGHT="9"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
