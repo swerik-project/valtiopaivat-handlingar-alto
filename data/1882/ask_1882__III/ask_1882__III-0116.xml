@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_aa471264_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1123" HEIGHT="1739" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1123" HEIGHT="1739">
+				<GraphicalElement ID="cblock_0" HPOS="291" VPOS="733" WIDTH="686" HEIGHT="4"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="349" VPOS="752" WIDTH="582" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="349" VPOS="752" WIDTH="582" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="349" VPOS="752" WIDTH="582" HEIGHT="32">
+							<String ID="string_0" HPOS="349" VPOS="752" WIDTH="139" HEIGHT="32" WC="0.73" CONTENT="Halsingissä,"/><SP WIDTH="8" VPOS="752" HPOS="488"/>
+							<String ID="string_1" HPOS="496" VPOS="755" WIDTH="211" HEIGHT="18" WC="0.90" CONTENT="Hutvudstadsblad&#39;in"/><SP WIDTH="13" VPOS="755" HPOS="707"/>
+							<String ID="string_2" HPOS="720" VPOS="757" WIDTH="147" HEIGHT="23" WC="0.40" CONTENT="kirjapainossa,"/><SP WIDTH="14" VPOS="757" HPOS="867"/>
+							<String ID="string_3" HPOS="881" VPOS="756" WIDTH="50" HEIGHT="19" WC="0.90" CONTENT="1882."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="295" VPOS="796" WIDTH="687" HEIGHT="4"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

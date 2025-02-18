@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_o7dukxia_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1114" HEIGHT="1748" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1114" HEIGHT="1748">
+				<ComposedBlock ID="cblock_0" HPOS="319" VPOS="368" WIDTH="308" HEIGHT="42">
+					<TextBlock ID="block_0" HPOS="319" VPOS="368" WIDTH="308" HEIGHT="42">
+						<TextLine ID="line_0" HPOS="319" VPOS="368" WIDTH="308" HEIGHT="42">
+							<String ID="string_0" HPOS="319" VPOS="368" WIDTH="308" HEIGHT="42" WC="0.96" CONTENT="ASIAKIRJAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="97" VPOS="528" WIDTH="751" HEIGHT="82">
+					<TextBlock ID="block_1" HPOS="97" VPOS="528" WIDTH="751" HEIGHT="82">
+						<TextLine ID="line_1" HPOS="97" VPOS="528" WIDTH="751" HEIGHT="82">
+							<String ID="string_1" HPOS="97" VPOS="529" WIDTH="394" HEIGHT="81" WC="0.88" CONTENT="VALTIOPÄIVILTÄ"/><SP WIDTH="33" VPOS="529" HPOS="491"/>
+							<String ID="string_2" HPOS="524" VPOS="528" WIDTH="324" HEIGHT="81" WC="0.39" CONTENT="HELSINGISSÄ"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="243" VPOS="1457" WIDTH="469" HEIGHT="23">
+					<TextBlock ID="block_2" HPOS="243" VPOS="1457" WIDTH="469" HEIGHT="23">
+						<TextLine ID="line_2" HPOS="243" VPOS="1457" WIDTH="469" HEIGHT="23">
+							<String ID="string_3" HPOS="243" VPOS="1458" WIDTH="17" HEIGHT="17" WC="0.88" CONTENT="J."/><SP WIDTH="15" VPOS="1458" HPOS="260"/>
+							<String ID="string_4" HPOS="275" VPOS="1457" WIDTH="117" HEIGHT="19" WC="0.90" CONTENT="Simeliuksen"/><SP WIDTH="13" VPOS="1457" HPOS="392"/>
+							<String ID="string_5" HPOS="405" VPOS="1458" WIDTH="95" HEIGHT="22" WC="0.95" CONTENT="perillisten"/><SP WIDTH="13" VPOS="1458" HPOS="500"/>
+							<String ID="string_6" HPOS="513" VPOS="1458" WIDTH="133" HEIGHT="22" WC="0.96" CONTENT="kirjapainossa,"/><SP WIDTH="16" VPOS="1458" HPOS="646"/>
+							<String ID="string_7" HPOS="662" VPOS="1459" WIDTH="50" HEIGHT="16" WC="0.96" CONTENT="1883."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
