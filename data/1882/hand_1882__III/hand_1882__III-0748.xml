@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_nmcei2q7_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1070" HEIGHT="1698" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1070" HEIGHT="1698">
+				<GraphicalElement ID="cblock_0" HPOS="287" VPOS="813" WIDTH="615" HEIGHT="16"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="381" VPOS="834" WIDTH="427" HEIGHT="30">
+					<TextBlock ID="block_0" HPOS="381" VPOS="834" WIDTH="427" HEIGHT="30">
+						<TextLine ID="line_0" HPOS="381" VPOS="834" WIDTH="427" HEIGHT="30">
+							<String ID="string_0" HPOS="381" VPOS="841" WIDTH="117" HEIGHT="23" WC="0.92" CONTENT="Helsingfors,"/><SP WIDTH="13" VPOS="841" HPOS="498"/>
+							<String ID="string_1" HPOS="511" VPOS="839" WIDTH="17" HEIGHT="19" WC="0.89" CONTENT="J."/><SP WIDTH="12" VPOS="839" HPOS="528"/>
+							<String ID="string_2" HPOS="540" VPOS="839" WIDTH="19" HEIGHT="17" WC="0.87" CONTENT="C."/><SP WIDTH="13" VPOS="839" HPOS="559"/>
+							<String ID="string_3" HPOS="572" VPOS="837" WIDTH="93" HEIGHT="19" WC="0.92" CONTENT="Frenckell"/><SP WIDTH="12" VPOS="837" HPOS="665"/>
+							<String ID="string_4" HPOS="677" VPOS="837" WIDTH="15" HEIGHT="16" WC="0.93" CONTENT="&amp;"/><SP WIDTH="12" VPOS="837" HPOS="692"/>
+							<String ID="string_5" HPOS="704" VPOS="835" WIDTH="41" HEIGHT="20" WC="0.95" CONTENT="Son,"/><SP WIDTH="14" VPOS="835" HPOS="745"/>
+							<String ID="string_6" HPOS="759" VPOS="834" WIDTH="49" HEIGHT="18" WC="0.95" CONTENT="1882."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

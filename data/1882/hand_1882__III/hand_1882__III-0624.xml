@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_wddoku0p_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1692">
+				<ComposedBlock ID="cblock_0" HPOS="539" VPOS="776" WIDTH="171" HEIGHT="9">
+					<TextBlock ID="block_0" HPOS="539" VPOS="776" WIDTH="171" HEIGHT="9">
+						<TextLine ID="line_0" HPOS="539" VPOS="776" WIDTH="171" HEIGHT="9">
+							<String ID="string_0" HPOS="535" VPOS="765" WIDTH="38" HEIGHT="28" WC="0.66" CONTENT="—"/><SP WIDTH="-34" VPOS="765" HPOS="573"/>
+							<String ID="string_1" HPOS="539" VPOS="776" WIDTH="171" HEIGHT="9" WC="0.47" CONTENT="n"/><SP WIDTH="-24" VPOS="776" HPOS="710"/>
+							<String ID="string_2" HPOS="686" VPOS="765" WIDTH="27" HEIGHT="28" WC="0.47" CONTENT="&quot;5&quot;"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="368" VPOS="801" WIDTH="528" HEIGHT="33">
+					<TextBlock ID="block_1" HPOS="368" VPOS="801" WIDTH="528" HEIGHT="33">
+						<TextLine ID="line_1" HPOS="368" VPOS="801" WIDTH="528" HEIGHT="33">
+							<String ID="string_3" HPOS="368" VPOS="811" WIDTH="122" HEIGHT="23" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="13" VPOS="811" HPOS="490"/>
+							<String ID="string_4" HPOS="503" VPOS="810" WIDTH="11" HEIGHT="17" WC="0.90" CONTENT="&amp;"/><SP WIDTH="13" VPOS="810" HPOS="514"/>
+							<String ID="string_5" HPOS="527" VPOS="808" WIDTH="104" HEIGHT="24" WC="0.93" CONTENT="Kejserliga"/><SP WIDTH="13" VPOS="808" HPOS="631"/>
+							<String ID="string_6" HPOS="644" VPOS="807" WIDTH="90" HEIGHT="17" WC="0.93" CONTENT="Senatens"/><SP WIDTH="13" VPOS="807" HPOS="734"/>
+							<String ID="string_7" HPOS="747" VPOS="802" WIDTH="86" HEIGHT="24" WC="0.93" CONTENT="tryckeri,"/><SP WIDTH="15" VPOS="802" HPOS="833"/>
+							<String ID="string_8" HPOS="848" VPOS="801" WIDTH="48" HEIGHT="17" WC="0.96" CONTENT="1882."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="540" VPOS="852" WIDTH="172" HEIGHT="8"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

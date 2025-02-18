@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_o546mb3f_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1034" HEIGHT="1673" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1034" HEIGHT="1673">
+				<ComposedBlock ID="cblock_0" HPOS="292" VPOS="753" WIDTH="528" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="292" VPOS="753" WIDTH="528" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="292" VPOS="753" WIDTH="528" HEIGHT="24">
+							<String ID="string_0" HPOS="292" VPOS="753" WIDTH="121" HEIGHT="23" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="14" VPOS="753" HPOS="413"/>
+							<String ID="string_1" HPOS="427" VPOS="754" WIDTH="10" HEIGHT="17" WC="0.92" CONTENT="&amp;"/><SP WIDTH="14" VPOS="754" HPOS="437"/>
+							<String ID="string_2" HPOS="451" VPOS="754" WIDTH="104" HEIGHT="23" WC="0.93" CONTENT="Kejserliga"/><SP WIDTH="13" VPOS="754" HPOS="555"/>
+							<String ID="string_3" HPOS="568" VPOS="754" WIDTH="89" HEIGHT="18" WC="0.93" CONTENT="Senatens"/><SP WIDTH="13" VPOS="754" HPOS="657"/>
+							<String ID="string_4" HPOS="670" VPOS="754" WIDTH="86" HEIGHT="23" WC="0.79" CONTENT="tryekeri,"/><SP WIDTH="15" VPOS="754" HPOS="756"/>
+							<String ID="string_5" HPOS="771" VPOS="754" WIDTH="49" HEIGHT="17" WC="0.96" CONTENT="1882."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
