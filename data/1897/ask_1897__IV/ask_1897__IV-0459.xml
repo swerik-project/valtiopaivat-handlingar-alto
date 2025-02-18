@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0y47v6f__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1809" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1809">
+				<ComposedBlock ID="cblock_0" HPOS="337" VPOS="437" WIDTH="348" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="337" VPOS="437" WIDTH="348" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="337" VPOS="437" WIDTH="348" HEIGHT="35">
+							<String ID="string_0" HPOS="337" VPOS="437" WIDTH="215" HEIGHT="35" WC="0.90" CONTENT="Vertaileva"/><SP WIDTH="23" VPOS="437" HPOS="552"/>
+							<String ID="string_1" HPOS="575" VPOS="438" WIDTH="110" HEIGHT="34" WC="0.89" CONTENT="taulu"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="84" VPOS="585" WIDTH="854" HEIGHT="52">
+					<TextBlock ID="block_1" HPOS="84" VPOS="585" WIDTH="854" HEIGHT="52">
+						<TextLine ID="line_1" HPOS="84" VPOS="585" WIDTH="854" HEIGHT="52">
+							<String ID="string_2" HPOS="84" VPOS="585" WIDTH="255" HEIGHT="51" WC="0.91" CONTENT="Yleisen"/><SP WIDTH="44" VPOS="585" HPOS="339"/>
+							<String ID="string_3" HPOS="383" VPOS="586" WIDTH="555" HEIGHT="51" WC="0.90" CONTENT="valtiorahaston"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="133" VPOS="734" WIDTH="751" HEIGHT="79">
+					<TextBlock ID="block_2" HPOS="133" VPOS="734" WIDTH="751" HEIGHT="79">
+						<TextLine ID="line_2" HPOS="133" VPOS="734" WIDTH="751" HEIGHT="33">
+							<String ID="string_4" HPOS="133" VPOS="734" WIDTH="113" HEIGHT="27" WC="0.92" CONTENT="tuloista"/><SP WIDTH="17" VPOS="734" HPOS="246"/>
+							<String ID="string_5" HPOS="263" VPOS="734" WIDTH="29" HEIGHT="33" WC="0.93" CONTENT="ja"/><SP WIDTH="21" VPOS="734" HPOS="292"/>
+							<String ID="string_6" HPOS="313" VPOS="735" WIDTH="130" HEIGHT="26" WC="0.91" CONTENT="menoista"/><SP WIDTH="18" VPOS="735" HPOS="443"/>
+							<String ID="string_7" HPOS="461" VPOS="735" WIDTH="104" HEIGHT="26" WC="0.91" CONTENT="valtion"/><SP WIDTH="17" VPOS="735" HPOS="565"/>
+							<String ID="string_8" HPOS="582" VPOS="741" WIDTH="85" HEIGHT="21" WC="0.91" CONTENT="meno-"/><SP WIDTH="16" VPOS="741" HPOS="667"/>
+							<String ID="string_9" HPOS="683" VPOS="734" WIDTH="30" HEIGHT="33" WC="0.93" CONTENT="ja"/><SP WIDTH="17" VPOS="734" HPOS="713"/>
+							<String ID="string_10" HPOS="730" VPOS="735" WIDTH="154" HEIGHT="27" WC="0.90" CONTENT="tuloarvion"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="226" VPOS="780" WIDTH="567" HEIGHT="33">
+							<String ID="string_11" HPOS="226" VPOS="780" WIDTH="68" HEIGHT="27" WC="0.93" CONTENT="sekä"/><SP WIDTH="17" VPOS="780" HPOS="294"/>
+							<String ID="string_12" HPOS="311" VPOS="781" WIDTH="207" HEIGHT="26" WC="0.91" CONTENT="summittaisten"/><SP WIDTH="18" VPOS="781" HPOS="518"/>
+							<String ID="string_13" HPOS="536" VPOS="780" WIDTH="125" HEIGHT="33" WC="0.91" CONTENT="laskujen"/><SP WIDTH="18" VPOS="780" HPOS="661"/>
+							<String ID="string_14" HPOS="679" VPOS="781" WIDTH="114" HEIGHT="26" WC="0.96" CONTENT="mukaan"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="353" VPOS="919" WIDTH="314" HEIGHT="17">
+					<TextBlock ID="block_3" HPOS="353" VPOS="919" WIDTH="314" HEIGHT="17">
+						<TextLine ID="line_4" HPOS="353" VPOS="919" WIDTH="314" HEIGHT="17">
+							<String ID="string_15" HPOS="353" VPOS="919" WIDTH="195" HEIGHT="17" WC="0.92" CONTENT="Vuodelta"/><SP WIDTH="20" VPOS="919" HPOS="548"/>
+							<String ID="string_16" HPOS="568" VPOS="919" WIDTH="99" HEIGHT="17" WC="0.94" CONTENT="1895."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="1090" VPOS="0" WIDTH="3" HEIGHT="360"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

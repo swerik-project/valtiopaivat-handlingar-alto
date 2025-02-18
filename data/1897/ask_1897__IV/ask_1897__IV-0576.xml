@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_u91s1b8d_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1814" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1814">
+				<ComposedBlock ID="cblock_0" HPOS="481" VPOS="138" WIDTH="60" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="481" VPOS="138" WIDTH="60" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="481" VPOS="138" WIDTH="60" HEIGHT="21">
+							<String ID="string_0" HPOS="481" VPOS="138" WIDTH="60" HEIGHT="21" WC="0.77" CONTENT="XVII"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="399" VPOS="536" WIDTH="223" HEIGHT="41">
+					<TextBlock ID="block_1" HPOS="399" VPOS="536" WIDTH="223" HEIGHT="41">
+						<TextLine ID="line_1" HPOS="399" VPOS="536" WIDTH="223" HEIGHT="41">
+							<String ID="string_1" HPOS="399" VPOS="536" WIDTH="223" HEIGHT="41" WC="0.91" CONTENT="Päälaskut"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="119" VPOS="664" WIDTH="781" HEIGHT="42">
+					<TextBlock ID="block_2" HPOS="119" VPOS="664" WIDTH="781" HEIGHT="42">
+						<TextLine ID="line_2" HPOS="119" VPOS="664" WIDTH="781" HEIGHT="42">
+							<String ID="string_2" HPOS="119" VPOS="664" WIDTH="781" HEIGHT="42" WC="0.91" CONTENT="Kulkulaitosrahastosta"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="329" VPOS="811" WIDTH="371" HEIGHT="17">
+					<TextBlock ID="block_3" HPOS="329" VPOS="811" WIDTH="371" HEIGHT="17">
+						<TextLine ID="line_3" HPOS="329" VPOS="811" WIDTH="371" HEIGHT="17">
+							<String ID="string_3" HPOS="329" VPOS="811" WIDTH="142" HEIGHT="17" WC="0.89" CONTENT="Vuosilta"/><SP WIDTH="17" VPOS="811" HPOS="471"/>
+							<String ID="string_4" HPOS="488" VPOS="811" WIDTH="212" HEIGHT="17" WC="0.26" CONTENT="1893-1895."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="523" VPOS="975" WIDTH="68" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

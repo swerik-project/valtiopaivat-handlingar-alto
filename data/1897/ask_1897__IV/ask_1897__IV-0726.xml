@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_c4mdcad4_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1092" HEIGHT="1834" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1092" HEIGHT="1834">
+				<ComposedBlock ID="cblock_0" HPOS="171" VPOS="496" WIDTH="812" HEIGHT="227">
+					<TextBlock ID="block_0" HPOS="171" VPOS="496" WIDTH="812" HEIGHT="215">
+						<TextLine ID="line_0" HPOS="368" VPOS="496" WIDTH="418" HEIGHT="81">
+							<String ID="string_0" HPOS="368" VPOS="496" WIDTH="418" HEIGHT="81" WC="0.90" CONTENT="Yleis-pääkirja"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="171" VPOS="638" WIDTH="812" HEIGHT="85">
+							<String ID="string_1" HPOS="171" VPOS="638" WIDTH="449" HEIGHT="85" WC="0.91" CONTENT="Valtiovaraston"/><SP WIDTH="29" VPOS="638" HPOS="620"/>
+							<String ID="string_2" HPOS="649" VPOS="672" WIDTH="334" HEIGHT="39" WC="0.96" CONTENT="rahastoista"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="506" VPOS="967" WIDTH="155" HEIGHT="12">
+					<TextBlock ID="block_1" HPOS="506" VPOS="967" WIDTH="155" HEIGHT="12">
+						<TextLine ID="line_2" HPOS="506" VPOS="967" WIDTH="155" HEIGHT="12">
+							<String ID="string_3" HPOS="502" VPOS="955" WIDTH="31" HEIGHT="28" WC="0.18" CONTENT="i"/><SP WIDTH="30" VPOS="955" HPOS="533"/>
+							<String ID="string_4" HPOS="563" VPOS="972" WIDTH="98" HEIGHT="2" WC="0.14" CONTENT="örn"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

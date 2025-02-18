@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_1v39hfa__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1098" HEIGHT="1817" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1098" HEIGHT="1817">
+				<ComposedBlock ID="cblock_0" HPOS="468" VPOS="140" WIDTH="32" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="468" VPOS="140" WIDTH="32" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="468" VPOS="140" WIDTH="32" HEIGHT="21">
+							<String ID="string_0" HPOS="468" VPOS="140" WIDTH="32" HEIGHT="21" WC="0.59" CONTENT="III"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="111" VPOS="511" WIDTH="748" HEIGHT="186">
+					<TextBlock ID="block_1" HPOS="111" VPOS="511" WIDTH="748" HEIGHT="186">
+						<TextLine ID="line_1" HPOS="323" VPOS="511" WIDTH="320" HEIGHT="51">
+							<String ID="string_1" HPOS="323" VPOS="511" WIDTH="320" HEIGHT="51" WC="0.90" CONTENT="Päälaskut"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="111" VPOS="637" WIDTH="748" HEIGHT="60">
+							<String ID="string_2" HPOS="111" VPOS="637" WIDTH="117" HEIGHT="47" WC="0.89" CONTENT="Yleisistä"/><SP WIDTH="20" VPOS="637" HPOS="228"/>
+							<String ID="string_3" HPOS="248" VPOS="633" WIDTH="184" HEIGHT="68" WC="0.89" CONTENT="Valtiovaroista"/><SP WIDTH="17" VPOS="633" HPOS="432"/>
+							<String ID="string_4" HPOS="449" VPOS="638" WIDTH="103" HEIGHT="55" WC="0.86" CONTENT="(Valtio-"/><SP WIDTH="11" VPOS="638" HPOS="552"/>
+							<String ID="string_5" HPOS="563" VPOS="641" WIDTH="27" HEIGHT="56" WC="0.93" CONTENT="ja"/><SP WIDTH="13" VPOS="641" HPOS="590"/>
+							<String ID="string_6" HPOS="603" VPOS="637" WIDTH="256" HEIGHT="55" WC="0.92" CONTENT="Sotilasrahastoista)"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="293" VPOS="764" WIDTH="385" HEIGHT="31">
+					<TextBlock ID="block_2" HPOS="293" VPOS="764" WIDTH="385" HEIGHT="31">
+						<TextLine ID="line_3" HPOS="293" VPOS="764" WIDTH="385" HEIGHT="31">
+							<String ID="string_7" HPOS="293" VPOS="764" WIDTH="89" HEIGHT="31" WC="0.93" CONTENT="Suomen"/><SP WIDTH="21" VPOS="764" HPOS="382"/>
+							<String ID="string_8" HPOS="403" VPOS="764" WIDTH="275" HEIGHT="31" WC="0.90" CONTENT="Suuriruhtinaanmaassa"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="257" VPOS="874" WIDTH="460" HEIGHT="20">
+					<TextBlock ID="block_3" HPOS="257" VPOS="874" WIDTH="460" HEIGHT="20">
+						<TextLine ID="line_4" HPOS="257" VPOS="874" WIDTH="460" HEIGHT="20">
+							<String ID="string_9" HPOS="257" VPOS="875" WIDTH="180" HEIGHT="17" WC="0.89" CONTENT="Vuosilta"/><SP WIDTH="20" VPOS="875" HPOS="437"/>
+							<String ID="string_10" HPOS="457" VPOS="874" WIDTH="88" HEIGHT="17" WC="0.93" CONTENT="1892"/><SP WIDTH="19" VPOS="874" HPOS="545"/>
+							<String ID="string_11" HPOS="564" VPOS="875" WIDTH="37" HEIGHT="19" WC="0.96" CONTENT="ja"/><SP WIDTH="19" VPOS="875" HPOS="601"/>
+							<String ID="string_12" HPOS="620" VPOS="874" WIDTH="97" HEIGHT="17" WC="0.96" CONTENT="1893."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="493" VPOS="1022" WIDTH="67" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

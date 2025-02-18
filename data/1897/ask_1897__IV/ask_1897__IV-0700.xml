@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_yebnty___input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1092" HEIGHT="1814" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1092" HEIGHT="1814">
+				<ComposedBlock ID="cblock_0" HPOS="499" VPOS="144" WIDTH="91" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="499" VPOS="144" WIDTH="91" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="499" VPOS="144" WIDTH="91" HEIGHT="22">
+							<String ID="string_0" HPOS="499" VPOS="144" WIDTH="91" HEIGHT="22" WC="0.94" CONTENT="XXVIII"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="337" VPOS="502" WIDTH="419" HEIGHT="80">
+					<TextBlock ID="block_1" HPOS="337" VPOS="502" WIDTH="419" HEIGHT="80">
+						<TextLine ID="line_1" HPOS="337" VPOS="502" WIDTH="419" HEIGHT="80">
+							<String ID="string_1" HPOS="337" VPOS="502" WIDTH="419" HEIGHT="80" WC="0.83" CONTENT="Yleis-pääkirja"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="140" VPOS="677" WIDTH="814" HEIGHT="39">
+					<TextBlock ID="block_2" HPOS="140" VPOS="677" WIDTH="814" HEIGHT="39">
+						<TextLine ID="line_2" HPOS="140" VPOS="677" WIDTH="814" HEIGHT="39">
+							<String ID="string_2" HPOS="140" VPOS="677" WIDTH="450" HEIGHT="39" WC="0.91" CONTENT="Valtiovaraston"/><SP WIDTH="30" VPOS="677" HPOS="590"/>
+							<String ID="string_3" HPOS="620" VPOS="677" WIDTH="334" HEIGHT="39" WC="0.96" CONTENT="rahastoista"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

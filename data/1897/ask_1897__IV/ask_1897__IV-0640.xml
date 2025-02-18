@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_8hx8m8eq_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1778" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1778">
+				<ComposedBlock ID="cblock_0" HPOS="476" VPOS="147" WIDTH="38" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="476" VPOS="147" WIDTH="38" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="476" VPOS="147" WIDTH="38" HEIGHT="22">
+							<String ID="string_0" HPOS="476" VPOS="147" WIDTH="38" HEIGHT="22" WC="0.87" CONTENT="XX"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="340" VPOS="495" WIDTH="307" HEIGHT="51">
+					<TextBlock ID="block_1" HPOS="340" VPOS="495" WIDTH="307" HEIGHT="51">
+						<TextLine ID="line_1" HPOS="340" VPOS="495" WIDTH="307" HEIGHT="51">
+							<String ID="string_1" HPOS="340" VPOS="495" WIDTH="307" HEIGHT="51" WC="0.89" CONTENT="Yhteenveto"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="137" VPOS="644" WIDTH="717" HEIGHT="137">
+					<TextBlock ID="block_2" HPOS="137" VPOS="644" WIDTH="717" HEIGHT="137">
+						<TextLine ID="line_2" HPOS="137" VPOS="644" WIDTH="717" HEIGHT="33">
+							<String ID="string_2" HPOS="137" VPOS="644" WIDTH="133" HEIGHT="27" WC="0.90" CONTENT="eläkkeen"/><SP WIDTH="21" VPOS="644" HPOS="270"/>
+							<String ID="string_3" HPOS="291" VPOS="644" WIDTH="145" HEIGHT="27" WC="0.91" CONTENT="antamista"/><SP WIDTH="18" VPOS="644" HPOS="436"/>
+							<String ID="string_4" HPOS="454" VPOS="647" WIDTH="94" HEIGHT="24" WC="0.92" CONTENT="varten"/><SP WIDTH="19" VPOS="647" HPOS="548"/>
+							<String ID="string_5" HPOS="567" VPOS="645" WIDTH="172" HEIGHT="32" WC="0.91" CONTENT="kaupunkien"/><SP WIDTH="18" VPOS="645" HPOS="739"/>
+							<String ID="string_6" HPOS="757" VPOS="644" WIDTH="97" HEIGHT="27" WC="0.90" CONTENT="kansa-"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="214" VPOS="696" WIDTH="563" HEIGHT="33">
+							<String ID="string_7" HPOS="214" VPOS="696" WIDTH="264" HEIGHT="33" WC="0.90" CONTENT="koulun-opettajille"/><SP WIDTH="16" VPOS="696" HPOS="478"/>
+							<String ID="string_8" HPOS="494" VPOS="696" WIDTH="29" HEIGHT="32" WC="0.91" CONTENT="ja"/><SP WIDTH="19" VPOS="696" HPOS="523"/>
+							<String ID="string_9" HPOS="542" VPOS="696" WIDTH="235" HEIGHT="33" WC="0.91" CONTENT="-opettajattarille"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="283" VPOS="749" WIDTH="428" HEIGHT="32">
+							<String ID="string_10" HPOS="283" VPOS="750" WIDTH="154" HEIGHT="31" WC="0.92" CONTENT="perustetun"/><SP WIDTH="20" VPOS="750" HPOS="437"/>
+							<String ID="string_11" HPOS="457" VPOS="749" WIDTH="130" HEIGHT="26" WC="0.91" CONTENT="rahaston"/><SP WIDTH="18" VPOS="749" HPOS="587"/>
+							<String ID="string_12" HPOS="605" VPOS="749" WIDTH="106" HEIGHT="26" WC="0.92" CONTENT="tileistä"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="258" VPOS="882" WIDTH="476" HEIGHT="16">
+					<TextBlock ID="block_3" HPOS="258" VPOS="882" WIDTH="476" HEIGHT="16">
+						<TextLine ID="line_5" HPOS="258" VPOS="882" WIDTH="476" HEIGHT="16">
+							<String ID="string_13" HPOS="258" VPOS="882" WIDTH="220" HEIGHT="16" WC="0.81" CONTENT="Vuosilta"/><SP WIDTH="23" VPOS="882" HPOS="478"/>
+							<String ID="string_14" HPOS="501" VPOS="882" WIDTH="233" HEIGHT="16" WC="0.77" CONTENT="1893-1825."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
