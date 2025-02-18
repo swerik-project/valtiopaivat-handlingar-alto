@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_l5bdvrkp_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1181" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1181" HEIGHT="1773">
+				<GraphicalElement ID="cblock_0" HPOS="210" VPOS="801" WIDTH="757" HEIGHT="32"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="243" VPOS="826" WIDTH="276" HEIGHT="23">
+					<TextBlock ID="block_0" HPOS="243" VPOS="826" WIDTH="276" HEIGHT="23">
+						<TextLine ID="line_0" HPOS="243" VPOS="826" WIDTH="276" HEIGHT="23">
+							<String ID="string_0" HPOS="243" VPOS="827" WIDTH="123" HEIGHT="22" WC="0.96" CONTENT="Helsingissä,"/><SP WIDTH="13" VPOS="827" HPOS="366"/>
+							<String ID="string_1" HPOS="379" VPOS="827" WIDTH="60" HEIGHT="18" WC="0.93" CONTENT="Suom."/><SP WIDTH="13" VPOS="827" HPOS="439"/>
+							<String ID="string_2" HPOS="452" VPOS="826" WIDTH="67" HEIGHT="23" WC="0.92" CONTENT="Kirjall"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="522" VPOS="826" WIDTH="410" HEIGHT="23">
+					<TextBlock ID="block_1" HPOS="522" VPOS="826" WIDTH="410" HEIGHT="23">
+						<TextLine ID="line_1" HPOS="522" VPOS="826" WIDTH="410" HEIGHT="23">
+							<String ID="string_3" HPOS="522" VPOS="841" WIDTH="4" HEIGHT="4" WC="0.83" CONTENT="."/><SP WIDTH="13" VPOS="841" HPOS="526"/>
+							<String ID="string_4" HPOS="539" VPOS="827" WIDTH="69" HEIGHT="18" WC="0.96" CONTENT="Seuran"/><SP WIDTH="13" VPOS="827" HPOS="608"/>
+							<String ID="string_5" HPOS="621" VPOS="827" WIDTH="118" HEIGHT="22" WC="0.96" CONTENT="kirjapainon"/><SP WIDTH="12" VPOS="827" HPOS="739"/>
+							<String ID="string_6" HPOS="751" VPOS="826" WIDTH="118" HEIGHT="23" WC="0.96" CONTENT="Osakeyhtiö,"/><SP WIDTH="14" VPOS="826" HPOS="869"/>
+							<String ID="string_7" HPOS="883" VPOS="827" WIDTH="49" HEIGHT="17" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="208" VPOS="842" WIDTH="755" HEIGHT="30"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="0" VPOS="324" WIDTH="15" HEIGHT="679"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

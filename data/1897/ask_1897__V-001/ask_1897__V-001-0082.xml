@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_43j73moj_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1181" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1181" HEIGHT="1773">
+				<GraphicalElement ID="cblock_0" HPOS="4" VPOS="20" WIDTH="8" HEIGHT="503"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="0" VPOS="20" WIDTH="12" HEIGHT="951"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="431" VPOS="839" WIDTH="473" HEIGHT="11"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="263" VPOS="861" WIDTH="729" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="263" VPOS="861" WIDTH="729" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="263" VPOS="861" WIDTH="729" HEIGHT="22">
+							<String ID="string_0" HPOS="263" VPOS="861" WIDTH="125" HEIGHT="22" WC="0.90" CONTENT="Helsingissä,"/><SP WIDTH="14" VPOS="861" HPOS="388"/>
+							<String ID="string_1" HPOS="402" VPOS="861" WIDTH="66" HEIGHT="17" WC="0.91" CONTENT="Victor"/><SP WIDTH="12" VPOS="861" HPOS="468"/>
+							<String ID="string_2" HPOS="480" VPOS="861" WIDTH="109" HEIGHT="17" WC="0.96" CONTENT="Pettersson"/><SP WIDTH="13" VPOS="861" HPOS="589"/>
+							<String ID="string_3" HPOS="602" VPOS="861" WIDTH="20" HEIGHT="22" WC="0.91" CONTENT="ja"/><SP WIDTH="13" VPOS="861" HPOS="622"/>
+							<String ID="string_4" HPOS="635" VPOS="861" WIDTH="84" HEIGHT="21" WC="0.91" CONTENT="Kumpp."/><SP WIDTH="14" VPOS="861" HPOS="719"/>
+							<String ID="string_5" HPOS="733" VPOS="861" WIDTH="198" HEIGHT="22" WC="0.91" CONTENT="Kirjap.-Osakeyhtiö"/><SP WIDTH="10" VPOS="861" HPOS="931"/>
+							<String ID="string_6" HPOS="941" VPOS="861" WIDTH="51" HEIGHT="16" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_4" HPOS="353" VPOS="844" WIDTH="46" HEIGHT="6"></Illustration>
+				<GraphicalElement ID="cblock_5" HPOS="295" VPOS="890" WIDTH="659" HEIGHT="17"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

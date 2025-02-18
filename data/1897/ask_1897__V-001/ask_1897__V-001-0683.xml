@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_gjj4ksi3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1181" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1181" HEIGHT="1773">
+				<GraphicalElement ID="cblock_0" HPOS="2" VPOS="22" WIDTH="7" HEIGHT="630"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="244" VPOS="811" WIDTH="674" HEIGHT="8"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="256" VPOS="814" WIDTH="654" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="256" VPOS="814" WIDTH="654" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="256" VPOS="814" WIDTH="654" HEIGHT="35">
+							<String ID="string_0" HPOS="256" VPOS="814" WIDTH="134" HEIGHT="34" WC="0.92" CONTENT="Helsingissä,"/><SP WIDTH="14" VPOS="814" HPOS="390"/>
+							<String ID="string_1" HPOS="404" VPOS="824" WIDTH="123" HEIGHT="23" WC="0.90" CONTENT="Osakeyhtiö"/><SP WIDTH="14" VPOS="824" HPOS="527"/>
+							<String ID="string_2" HPOS="541" VPOS="824" WIDTH="74" HEIGHT="18" WC="0.92" CONTENT="Weilin"/><SP WIDTH="12" VPOS="824" HPOS="615"/>
+							<String ID="string_3" HPOS="627" VPOS="824" WIDTH="17" HEIGHT="18" WC="0.90" CONTENT="&amp;"/><SP WIDTH="13" VPOS="824" HPOS="644"/>
+							<String ID="string_4" HPOS="657" VPOS="825" WIDTH="54" HEIGHT="18" WC="0.92" CONTENT="Göös"/><SP WIDTH="13" VPOS="825" HPOS="711"/>
+							<String ID="string_5" HPOS="724" VPOS="825" WIDTH="121" HEIGHT="24" WC="0.96" CONTENT="Aktiebolag"/><SP WIDTH="15" VPOS="825" HPOS="845"/>
+							<String ID="string_6" HPOS="860" VPOS="825" WIDTH="50" HEIGHT="18" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="238" VPOS="852" WIDTH="681" HEIGHT="8"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

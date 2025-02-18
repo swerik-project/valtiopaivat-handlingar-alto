@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_2oea_sru_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1181" HEIGHT="1773" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1181" HEIGHT="1773">
+				<GraphicalElement ID="cblock_0" HPOS="315" VPOS="776" WIDTH="50" HEIGHT="2"></GraphicalElement >
+				<Illustration ID="cblock_1" HPOS="317" VPOS="776" WIDTH="100" HEIGHT="31"></Illustration>
+				<ComposedBlock ID="cblock_2" HPOS="417" VPOS="772" WIDTH="430" HEIGHT="41">
+					<TextBlock ID="block_0" HPOS="417" VPOS="772" WIDTH="430" HEIGHT="41">
+						<TextLine ID="line_0" HPOS="417" VPOS="772" WIDTH="430" HEIGHT="41">
+							<String ID="string_0" HPOS="417" VPOS="787" WIDTH="7" HEIGHT="16" WC="0.92" CONTENT="ä"/><SP WIDTH="13" VPOS="787" HPOS="424"/>
+							<String ID="string_1" HPOS="437" VPOS="776" WIDTH="61" HEIGHT="27" WC="0.76" CONTENT="1807."/><SP WIDTH="11" VPOS="776" HPOS="498"/>
+							<String ID="string_2" HPOS="509" VPOS="772" WIDTH="90" HEIGHT="40" WC="0.83" CONTENT="Helsingin"/><SP WIDTH="13" VPOS="772" HPOS="599"/>
+							<String ID="string_3" HPOS="612" VPOS="772" WIDTH="195" HEIGHT="41" WC="0.70" CONTENT="Sentraali-kirjapaino:"/><SP WIDTH="13" VPOS="772" HPOS="807"/>
+							<String ID="string_4" HPOS="820" VPOS="776" WIDTH="27" HEIGHT="1" WC="0.91" CONTENT="sa,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="315" VPOS="813" WIDTH="312" HEIGHT="6"></GraphicalElement >
+				<Illustration ID="cblock_4" HPOS="797" VPOS="791" WIDTH="44" HEIGHT="13"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
