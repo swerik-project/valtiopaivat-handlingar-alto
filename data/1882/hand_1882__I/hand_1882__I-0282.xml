@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_su8jblg6_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1025" HEIGHT="2339" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1025" HEIGHT="2339">
+				<GraphicalElement ID="cblock_0" HPOS="210" VPOS="1096" WIDTH="742" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="270" VPOS="1168" WIDTH="593" HEIGHT="25">
+					<TextBlock ID="block_0" HPOS="270" VPOS="1168" WIDTH="593" HEIGHT="25">
+						<TextLine ID="line_0" HPOS="270" VPOS="1168" WIDTH="593" HEIGHT="25">
+							<String ID="string_0" HPOS="270" VPOS="1168" WIDTH="119" HEIGHT="23" WC="0.93" CONTENT="Helsingfors"/><SP WIDTH="12" VPOS="1168" HPOS="389"/>
+							<String ID="string_1" HPOS="401" VPOS="1169" WIDTH="165" HEIGHT="24" WC="0.92" CONTENT="Tryckeri-Bolags"/><SP WIDTH="13" VPOS="1169" HPOS="566"/>
+							<String ID="string_2" HPOS="579" VPOS="1170" WIDTH="85" HEIGHT="23" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="12" VPOS="1170" HPOS="664"/>
+							<String ID="string_3" HPOS="676" VPOS="1170" WIDTH="122" HEIGHT="22" WC="0.96" CONTENT="Helsingfors,"/><SP WIDTH="15" VPOS="1170" HPOS="798"/>
+							<String ID="string_4" HPOS="813" VPOS="1170" WIDTH="50" HEIGHT="18" WC="0.96" CONTENT="1882."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="201" VPOS="1262" WIDTH="669" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

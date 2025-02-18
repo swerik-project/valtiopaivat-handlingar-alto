@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_sp0h68a9_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1028" HEIGHT="1620" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1028" HEIGHT="1620">
+				<GraphicalElement ID="cblock_0" HPOS="402" VPOS="229" WIDTH="401" HEIGHT="5"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="476" VPOS="254" WIDTH="247" HEIGHT="27">
+					<TextBlock ID="block_0" HPOS="476" VPOS="254" WIDTH="247" HEIGHT="27">
+						<TextLine ID="line_0" HPOS="476" VPOS="254" WIDTH="247" HEIGHT="27">
+							<String ID="string_0" HPOS="476" VPOS="255" WIDTH="34" HEIGHT="25" WC="0.69" CONTENT="KH."/><SP WIDTH="24" VPOS="255" HPOS="510"/>
+							<String ID="string_1" HPOS="534" VPOS="254" WIDTH="26" HEIGHT="26" WC="0.30" CONTENT="S."/><SP WIDTH="24" VPOS="254" HPOS="560"/>
+							<String ID="string_2" HPOS="584" VPOS="254" WIDTH="139" HEIGHT="27" WC="0.72" CONTENT="Scnaatin"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="423" VPOS="300" WIDTH="345" HEIGHT="28">
+					<TextBlock ID="block_1" HPOS="423" VPOS="300" WIDTH="345" HEIGHT="28">
+						<TextLine ID="line_1" HPOS="423" VPOS="300" WIDTH="345" HEIGHT="28">
+							<String ID="string_3" HPOS="423" VPOS="300" WIDTH="345" HEIGHT="28" WC="0.54" CONTENT="Siviilitomituskunnan"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="538" VPOS="350" WIDTH="132" HEIGHT="37">
+					<TextBlock ID="block_2" HPOS="538" VPOS="350" WIDTH="132" HEIGHT="37">
+						<TextLine ID="line_2" HPOS="538" VPOS="350" WIDTH="132" HEIGHT="37">
+							<String ID="string_4" HPOS="538" VPOS="350" WIDTH="132" HEIGHT="37" WC="0.21" CONTENT="Hirjasto."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_4" HPOS="290" VPOS="86" WIDTH="574" HEIGHT="389"></Illustration>
+				<GraphicalElement ID="cblock_5" HPOS="403" VPOS="452" WIDTH="388" HEIGHT="4"></GraphicalElement >
+				<Illustration ID="cblock_6" HPOS="930" VPOS="8" WIDTH="59" HEIGHT="19"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
