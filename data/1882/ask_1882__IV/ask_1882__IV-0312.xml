@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0pdlut5x_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="998" HEIGHT="1656" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="998" HEIGHT="1656">
+				<ComposedBlock ID="cblock_0" HPOS="240" VPOS="503" WIDTH="373" HEIGHT="70">
+					<TextBlock ID="block_0" HPOS="240" VPOS="503" WIDTH="373" HEIGHT="70">
+						<TextLine ID="line_0" HPOS="240" VPOS="503" WIDTH="373" HEIGHT="70">
+							<String ID="string_0" HPOS="240" VPOS="570" WIDTH="3" HEIGHT="3" WC="0.28" CONTENT="—"/><SP WIDTH="38" VPOS="570" HPOS="243"/>
+							<String ID="string_1" HPOS="281" VPOS="503" WIDTH="332" HEIGHT="56" WC="0.40" CONTENT="Luvunlasku"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="521" VPOS="653" WIDTH="7" HEIGHT="9">
+					<TextBlock ID="block_1" HPOS="521" VPOS="653" WIDTH="7" HEIGHT="9">
+						<TextLine ID="line_1" HPOS="521" VPOS="653" WIDTH="7" HEIGHT="9">
+							<String ID="string_2" HPOS="521" VPOS="653" WIDTH="7" HEIGHT="9" WC="0.36" CONTENT="Lå"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="68" VPOS="682" WIDTH="755" HEIGHT="135">
+					<TextBlock ID="block_2" HPOS="68" VPOS="682" WIDTH="755" HEIGHT="135">
+						<TextLine ID="line_2" HPOS="68" VPOS="682" WIDTH="755" HEIGHT="39">
+							<String ID="string_3" HPOS="68" VPOS="683" WIDTH="104" HEIGHT="30" WC="0.92" CONTENT="Yleisen"/><SP WIDTH="22" VPOS="683" HPOS="172"/>
+							<String ID="string_4" HPOS="194" VPOS="683" WIDTH="210" HEIGHT="30" WC="0.92" CONTENT="Valtiorahaston"/><SP WIDTH="16" VPOS="683" HPOS="404"/>
+							<String ID="string_5" HPOS="420" VPOS="684" WIDTH="120" HEIGHT="29" WC="0.91" CONTENT="varoista"/><SP WIDTH="15" VPOS="684" HPOS="540"/>
+							<String ID="string_6" HPOS="555" VPOS="684" WIDTH="83" HEIGHT="37" WC="0.90" CONTENT="päälle"/><SP WIDTH="15" VPOS="684" HPOS="638"/>
+							<String ID="string_7" HPOS="653" VPOS="682" WIDTH="170" HEIGHT="31" WC="0.91" CONTENT="vuosirahan-"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="108" VPOS="735" WIDTH="681" HEIGHT="38">
+							<String ID="string_8" HPOS="108" VPOS="736" WIDTH="117" HEIGHT="29" WC="0.91" CONTENT="säännön"/><SP WIDTH="22" VPOS="736" HPOS="225"/>
+							<String ID="string_9" HPOS="247" VPOS="735" WIDTH="99" HEIGHT="30" WC="0.91" CONTENT="olevien"/><SP WIDTH="22" VPOS="735" HPOS="346"/>
+							<String ID="string_10" HPOS="368" VPOS="735" WIDTH="197" HEIGHT="38" WC="0.89" CONTENT="ylimääräisten"/><SP WIDTH="23" VPOS="735" HPOS="565"/>
+							<String ID="string_11" HPOS="588" VPOS="735" WIDTH="118" HEIGHT="38" WC="0.91" CONTENT="menojen"/><SP WIDTH="22" VPOS="735" HPOS="706"/>
+							<String ID="string_12" HPOS="728" VPOS="742" WIDTH="61" HEIGHT="22" WC="0.91" CONTENT="suo-"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="178" VPOS="787" WIDTH="539" HEIGHT="30">
+							<String ID="string_13" HPOS="178" VPOS="787" WIDTH="169" HEIGHT="30" WC="0.92" CONTENT="rittamiseksi"/><SP WIDTH="24" VPOS="787" HPOS="347"/>
+							<String ID="string_14" HPOS="371" VPOS="787" WIDTH="66" HEIGHT="30" WC="0.93" CONTENT="1881"/><SP WIDTH="26" VPOS="787" HPOS="437"/>
+							<String ID="string_15" HPOS="463" VPOS="788" WIDTH="100" HEIGHT="29" WC="0.92" CONTENT="vuoden"/><SP WIDTH="24" VPOS="788" HPOS="563"/>
+							<String ID="string_16" HPOS="587" VPOS="787" WIDTH="130" HEIGHT="30" WC="0.90" CONTENT="kuluessa."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
