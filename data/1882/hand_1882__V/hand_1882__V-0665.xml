@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_2_5v0elq_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1028" HEIGHT="1675" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1028" HEIGHT="1675">
+				<ComposedBlock ID="cblock_0" HPOS="792" VPOS="113" WIDTH="27" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="792" VPOS="113" WIDTH="27" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="792" VPOS="113" WIDTH="27" HEIGHT="21">
+							<String ID="string_0" HPOS="792" VPOS="113" WIDTH="27" HEIGHT="21" WC="0.96" CONTENT="31"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="89" VPOS="173" WIDTH="758" HEIGHT="117">
+					<TextBlock ID="block_1" HPOS="170" VPOS="173" WIDTH="602" HEIGHT="27">
+						<TextLine ID="line_1" HPOS="170" VPOS="173" WIDTH="602" HEIGHT="27">
+							<String ID="string_1" HPOS="170" VPOS="174" WIDTH="22" HEIGHT="21" WC="0.87" CONTENT="P."/><SP WIDTH="16" VPOS="174" HPOS="192"/>
+							<String ID="string_2" HPOS="208" VPOS="173" WIDTH="131" HEIGHT="25" WC="0.96" CONTENT="Päivärinta,"/><SP WIDTH="221" VPOS="173" HPOS="339"/>
+							<String ID="string_3" HPOS="560" VPOS="173" WIDTH="72" HEIGHT="22" WC="0.96" CONTENT="Johan"/><SP WIDTH="15" VPOS="173" HPOS="632"/>
+							<String ID="string_4" HPOS="647" VPOS="174" WIDTH="125" HEIGHT="26" WC="0.96" CONTENT="Korhonen,"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="89" VPOS="208" WIDTH="758" HEIGHT="56">
+						<TextLine ID="line_2" HPOS="89" VPOS="208" WIDTH="758" HEIGHT="23">
+							<String ID="string_5" HPOS="89" VPOS="208" WIDTH="58" HEIGHT="18" WC="0.93" CONTENT="Salon"/><SP WIDTH="12" VPOS="208" HPOS="147"/>
+							<String ID="string_6" HPOS="159" VPOS="208" WIDTH="141" HEIGHT="17" WC="0.93" CONTENT="tuomiokunnan"/><SP WIDTH="12" VPOS="208" HPOS="300"/>
+							<String ID="string_7" HPOS="312" VPOS="208" WIDTH="91" HEIGHT="18" WC="0.92" CONTENT="edusmies."/><SP WIDTH="99" VPOS="208" HPOS="403"/>
+							<String ID="string_8" HPOS="502" VPOS="208" WIDTH="88" HEIGHT="23" WC="0.96" CONTENT="Kajaanin"/><SP WIDTH="12" VPOS="208" HPOS="590"/>
+							<String ID="string_9" HPOS="602" VPOS="208" WIDTH="142" HEIGHT="18" WC="0.93" CONTENT="tuomiokunnan"/><SP WIDTH="12" VPOS="208" HPOS="744"/>
+							<String ID="string_10" HPOS="756" VPOS="209" WIDTH="91" HEIGHT="18" WC="0.92" CONTENT="edusmies."/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="165" VPOS="236" WIDTH="580" HEIGHT="28">
+							<String ID="string_11" HPOS="165" VPOS="236" WIDTH="71" HEIGHT="21" WC="0.93" CONTENT="Johan"/><SP WIDTH="15" VPOS="236" HPOS="236"/>
+							<String ID="string_12" HPOS="251" VPOS="236" WIDTH="99" HEIGHT="26" WC="0.91" CONTENT="Foudila,"/><SP WIDTH="227" VPOS="236" HPOS="350"/>
+							<String ID="string_13" HPOS="577" VPOS="236" WIDTH="20" HEIGHT="22" WC="0.95" CONTENT="J."/><SP WIDTH="16" VPOS="236" HPOS="597"/>
+							<String ID="string_14" HPOS="613" VPOS="236" WIDTH="26" HEIGHT="22" WC="0.95" CONTENT="H."/><SP WIDTH="15" VPOS="236" HPOS="639"/>
+							<String ID="string_15" HPOS="654" VPOS="237" WIDTH="91" HEIGHT="27" WC="0.96" CONTENT="Luoma,"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_3" HPOS="93" VPOS="270" WIDTH="753" HEIGHT="20">
+						<TextLine ID="line_4" HPOS="93" VPOS="270" WIDTH="753" HEIGHT="20">
+							<String ID="string_16" HPOS="93" VPOS="270" WIDTH="58" HEIGHT="18" WC="0.96" CONTENT="Oulun"/><SP WIDTH="13" VPOS="270" HPOS="151"/>
+							<String ID="string_17" HPOS="164" VPOS="270" WIDTH="140" HEIGHT="17" WC="0.93" CONTENT="tuomiokunnan"/><SP WIDTH="12" VPOS="270" HPOS="304"/>
+							<String ID="string_18" HPOS="316" VPOS="270" WIDTH="92" HEIGHT="18" WC="0.92" CONTENT="edusmies."/><SP WIDTH="116" VPOS="270" HPOS="408"/>
+							<String ID="string_19" HPOS="524" VPOS="271" WIDTH="65" HEIGHT="17" WC="0.96" CONTENT="Kemin"/><SP WIDTH="11" VPOS="271" HPOS="589"/>
+							<String ID="string_20" HPOS="600" VPOS="272" WIDTH="142" HEIGHT="17" WC="0.93" CONTENT="tuomiokunnan"/><SP WIDTH="12" VPOS="272" HPOS="742"/>
+							<String ID="string_21" HPOS="754" VPOS="272" WIDTH="92" HEIGHT="18" WC="0.92" CONTENT="edusmies."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="179" VPOS="297" WIDTH="158" HEIGHT="27">
+					<TextBlock ID="block_4" HPOS="179" VPOS="297" WIDTH="158" HEIGHT="27">
+						<TextLine ID="line_5" HPOS="179" VPOS="297" WIDTH="158" HEIGHT="27">
+							<String ID="string_22" HPOS="179" VPOS="297" WIDTH="49" HEIGHT="22" WC="0.96" CONTENT="Isak"/><SP WIDTH="15" VPOS="297" HPOS="228"/>
+							<String ID="string_23" HPOS="243" VPOS="298" WIDTH="94" HEIGHT="26" WC="0.96" CONTENT="Hoikka,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="89" VPOS="333" WIDTH="328" HEIGHT="18">
+					<TextBlock ID="block_5" HPOS="89" VPOS="333" WIDTH="328" HEIGHT="18">
+						<TextLine ID="line_6" HPOS="89" VPOS="333" WIDTH="328" HEIGHT="18">
+							<String ID="string_24" HPOS="89" VPOS="333" WIDTH="84" HEIGHT="18" WC="0.9" CONTENT="Tornion"/><SP WIDTH="12" VPOS="333" HPOS="173"/>
+							<String ID="string_25" HPOS="185" VPOS="333" WIDTH="127" HEIGHT="18" WC="0.92" CONTENT="tomiokunnan"/><SP WIDTH="14" VPOS="333" HPOS="312"/>
+							<String ID="string_26" HPOS="326" VPOS="333" WIDTH="91" HEIGHT="18" WC="0.91" CONTENT="edusmies."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

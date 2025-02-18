@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_lzuoqwm3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1023" HEIGHT="1678" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1023" HEIGHT="1678">
+				<Illustration ID="cblock_0" HPOS="276" VPOS="746" WIDTH="47" HEIGHT="10"></Illustration>
+				<GraphicalElement ID="cblock_1" HPOS="325" VPOS="750" WIDTH="490" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="743" VPOS="767" WIDTH="39" HEIGHT="13">
+					<TextBlock ID="block_0" HPOS="743" VPOS="767" WIDTH="39" HEIGHT="13">
+						<TextLine ID="line_0" HPOS="743" VPOS="767" WIDTH="39" HEIGHT="13">
+							<String ID="string_0" HPOS="743" VPOS="767" WIDTH="39" HEIGHT="13" WC="0.93" CONTENT="1882."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="727" VPOS="773" WIDTH="10" HEIGHT="14"></Illustration>
+				<GraphicalElement ID="cblock_4" HPOS="280" VPOS="795" WIDTH="536" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_5" HPOS="336" VPOS="766" WIDTH="385" HEIGHT="18">
+					<TextBlock ID="block_1" HPOS="336" VPOS="766" WIDTH="385" HEIGHT="18">
+						<TextLine ID="line_1" HPOS="336" VPOS="766" WIDTH="385" HEIGHT="18">
+							<String ID="string_1" HPOS="336" VPOS="766" WIDTH="110" HEIGHT="18" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="11" VPOS="766" HPOS="446"/>
+							<String ID="string_2" HPOS="457" VPOS="767" WIDTH="185" HEIGHT="14" WC="0.83" CONTENT="Hufvudstadsbladets"/><SP WIDTH="10" VPOS="767" HPOS="642"/>
+							<String ID="string_3" HPOS="652" VPOS="768" WIDTH="69" HEIGHT="16" WC="0.33" CONTENT="tryekor"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
