@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_qi_ehb79_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1092" HEIGHT="1739" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1092" HEIGHT="1739">
+				<ComposedBlock ID="cblock_0" HPOS="431" VPOS="823" WIDTH="184" HEIGHT="13">
+					<TextBlock ID="block_0" HPOS="431" VPOS="823" WIDTH="184" HEIGHT="13">
+						<TextLine ID="line_0" HPOS="431" VPOS="823" WIDTH="184" HEIGHT="13">
+							<String ID="string_0" HPOS="431" VPOS="823" WIDTH="52" HEIGHT="13" WC="0.26" CONTENT="Vietor"/><SP WIDTH="9" VPOS="823" HPOS="483"/>
+							<String ID="string_1" HPOS="492" VPOS="823" WIDTH="87" HEIGHT="13" WC="0.93" CONTENT="Pettersson"/><SP WIDTH="11" VPOS="823" HPOS="579"/>
+							<String ID="string_2" HPOS="590" VPOS="823" WIDTH="9" HEIGHT="12" WC="0.93" CONTENT="&amp;"/><SP WIDTH="11" VPOS="823" HPOS="599"/>
+							<String ID="string_3" HPOS="610" VPOS="823" WIDTH="5" HEIGHT="12" WC="0.19" CONTENT="€"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="321" VPOS="822" WIDTH="86" HEIGHT="17">
+					<TextBlock ID="block_1" HPOS="321" VPOS="822" WIDTH="86" HEIGHT="17">
+						<TextLine ID="line_1" HPOS="321" VPOS="822" WIDTH="86" HEIGHT="17">
+							<String ID="string_4" HPOS="321" VPOS="822" WIDTH="86" HEIGHT="17" WC="0.57" CONTENT="Helsingfor"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="413" VPOS="811" WIDTH="499" HEIGHT="43"></Illustration>
+				<GraphicalElement ID="cblock_3" HPOS="318" VPOS="848" WIDTH="40" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="360" VPOS="848" WIDTH="40" HEIGHT="2"></GraphicalElement >
+				<Illustration ID="cblock_5" HPOS="471" VPOS="848" WIDTH="37" HEIGHT="2"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

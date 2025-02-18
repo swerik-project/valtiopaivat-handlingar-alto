@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_5dl2m8qo_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1067" HEIGHT="1739" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1067" HEIGHT="1739">
+				<ComposedBlock ID="cblock_0" HPOS="426" VPOS="740" WIDTH="422" HEIGHT="16">
+					<TextBlock ID="block_0" HPOS="426" VPOS="740" WIDTH="422" HEIGHT="16">
+						<TextLine ID="line_0" HPOS="426" VPOS="740" WIDTH="422" HEIGHT="16">
+							<String ID="string_0" HPOS="426" VPOS="740" WIDTH="81" HEIGHT="16" WC="0.87" CONTENT="&#39;Tidnings-"/><SP WIDTH="9" VPOS="740" HPOS="507"/>
+							<String ID="string_1" HPOS="516" VPOS="740" WIDTH="12" HEIGHT="13" WC="0.93" CONTENT="&amp;"/><SP WIDTH="24" VPOS="740" HPOS="528"/>
+							<String ID="string_2" HPOS="552" VPOS="740" WIDTH="168" HEIGHT="16" WC="0.85" CONTENT="Tryckeriaktiebolagets"/><SP WIDTH="9" VPOS="740" HPOS="720"/>
+							<String ID="string_3" HPOS="729" VPOS="740" WIDTH="64" HEIGHT="16" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="18" VPOS="740" HPOS="793"/>
+							<String ID="string_4" HPOS="811" VPOS="740" WIDTH="37" HEIGHT="12" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="414" VPOS="748" WIDTH="386" HEIGHT="8"></Illustration>
+				<ComposedBlock ID="cblock_2" HPOS="315" VPOS="739" WIDTH="96" HEIGHT="16">
+					<TextBlock ID="block_1" HPOS="315" VPOS="739" WIDTH="96" HEIGHT="16">
+						<TextLine ID="line_1" HPOS="315" VPOS="739" WIDTH="96" HEIGHT="16">
+							<String ID="string_5" HPOS="315" VPOS="739" WIDTH="96" HEIGHT="16" WC="0.92" CONTENT="Helsingfors."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="272" VPOS="763" WIDTH="154" HEIGHT="3"></Illustration>
+				<GraphicalElement ID="cblock_4" HPOS="450" VPOS="764" WIDTH="53" HEIGHT="2"></GraphicalElement >
+				<Illustration ID="cblock_5" HPOS="793" VPOS="764" WIDTH="26" HEIGHT="2"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_wbxp3sab_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1070" HEIGHT="1742" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1070" HEIGHT="1742">
+				<ComposedBlock ID="cblock_0" HPOS="239" VPOS="844" WIDTH="702" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="239" VPOS="844" WIDTH="702" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="239" VPOS="844" WIDTH="702" HEIGHT="22">
+							<String ID="string_0" HPOS="239" VPOS="844" WIDTH="124" HEIGHT="22" WC="0.95" CONTENT="Helsingfors,"/><SP WIDTH="15" VPOS="844" HPOS="363"/>
+							<String ID="string_1" HPOS="378" VPOS="844" WIDTH="65" HEIGHT="18" WC="0.94" CONTENT="Victor"/><SP WIDTH="13" VPOS="844" HPOS="443"/>
+							<String ID="string_2" HPOS="456" VPOS="845" WIDTH="109" HEIGHT="17" WC="0.93" CONTENT="Pettersson"/><SP WIDTH="13" VPOS="845" HPOS="565"/>
+							<String ID="string_3" HPOS="578" VPOS="845" WIDTH="15" HEIGHT="16" WC="0.92" CONTENT="&amp;"/><SP WIDTH="14" VPOS="845" HPOS="593"/>
+							<String ID="string_4" HPOS="607" VPOS="844" WIDTH="42" HEIGHT="18" WC="0.80" CONTENT="C:os"/><SP WIDTH="13" VPOS="844" HPOS="649"/>
+							<String ID="string_5" HPOS="662" VPOS="844" WIDTH="214" HEIGHT="22" WC="0.89" CONTENT="&#39;Tryckeri-Aktiebolag,"/><SP WIDTH="14" VPOS="844" HPOS="876"/>
+							<String ID="string_6" HPOS="890" VPOS="844" WIDTH="51" HEIGHT="17" WC="0.95" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess__49yqv5g_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1056" HEIGHT="1736" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1056" HEIGHT="1736">
+				<GraphicalElement ID="cblock_0" HPOS="296" VPOS="715" WIDTH="541" HEIGHT="2"></GraphicalElement >
+				<Illustration ID="cblock_1" HPOS="841" VPOS="716" WIDTH="17" HEIGHT="2"></Illustration>
+				<ComposedBlock ID="cblock_2" HPOS="302" VPOS="727" WIDTH="539" HEIGHT="16">
+					<TextBlock ID="block_0" HPOS="302" VPOS="727" WIDTH="539" HEIGHT="16">
+						<TextLine ID="line_0" HPOS="302" VPOS="727" WIDTH="539" HEIGHT="16">
+							<String ID="string_0" HPOS="302" VPOS="727" WIDTH="102" HEIGHT="16" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="9" VPOS="727" HPOS="404"/>
+							<String ID="string_1" HPOS="413" VPOS="727" WIDTH="81" HEIGHT="16" WC="0.90" CONTENT="&#39;Tidnings-"/><SP WIDTH="9" VPOS="727" HPOS="494"/>
+							<String ID="string_2" HPOS="503" VPOS="727" WIDTH="12" HEIGHT="13" WC="0.93" CONTENT="&amp;"/><SP WIDTH="10" VPOS="727" HPOS="515"/>
+							<String ID="string_3" HPOS="525" VPOS="727" WIDTH="183" HEIGHT="16" WC="0.92" CONTENT="Tryckeriaktiebolagets"/><SP WIDTH="12" VPOS="727" HPOS="708"/>
+							<String ID="string_4" HPOS="720" VPOS="727" WIDTH="72" HEIGHT="16" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="10" VPOS="727" HPOS="792"/>
+							<String ID="string_5" HPOS="802" VPOS="727" WIDTH="39" HEIGHT="12" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
