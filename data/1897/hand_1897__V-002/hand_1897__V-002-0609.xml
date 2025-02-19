@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_bwdsang1_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1028" HEIGHT="1656" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1028" HEIGHT="1656">
+				<GraphicalElement ID="cblock_0" HPOS="260" VPOS="740" WIDTH="591" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="296" VPOS="755" WIDTH="544" HEIGHT="17">
+					<TextBlock ID="block_0" HPOS="296" VPOS="755" WIDTH="544" HEIGHT="17">
+						<TextLine ID="line_0" HPOS="296" VPOS="755" WIDTH="544" HEIGHT="17">
+							<String ID="string_0" HPOS="296" VPOS="756" WIDTH="101" HEIGHT="16" WC="0.93" CONTENT="Helsingfors,"/><SP WIDTH="10" VPOS="756" HPOS="397"/>
+							<String ID="string_1" HPOS="407" VPOS="756" WIDTH="81" HEIGHT="16" WC="0.89" CONTENT="Tidnings-"/><SP WIDTH="9" VPOS="756" HPOS="488"/>
+							<String ID="string_2" HPOS="497" VPOS="755" WIDTH="12" HEIGHT="15" WC="0.89" CONTENT="&amp;"/><SP WIDTH="10" VPOS="755" HPOS="509"/>
+							<String ID="string_3" HPOS="519" VPOS="756" WIDTH="193" HEIGHT="16" WC="0.92" CONTENT="Tryckeri-Aktiebolagets"/><SP WIDTH="10" VPOS="756" HPOS="712"/>
+							<String ID="string_4" HPOS="722" VPOS="756" WIDTH="70" HEIGHT="16" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="10" VPOS="756" HPOS="792"/>
+							<String ID="string_5" HPOS="802" VPOS="756" WIDTH="38" HEIGHT="12" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
