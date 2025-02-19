@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_r6_0bf_z_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1070" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1070" HEIGHT="1692">
+				<GraphicalElement ID="cblock_0" HPOS="250" VPOS="768" WIDTH="691" HEIGHT="16"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="642" VPOS="792" WIDTH="220" HEIGHT="17">
+					<TextBlock ID="block_0" HPOS="642" VPOS="792" WIDTH="220" HEIGHT="17">
+						<TextLine ID="line_0" HPOS="642" VPOS="792" WIDTH="220" HEIGHT="17">
+							<String ID="string_0" HPOS="642" VPOS="792" WIDTH="66" HEIGHT="16" WC="0.79" CONTENT="apainon"/><SP WIDTH="9" VPOS="792" HPOS="708"/>
+							<String ID="string_1" HPOS="717" VPOS="792" WIDTH="95" HEIGHT="17" WC="0.95" CONTENT="osakeyhtiö,"/><SP WIDTH="10" VPOS="792" HPOS="812"/>
+							<String ID="string_2" HPOS="822" VPOS="792" WIDTH="40" HEIGHT="14" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="485" VPOS="788" WIDTH="156" HEIGHT="20"></Illustration>
+				<GraphicalElement ID="cblock_3" HPOS="188" VPOS="812" WIDTH="750" HEIGHT="20"></GraphicalElement >
+				<Illustration ID="cblock_4" HPOS="484" VPOS="818" WIDTH="33" HEIGHT="10"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

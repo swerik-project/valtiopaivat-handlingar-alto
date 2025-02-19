@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_w2d1zv5q_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1070" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1070" HEIGHT="1692">
+				<Illustration ID="cblock_0" HPOS="477" VPOS="896" WIDTH="187" HEIGHT="34"></Illustration>
+				<ComposedBlock ID="cblock_1" HPOS="665" VPOS="913" WIDTH="203" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="665" VPOS="913" WIDTH="203" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="665" VPOS="913" WIDTH="203" HEIGHT="22">
+							<String ID="string_0" HPOS="665" VPOS="919" WIDTH="9" HEIGHT="11" WC="0.89" CONTENT="s"/><SP WIDTH="13" VPOS="919" HPOS="674"/>
+							<String ID="string_1" HPOS="687" VPOS="913" WIDTH="115" HEIGHT="22" WC="0.90" CONTENT="Aktiebolag,"/><SP WIDTH="17" VPOS="913" HPOS="802"/>
+							<String ID="string_2" HPOS="819" VPOS="914" WIDTH="49" HEIGHT="16" WC="0.95" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="258" VPOS="913" WIDTH="388" HEIGHT="22">
+					<TextBlock ID="block_1" HPOS="258" VPOS="913" WIDTH="388" HEIGHT="22">
+						<TextLine ID="line_1" HPOS="258" VPOS="913" WIDTH="388" HEIGHT="22">
+							<String ID="string_3" HPOS="258" VPOS="913" WIDTH="119" HEIGHT="22" WC="0.93" CONTENT="Helsingissä,"/><SP WIDTH="14" VPOS="913" HPOS="377"/>
+							<String ID="string_4" HPOS="391" VPOS="914" WIDTH="85" HEIGHT="20" WC="0.91" CONTENT="Osukeyhtiö"/><SP WIDTH="40" VPOS="914" HPOS="476"/>
+							<String ID="string_5" HPOS="516" VPOS="913" WIDTH="66" HEIGHT="17" WC="0.93" CONTENT="Weilin"/><SP WIDTH="15" VPOS="913" HPOS="582"/>
+							<String ID="string_6" HPOS="597" VPOS="914" WIDTH="15" HEIGHT="16" WC="0.92" CONTENT="&amp;"/><SP WIDTH="13" VPOS="914" HPOS="612"/>
+							<String ID="string_7" HPOS="625" VPOS="915" WIDTH="21" HEIGHT="16" WC="0.62" CONTENT="Gå"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="231" VPOS="947" WIDTH="553" HEIGHT="10"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

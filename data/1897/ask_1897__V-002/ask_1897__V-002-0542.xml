@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_460pvljg_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1070" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1070" HEIGHT="1692">
+				<GraphicalElement ID="cblock_0" HPOS="342" VPOS="766" WIDTH="429" HEIGHT="6"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="378" VPOS="783" WIDTH="355" HEIGHT="19">
+					<TextBlock ID="block_0" HPOS="378" VPOS="783" WIDTH="355" HEIGHT="19">
+						<TextLine ID="line_0" HPOS="378" VPOS="783" WIDTH="355" HEIGHT="19">
+							<String ID="string_0" HPOS="378" VPOS="784" WIDTH="98" HEIGHT="18" WC="0.90" CONTENT="Osakeyhtiö"/><SP WIDTH="9" VPOS="784" HPOS="476"/>
+							<String ID="string_1" HPOS="485" VPOS="784" WIDTH="60" HEIGHT="15" WC="0.91" CONTENT="Weilin"/><SP WIDTH="9" VPOS="784" HPOS="545"/>
+							<String ID="string_2" HPOS="554" VPOS="783" WIDTH="14" HEIGHT="16" WC="0.93" CONTENT="&amp;"/><SP WIDTH="10" VPOS="783" HPOS="568"/>
+							<String ID="string_3" HPOS="578" VPOS="784" WIDTH="42" HEIGHT="15" WC="0.91" CONTENT="Göös"/><SP WIDTH="10" VPOS="784" HPOS="620"/>
+							<String ID="string_4" HPOS="630" VPOS="784" WIDTH="103" HEIGHT="18" WC="0.95" CONTENT="Aktiebolag."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="343" VPOS="814" WIDTH="429" HEIGHT="6"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

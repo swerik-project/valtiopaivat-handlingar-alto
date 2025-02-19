@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_8fn3u929_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1070" HEIGHT="1692" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1070" HEIGHT="1692">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="26" WIDTH="1" HEIGHT="341"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="0" VPOS="902" WIDTH="1" HEIGHT="763"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="281" VPOS="759" WIDTH="650" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="284" VPOS="768" WIDTH="162" HEIGHT="17">
+					<TextBlock ID="block_0" HPOS="284" VPOS="768" WIDTH="162" HEIGHT="17">
+						<TextLine ID="line_0" HPOS="284" VPOS="768" WIDTH="162" HEIGHT="17">
+							<String ID="string_0" HPOS="284" VPOS="768" WIDTH="88" HEIGHT="17" WC="0.48" CONTENT="Helsingissä,"/><SP WIDTH="10" VPOS="768" HPOS="372"/>
+							<String ID="string_1" HPOS="382" VPOS="768" WIDTH="64" HEIGHT="14" WC="0.51" CONTENT="Suomalaj"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_4" HPOS="447" VPOS="774" WIDTH="3" HEIGHT="8"></Illustration>
+				<Illustration ID="cblock_5" HPOS="459" VPOS="773" WIDTH="8" HEIGHT="9"></Illustration>
+				<ComposedBlock ID="cblock_6" HPOS="468" VPOS="760" WIDTH="361" HEIGHT="26">
+					<TextBlock ID="block_1" HPOS="468" VPOS="760" WIDTH="361" HEIGHT="26">
+						<TextLine ID="line_1" HPOS="468" VPOS="760" WIDTH="361" HEIGHT="26">
+							<String ID="string_2" HPOS="468" VPOS="773" WIDTH="8" HEIGHT="9" WC="0.90" CONTENT="n"/><SP WIDTH="10" VPOS="773" HPOS="476"/>
+							<String ID="string_3" HPOS="486" VPOS="760" WIDTH="108" HEIGHT="26" WC="0.86" CONTENT="Kirjallisuuden"/><SP WIDTH="9" VPOS="760" HPOS="594"/>
+							<String ID="string_4" HPOS="603" VPOS="760" WIDTH="53" HEIGHT="22" WC="0.74" CONTENT="Seuran"/><SP WIDTH="9" VPOS="760" HPOS="656"/>
+							<String ID="string_5" HPOS="665" VPOS="769" WIDTH="71" HEIGHT="17" WC="0.75" CONTENT="osakeyht."/><SP WIDTH="10" VPOS="769" HPOS="736"/>
+							<String ID="string_6" HPOS="746" VPOS="769" WIDTH="83" HEIGHT="17" WC="0.92" CONTENT="kirjapainos"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_7" HPOS="379" VPOS="794" WIDTH="416" HEIGHT="1"></GraphicalElement >
+				<Illustration ID="cblock_8" HPOS="446" VPOS="794" WIDTH="19" HEIGHT="2"></Illustration>
+				<Illustration ID="cblock_9" HPOS="829" VPOS="759" WIDTH="80" HEIGHT="37"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
