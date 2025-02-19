@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_x5ojtcxb_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1109" HEIGHT="1700" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1109" HEIGHT="1700">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="453" WIDTH="5" HEIGHT="1221"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="383" VPOS="766" WIDTH="497" HEIGHT="85">
+					<TextBlock ID="block_0" HPOS="383" VPOS="766" WIDTH="497" HEIGHT="85">
+						<TextLine ID="line_0" HPOS="529" VPOS="766" WIDTH="205" HEIGHT="25">
+							<String ID="string_0" HPOS="529" VPOS="766" WIDTH="205" HEIGHT="25" WC="0.89" CONTENT="HELSINGISSÄ,"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="383" VPOS="801" WIDTH="497" HEIGHT="20">
+							<String ID="string_1" HPOS="383" VPOS="803" WIDTH="78" HEIGHT="14" WC="0.90" CONTENT="SUOMAL."/><SP WIDTH="10" VPOS="803" HPOS="461"/>
+							<String ID="string_2" HPOS="471" VPOS="803" WIDTH="80" HEIGHT="14" WC="0.92" CONTENT="KIRJALL."/><SP WIDTH="9" VPOS="803" HPOS="551"/>
+							<String ID="string_3" HPOS="560" VPOS="803" WIDTH="69" HEIGHT="14" WC="0.80" CONTENT="SEUBAN"/><SP WIDTH="9" VPOS="803" HPOS="629"/>
+							<String ID="string_4" HPOS="638" VPOS="803" WIDTH="116" HEIGHT="14" WC="0.96" CONTENT="KIRJAPAINON"/><SP WIDTH="9" VPOS="803" HPOS="754"/>
+							<String ID="string_5" HPOS="763" VPOS="801" WIDTH="117" HEIGHT="20" WC="0.96" CONTENT="OSAKEYHTIÖ,"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="601" VPOS="833" WIDTH="59" HEIGHT="18">
+							<String ID="string_6" HPOS="601" VPOS="833" WIDTH="59" HEIGHT="18" WC="0.96" CONTENT="1897."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
