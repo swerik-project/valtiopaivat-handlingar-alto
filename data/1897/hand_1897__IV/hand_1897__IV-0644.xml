@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_yaq4zynr_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.4</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1095" HEIGHT="1770" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1095" HEIGHT="1770">
+				<ComposedBlock ID="cblock_0" HPOS="200" VPOS="496" WIDTH="617" HEIGHT="251">
+					<TextBlock ID="block_0" HPOS="200" VPOS="496" WIDTH="617" HEIGHT="251">
+						<TextLine ID="line_0" HPOS="380" VPOS="496" WIDTH="269" HEIGHT="55">
+							<String ID="string_0" HPOS="380" VPOS="496" WIDTH="269" HEIGHT="55" WC="0.96" CONTENT="Relation"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="200" VPOS="693" WIDTH="617" HEIGHT="54">
+							<String ID="string_1" HPOS="200" VPOS="693" WIDTH="617" HEIGHT="54" WC="0.89" CONTENT="Undsättningsfonden"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="346" VPOS="881" WIDTH="332" HEIGHT="22">
+					<TextBlock ID="block_1" HPOS="346" VPOS="881" WIDTH="332" HEIGHT="22">
+						<TextLine ID="line_2" HPOS="346" VPOS="881" WIDTH="332" HEIGHT="22">
+							<String ID="string_2" HPOS="346" VPOS="881" WIDTH="107" HEIGHT="22" WC="0.89" CONTENT="Åren"/><SP WIDTH="12" VPOS="881" HPOS="453"/>
+							<String ID="string_3" HPOS="465" VPOS="886" WIDTH="213" HEIGHT="17" WC="0.9" CONTENT="1893-1895."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="439" VPOS="1062" WIDTH="68" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
